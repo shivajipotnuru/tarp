@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My map</title>
+<link rel='stylesheet' type='text/css' href='sdk/map.css'/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Lexend+Tera&display=swap" rel="stylesheet">
+<link rel='stylesheet' type='text/css' href='trip_path.css'/>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<script src='sdk/tomtom.min.js'></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="/main">
+       <strong> Planify</strong>
+    </a>
+</nav>
+    <div id="do" > RECOMMENDED ITINERARY <svg class="bi bi-map" width="1em" height="1em" viewBox="0 0 16 16" fill="black" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" d="M15.817.613A.5.5 0 0 1 16 1v13a.5.5 0 0 1-.402.49l-5 1a.502.502 0 0 1-.196 0L5.5 14.51l-4.902.98A.5.5 0 0 1 0 15V2a.5.5 0 0 1 .402-.49l5-1a.5.5 0 0 1 .196 0l4.902.98 4.902-.98a.5.5 0 0 1 .415.103zM10 2.41l-4-.8v11.98l4 .8V2.41zm1 11.98l4-.8V1.61l-4 .8v11.98zm-6-.8V1.61l-4 .8v11.98l4-.8z"/>
+    </svg></div>
+    <div id='map'></div>
+
+    
+
+<script>
+var map = tomtom.L.map('map', { 
+  key: 'qHQvW54KkL6jIhXZLH1KTzEOCAljKBdQ', 
+  basePath: 'sdk', 
+  center: [13.0827, 80.2707], 
+  zoom: 13 
+});
+
+const div = document.createElement('div');
+div.innerText = '<%- JSON.stringify(path1) %>'
+var fpath=JSON.parse(div.innerHTML);
+for(let i=0;i<fpath["curr_path"].length-1;i++){
+    let lat1=fpath["curr_path"][i]["place_details"]["latitude"];
+    let long1=fpath["curr_path"][i]["place_details"]["longitude"];
+    let j=i+1;
+    let lat2=fpath["curr_path"][j]["place_details"]["latitude"];
+    let long2=fpath["curr_path"][j]["place_details"]["longitude"];
+    var coord1=lat1+","+long1+":"+lat2+","+long2;
+    
+    tomtom.routing().locations(coord1)
+  .go().then(function(routeJson) {
+      var route = tomtom.L.geoJson(routeJson, {
+          style: {color: '#00d7ff', opacity: 0.6, weight: 6}
+      }).addTo(map);
+      map.fitBounds(route.getBounds(), {padding: [5, 5]});
+      var marker1=tomtom.L.marker([lat1,long1]).addTo(map); 
+      var address1=fpath["curr_path"][i]["place_details"]["name"];
+      address1+=" :"+(i+1).toString();
+      if(i==0)
+      {let p="";
+      let hr=fpath["curr_path"][0]["curr_end_time_hour"];
+      let min=fpath["curr_path"][0]["curr_end_time_min"];
+      let m=min.toString();
+      if(min<10)
+      m="0"+m;
+      if(hr<12)
+      m+="am";
+      else
+      { if(hr>=13)
+        hr-=12;
+        m+="pm";
+      }
+      p+=hr+":"+m;
+        address1+=" START "+" starting at current time : "+p;
+    }
+     if(i!=0)
+     {
+      let hr=fpath["curr_path"][i-1]["curr_end_time_hour"];
+      let min=fpath["curr_path"][i-1]["curr_end_time_min"]+(Math.floor(fpath["curr_path"][i]["timetakentoreachfromprev"]/60));
+      hr+=Math.floor(min/60);
+      min-=(Math.floor(min/60))*60;
+      let m=min.toString();
+      if(min<10)
+      m="0"+m;
+      if(hr<12)
+      m+="am";
+      else
+      {  if(hr>=13)
+        hr-=12;
+        m+="pm";
+      }
+        address1+="\n ETA: "+hr.toString()+":"+m;
+        address1+="\n RECOMMENDED TIME OF STAY : "+fpath["curr_path"][i]["place_details"]["time"] + " in mins";
+        var curr_date=new Date();
+        var today=curr_date.getDay();
+        let x="";
+        if(today==0 || today==6)
+          {
+            for(let k=0;k<fpath["curr_path"][i]["place_details"]["weekend_open_time"].length;k++)
+            {
+              x+=fpath["curr_path"][i]["place_details"]["weekend_open_time"][k];
+              x+=" to ";
+              x+=fpath["curr_path"][i]["place_details"]["weekend_close_time"][k];
+              if(k!=fpath["curr_path"][i]["place_details"]["weekend_open_time"].length-1)
+              x+=" AND "
+            }
+          }
+        else
+        {
+          for(let k=0;k<fpath["curr_path"][i]["place_details"]["week_open_time"].length;k++)
+            {
+              x+=fpath["curr_path"][i]["place_details"]["week_open_time"][k];
+              x+=" to ";
+              x+=fpath["curr_path"][i]["place_details"]["week_close_time"][k];
+              if(k!=fpath["curr_path"][i]["place_details"]["week_open_time"].length-1)
+              x+=" AND "
+            }
+        }
+        address1+=" OPENING TIMES : "+x;
+     }
+      marker1.bindPopup(address1);
+      var marker2=tomtom.L.marker([lat2,long2]).addTo(map); 
+      var address2=fpath["curr_path"][j]["place_details"]["name"];
+      address2+=" :"+(j+1).toString();
+      let hr=fpath["curr_path"][j-1]["curr_end_time_hour"];
+      let min=fpath["curr_path"][j-1]["curr_end_time_min"]+(Math.floor(fpath["curr_path"][j]["timetakentoreachfromprev"]/60));
+      hr+=Math.floor(min/60);
+      min-=(Math.floor(min/60))*60;
+      let m=min.toString();
+      if(min<10)
+      m="0"+m;
+      if(hr<12)
+      m+="am";
+      else 
+      { if(hr>=13)
+        hr-=12;
+        m+="pm";
+      }
+        address2+="\n ETA: "+hr.toString()+":"+m;
+        address2+="\n RECOMMENDED TIME OF STAY : "+fpath["curr_path"][j]["place_details"]["time"] + " in mins";
+        var curr_date=new Date();
+        var today=curr_date.getDay();
+        let x="";
+        if(today==0 || today==6)
+          {
+            for(let k=0;k<fpath["curr_path"][j]["place_details"]["weekend_open_time"].length;k++)
+            {
+              x+=fpath["curr_path"][j]["place_details"]["weekend_open_time"][k];
+              x+=" to ";
+              x+=fpath["curr_path"][j]["place_details"]["weekend_close_time"][k];
+              if(k!=fpath["curr_path"][j]["place_details"]["weekend_open_time"].length-1)
+              x+=" AND "
+            }
+          }
+        else
+        {
+          for(let k=0;k<fpath["curr_path"][j]["place_details"]["week_open_time"].length;k++)
+            {
+              x+=fpath["curr_path"][j]["place_details"]["week_open_time"][k];
+              x+=" to ";
+              x+=fpath["curr_path"][j]["place_details"]["week_close_time"][k];
+              if(k!=fpath["curr_path"][j]["place_details"]["week_open_time"].length-1)
+              x+=" AND "
+            }
+        }
+        address2+=" OPENING TIMES : "+x;
+      if(j+1==fpath["curr_path"].length)
+      address2+=" STOP ";
+      marker2.bindPopup(address2);
+  });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,494 @@
+name,latitude,longitude,user_rating,category,num_user_rated,vicinity,time
+Amman Temple,12.9746792,80.1905608,4.8,hindu_temple,8,"2nd St, Balaji Nagar, Nanganallur, Chennai",60
+Amman Temple,12.9655473,80.1702404,4.7,hindu_temple,7,"Sangavi Salai, Rajiv Gandhi Nagar, Pallavaram, Chennai",60
+Arthanareeswarar Temple,12.984983,80.1883267,4.7,hindu_temple,1097,"4th Main Rd, Nanganallur, Chennai",60
+Arulmigu Karaneeswarar Temple,13.02476,80.2231759,4.7,hindu_temple,3103,"1, Karaneeswarar Koil St, Suriyammapet, Saidapet, Chennai",60
+Arulmigu Marundeeswarar Temple,12.9848721,80.2605869,4.7,hindu_temple,6591,"8, W Tank St, Lalitha Nagar, Thiruvanmiyur, Chennai",60
+Arulmigu Maruntheeswarar Temple,12.7778037,79.9913814,4.7,hindu_temple,101,"Bharathiya Street, Thirukkachur, Kattankulathur",60
+Arulmigu Ramar temple,13.0057564,80.2435513,4.2,hindu_temple,71,"2nd Street, Sriram Nagar, Tharamani, Chennai",60
+Arulmigu Sri Parthasarathyswamy Temple,13.0538886,80.2770111,4.7,hindu_temple,13470,"Narayana Krishnaraja Puram, Triplicane, Chennai",60
+Arulmigu Thiyagarajaswamy Temple,13.1614504,80.2995869,4.7,hindu_temple,2885,"Sannathi St, Gopal Nagar, Tiruvottiyur, Chennai",60
+Ayyappan Temple,13.0189951,80.2681172,4.8,hindu_temple,2406,"82, Santhome Hwy Road, MRC Nagar, Raja Annamalai Puram, Chennai",60
+Dhandeeswaram temple,12.9858183,80.2238753,4.6,hindu_temple,254,"1st Ave, Karunabigai Colony, Velachery, Chennai",60
+Dharmalingeshwarar Temple,12.971563,80.186374,4.7,hindu_temple,301,"voltas colony main road, 50 ft road, Eswaran Colony, MMTC Colony, Nanganallur, Chennai",60
+Ellaiyamman Temple,12.9701497,80.2370267,4.7,hindu_temple,10,"Ambedkar Nagar, Perungudi, Chennai",60
+Ganesh Temple,13.0003312,80.2519063,4.7,hindu_temple,6,"60/56, Kasturba Nagar 3rd Cross St, Venkata Rathnam Nagar Extension, Venkata Rathinam Nagar, Adyar, Chennai",60
+ganesha Temple,13.0249938,80.2592173,4.7,hindu_temple,7,"Chennai, Ramakrishna Nagar, Raja Annamalai Puram, Chennai",60
+Gangadeeswarar Temple,13.0306667,80.1785053,4.2,hindu_temple,49,"Bajanai Kovil St, Mullai Nagar, Ramapuram, Chennai",60
+Hrudayaaleeswarar Temple,13.1119451,80.0281219,4.8,hindu_temple,360,Thiruninravur,60
+ISKCON,12.9061719,80.2418253,4.6,hindu_temple,10858,"Bhakti Vedanta Swami Road, Off ECR, Akkarai, Sholinganallur, Chennai",60
+Jalakanteswarar Temple,13.001974,80.2417176,4.7,hindu_temple,198,"Delhi Ave, Indian Institute Of Technology, Chennai",60
+Karapakkam Shivan Temple,12.9138419,80.2296553,4.6,hindu_temple,371,"Old Mahabalipuram Rd, Near Karapakkam Bus Stop, Karappakam, Chennai",60
+Lord Nandheeswarar Temple,12.9946438,80.2004915,4.6,hindu_temple,201,"Pedestrian Overpass, TNGO Colony, Adambakkam, Chennai",60
+Mangaleeshwarar Temple,13.0773796,80.2115161,4.2,hindu_temple,34,"782/464, National Highway 48, Arumbakkam, Chennai",60
+Nagamariyamman Temple,13.0112652,80.2540296,0,hindu_temple,0,"1st Cres Park Rd, Gandhi Nagar, Adyar, Chennai",60
+Raja Rajeshwari Temple,12.9895563,80.1916619,4.7,hindu_temple,334,"18th St, Thillaiganga Nagar, Nanganallur, Chennai",60
+Sai Baba Temple,12.9989447,80.2071054,4.6,hindu_temple,36,"47, Link Rd, State Bank Colony, Guindy, Chennai",60
+Selli Amman Temple Pond,12.9591575,80.1825371,4.5,hindu_temple,2,"Selli amman temple, Anbu Nagar, Keelkattalai, Chennai",60
+Shiva Temple,13.1365722,80.132267,4.7,hindu_temple,246,"15/A, N Mada St, Thirumullaivoyal, Chennai",60
+Shore Temple,12.6164515,80.1993321,4.6,place_of_worship,2622,Mahabalipuram,60
+Shri Ashtalakshmi Temple,12.992607,80.2703938,4.5,hindu_temple,5066,"elliots beach, 6/21 paindi Amman Kovil, Besant Nagar, Chennai",60
+"Shri Dhenupureeswarar Temple, Suyambu Lingam",12.8985977,80.1600266,4.8,hindu_temple,3528,"Madambakkam Main Rd, Madambakkam, Chennai",60
+Shri Siddhi Vinayakar Temple,12.9743187,80.1847887,4.7,hindu_temple,15,"3rd Cross St, Lakshmi Nagar IV Stage, AGS Colony, Nanganallur, Chennai",60
+Siddhivinayaka Temple,13.0299262,80.1866931,4.5,hindu_temple,2,"Mari Amman Koil St, Rayala Nagar, Ramapuram, Chennai",60
+Siva Vishnu Temple,12.9713988,80.2180109,4.7,hindu_temple,212,"4th Cross St, Vijaya Nagar, Velachery, Chennai",60
+Siva Vishnu Temple,13.0358799,80.2301333,4.6,hindu_temple,506,"2, Natesan Street, N Usman Rd, T. Nagar, Chennai",60
+Sivan Temple,13.0239969,80.2521738,4.8,hindu_temple,12,"RA Puram, Nandanam, Chennai",60
+Sivanandheswarar Temple.Padal petra temple,13.2451781,80.0955688,4.4,hindu_temple,31,"Sivanandheswarar Temple, Thirukkandalam",60
+Sri Kaalikambal Temple,13.0943711,80.2891129,4.7,hindu_temple,4484,"212, Thambu Chetty St, near DHL Express Courier, Mannady, George Town, Chennai",60
+SRI KURUNGALEESHWARAR TEMPLE,13.0729539,80.1973008,4.8,hindu_temple,167,"Virrugambakkam, Koyambedu, Chennai",60
+Sri Mallikeswarar temple,13.0368545,80.2122543,4.7,hindu_temple,31,"near Metro Station, Zaffarkhanpet, Ashok Nagar, Chennai",60
+Sri Navakkira Temple,13.0201746,80.2047008,0,hindu_temple,0,"No-1, 1st Pillaiyar Koil Street, Gandhi Nagar, Ambal Nagar, Ekkatuthangal, Chennai",60
+Sri Rathnagiriswarar Temple,12.9966226,80.2670521,4.8,hindu_temple,918,"No 1, 6th Cross St, RBI Quarters, Besant Nagar, Chennai",60
+Sri Thulaseeswarar Temple,12.7781646,79.9763285,4.9,hindu_temple,10,Appur R.F.,60
+Sri Vedapureeswarar Temple,13.071588,80.1148152,4.7,hindu_temple,444,"Karpagambal Nagar, Tiruvallur District, Tiruverkadu",60
+Thangavinayakar Temple,13.0347341,80.254204,4.5,hindu_temple,13,"Ramasamy Naicker Street, MIG Colony, Alwarpet, Chennai",60
+Thiru Neelakandeswarar Temple,12.9602767,80.1821367,4.5,hindu_temple,67,"Eashwaran Koil St, Anbu Nagar, Keelkattalai, Chennai",60
+Thrisulanathar Thirukkovil,12.9734702,80.1658456,4.6,hindu_temple,282,"Near Tirusulam Airport, Harbour quaters, Tirusulam, Chennai",60
+Tirumala Tirupati Devasthanam,13.0358333,80.2363889,4.7,hindu_temple,8945,"No 26, Venkatanarayana Rd, Parthasarathi Puram, T. Nagar, Chennai",60
+TNT025 - Thiruvanmiyur Shivan Temple(Padal Petra Temple),12.984957,80.2599861,4.6,hindu_temple,31,"34, East Coast Rd, Ambedkar Nagar, Kamaraj Nagar, Thiruvanmiyur, Chennai",60
+Vadapalani Murugan Temple,13.0528421,80.2135209,4.7,hindu_temple,8118,"Palani Andavar Koil St, Vadapalani, Chennai",60
+Vadapalani Murugan Temple,13.0528421,80.2135209,4.7,hindu_temple,8118,"Palani Andavar Koil St, Vadapalani, Chennai",60
+"Vadaranyeswarar Swamy Temple மாந்தி கோயில்,Padal Petra Temple",13.1302742,79.7746536,4.7,hindu_temple,1175,"Thiruvalangadu Rd, Thiruvalangadu",60
+Varashakthi Vinayagar Temple,12.9523562,80.2363014,4.5,hindu_temple,11,"Sri Sai Nagar, Oggiyamduraipakkam",60
+Velleeswarar Temple,13.0325808,80.2694909,4.7,hindu_temple,870,"25, TSV Koil Street, Sankarapuram, Mylapore, Chennai",60
+Vengeeswarar Temple,13.0487893,80.2124392,4.6,hindu_temple,1247,"36, Sannadhi St, Sarvamangala Colony, Aruna Colony, Vadapalani, Chennai",60
+Vigneshwara Temple,13.0263099,80.2660434,4.5,hindu_temple,2,"S Canal Bank Rd, Jeth Nagar, Mandaveli, Chennai",60
+Vinayak Temple,12.9873361,80.2341772,3.3,hindu_temple,4,"Temple Rd, Indian Institute Of Technology, Chennai",60
+Vyagrapureeswarar Temple,12.7154047,79.9784214,4.5,hindu_temple,54,Thirutheri R.F.,60
+Yoganarasimhar Temple,12.9838859,80.2224318,4.5,hindu_temple,17,"Velachery Main Rd, Ram Nagar, Murugapakkam, Velachery, Chennai",60
+Amma Park,13.175975,80.204503,3.6,park,39,"Grant Lyon, Red Hills, Payasambakkam",60
+Assisi Nagar Park,13.162469,80.2328442,4.7,park,7,"9th St, Assisi Nagar, Madhavaram, Chennai",60
+Baby Nagar Park,12.9791078,80.2290039,3.5,park,410,"2nd Main Rd, Baby Nagar, Velachery, Chennai",60
+Birla Avenue Park,13.1448167,80.2007981,4,park,167,"Surapet Main Rd, Iyappa Nagar Extension, Padmavathi Nagar, Puzhal, Chennai",60
+Chennai Corporation Children's Park,12.9837322,80.2169678,3,park,33,"Ward No. 177, Zone. 40A, 2nd Main Rd, Gangai Nagar, Velachery, Chennai",60
+Chennai Corporation Children's Park,12.9837988,80.2281936,4,park,30,"Shanthi 1st Cross St, VGP Seethapathy Nagar, Velachery, Chennai",60
+Chennai Corporation Park,13.0890553,80.1931069,4.1,park,114,"Block No. 49A, Theravidam, Park Street, Welcome Colony, Anna Nagar West Extension, Chennai",60
+Chennai Corporation Park,13.0956878,80.2573608,3.5,park,68,"Ward 176, Part 17, Park St, Pattalam, Conran Smith Nagar, Ethiraj Gardens, Purasaiwakkam, Chennai",60
+Chennai Municipality Park,13.1238889,80.2004263,3.9,park,53,"Santhosh Nagar, Lakshmipuram, Chennai",60
+Chennai Snake Park Trust,13.004233,80.2386284,4.1,zoo,5862,"Raj Bhavan post, Guindy, Chennai",60
+Children's Park- Adambakkam,12.9846384,80.2047751,4,park,116,"zone.40.a, Ward No.177, Mandalam, Mahalakshmi Nagar, Adambakkam, 600088, 13, 1st Cross St, Lakshmi Nagar, Velachery, Chennai",60
+Collector nagar Park,13.1490231,80.2005403,4,park,158,"2, Collector Nagar St, INTUC Nagar, Puzhal, Kadirvedu",60
+Community Park,13.1236241,79.9206072,3.9,park,228,"Old NGGO Colony, Thiruvallur",60
+Corporation Park,13.0304888,80.2157029,4.1,park,127,"12th Ave, Ragavan Colony, Mettuppalayam, Ashok Nagar, Chennai",60
+Corporation Park,12.9950976,80.2665862,3.8,park,152,"Anna Colony, Besant Nagar, Chennai",60
+Corporation Park,13.0272124,80.2448538,3.9,park,224,"7, Turnbulls Rd, Boat Club Area, Nandanam, Chennai",60
+Corporation Park,12.9759144,80.2178486,3.4,park,36,"1st, Main Rd, BHEL Shakthi Nagar, Devi Karumariamman Nagar Extension, Velachery, Chennai",60
+Corporation Park,12.9776329,80.2099875,4,park,152,"10, 4th Cross St, AGS Colony, Velachery, Chennai",60
+Corporation park,12.9775986,80.2089722,4.6,park,140,"5th St, Saraswathi Nagar, AGS Colony, Adambakkam, Chennai",60
+Dhandeeswaram park,12.9830709,80.2219467,3.7,park,122,"Velachery Bypass Road, No.74-A, Velachery Main Rd, Ram Nagar, Dhadeswaram Nagar, Velachery, Chennai",60
+Gandhi Childrens Park,12.8528776,80.0647917,4,park,102,"11, NCK Avenure, Guduvanchery",60
+Government Park,12.9907615,80.2173863,4.7,park,22,"Indira Gandhi Nagar, Velachery, Chennai",60
+Guindy National Park,13.0049251,80.2378725,4.1,tourist_attraction,17061,"Rangeguindy, Chennai",60
+Kids Park,12.981124,80.2214566,3.9,park,72,"Velachery Main Rd, Dhandeeswaram, Velachery, Chennai",60
+Madhavaram Tree Park,13.1601854,80.2413147,4.3,park,85,"MMC Aavin Quarters, Madhavaram Milk Colony, Chennai",60
+Millennium Park,13.094472,80.1920398,4.1,park,1852,"Park Rd, ONGC Housing, Anna Nagar West Extension, Chennai",60
+Municipality Park,12.9543849,80.1434579,4.1,park,152,"Station Border Rd, Lakshmi Nagar, Shanthi Nagar, Chromepet, Chennai",60
+Municipality Park,12.9741024,80.213953,3.8,park,35,"1st St, Srinivasa Nagar Extension, Ram Nagar, Velachery, Chennai",60
+New Park,13.1302151,80.2853477,4.1,park,151,"Tondiarpet, Chennai",60
+Park,13.016569,80.160384,3.9,park,51,"No.60, Vishwanathan Palani St, VGN Lakshmi Nagar, Mugalivakkam, Chennai",60
+Park,13.0372939,80.1808674,4.1,park,500,"11th St, Chowthri Nagar, Nesapakkam, Chennai",60
+Park,13.1096042,80.1060763,4.3,park,210,"Ram Nagar, Avadi",60
+Park,13.0899344,80.1996471,4.2,park,151,"487, Bharathi Colony, J Block, Ajanta Colony, Anna Nagar, Chennai",60
+Park,13.0703166,80.2276722,4.1,park,158,"Officers Colony, Aminjikarai, Chennai",60
+Park,13.1575217,80.2273346,3.9,park,127,"6, Madavaram Red Hills Rd, Ring Road Housing Sector, Madhavaram, Manjampakkam",60
+Park,13.1124138,80.1004735,4,park,47,"Nehru Nagar, TNHB Mig V Block, Avadi",60
+Park,13.0067951,80.2520226,3.8,park,21,"Gandhi Nagar, Adyar, Chennai",60
+Park,13.1575217,80.2273346,3.9,park,127,"6, Madavaram Red Hills Rd, Ring Road Housing Sector, Madhavaram, Manjampakkam",60
+Park,13.1242193,80.2075174,3.6,park,53,"6/20, Tiru Vi Ka St Thenpalani Nagar, Tiru Vi Ka St, Thenpalani Nagar, Kolathur, Chennai",60
+"Public Park, Kallikuppam",13.1345636,80.1774566,4,park,141,"Hindustan Motor Nagar, Sri Nagar, Kolathur, Chennai",60
+Secretariat Colony Park,13.136236,80.2097783,4.1,park,340,"Secretariat Colony Main Rd, Secretariat Nagar, Lakshmipuram, Chennai",60
+Senthil Nagar Childrens Park,13.1220761,80.2027182,3.8,park,106,"13th St, Periyarnagar, Senthil Nagar, Kolathur, Chennai",60
+Siva sakthi Nagar Park,13.1448869,80.2335473,3.7,park,50,"Madavaram Red Hills Rd, Siva Sakthi Nagar, Madhavaram, Chennai",60
+Surapet park,13.1572144,80.1961505,4.1,park,94,"Kathirvedu Puzhal India, 9, Ambattur Red Hills Rd, Puzhal, Kadirvedu",60
+Thiruvalluvar Park,13.1596258,80.2075714,3.9,park,48,"Mettuppalaiyam Puzhal, Vadaperumbakkam",60
+Tirumullaivoyal Park,13.1327387,80.1274032,4.3,park,130,"SS Nagar, Thirumullaivoyal, Chennai",60
+VGP nagar park,13.1378211,80.2276072,3.8,park,165,"Madhavaram High Rd, Kanakan Chatram, Perambur, Chennai",60
+Vinayagar Temple Children's Park,13.1212681,80.2025439,4.2,park,97,"10th St, Periyarnagar, RK Syndicate Nagar, Kolathur, Chennai",60
+10 Square Mall,13.0704245,80.2027604,3.6,shopping_mall,425,"Ten Square Mall, SH 2, Koyambedu, Chennai",180
+Abirami Mega Mall,13.0861507,80.2480438,3.8,shopping_mall,11466,"152, Purasawalkam High Rd, Lumbini Square, Purasaiwakkam, Chennai",180
+Alsa Mall,13.0686817,80.2572632,3.8,shopping_mall,5337,"Montieth Road, Egmore, Chennai",180
+Ampa Skywalk,13.0734711,80.2214432,4.1,shopping_mall,41097,"No:1, Nelson Manickam Road, 627, Poonamalee High Road, Aminjikarai, Chennai",180
+Bergamo Mall,13.0607902,80.251193,4.1,shopping_mall,1498,"5/3, Khadar Navazkhan Road, Thousand Lights West, Thousand Lights, Chennai",180
+BMR Mall,12.8432745,80.2271694,3.7,shopping_mall,703,Navalur,180
+Challa Mall,13.0398658,80.242849,3.6,shopping_mall,996,"43, 25, Sir Theagaraya Rd, Parthasarathi Puram, T. Nagar, Chennai",180
+Chandra Metro Mall,13.046769,80.1903895,4,shopping_mall,6431,"262, Arcot Rd, Near D Mart, Rajeswari Colony, Virugambakkam, Chennai",180
+Express Avenue,13.0584546,80.2641844,4.4,shopping_mall,76793,"17, Pattullos Rd, Express Estate, Thousand Lights, Chennai",180
+Forum Vijaya Mall,13.0498937,80.2095018,4.4,shopping_mall,80664,"183, Arcot Rd, Vadapalani, Chennai",180
+Gemini Mall,13.0460756,80.2020055,3.7,shopping_mall,3,"Bharani Colony, Vijayaraghavapuram, Saligramam, Chennai",180
+Gold Souk Grande,12.8767197,80.0796273,2.8,shopping_mall,80,"Chennai - Theni Hwy, Peerakankaranai",180
+Grand Square,12.9719922,80.2201966,4,shopping_mall,25701,"137, Velachery - Tambaram Main Rd, V.O.C Nagar, Doctor Seetaram Nagar, Velachery, Chennai",180
+LooLU SHOPPING CENTRE,13.0960205,80.2910357,4.4,shopping_mall,9,"2/3, Mannady Street, Mannady, George Town, Chennai",180
+Phoenix Marketcity,12.9904673,80.2169764,4.5,shopping_mall,84947,"142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai",180
+Ramee Mall,13.0428226,80.2486156,3.8,shopping_mall,4708,"365, Annai Salai, Poes Road, Subbarayan Nagar, Teynampet, Chennai, Tamil Nadu 600018, India, Chennai",180
+Shopping Mall,12.9680037,80.1831264,4,shopping_mall,1,"Moovarasanpet, Bharathiyar Nagar, Keelkattalai, Chennai",180
+Spectrum The Grand Venus Mall,13.1122705,80.2363842,4,shopping_mall,9931,"114, A, 114 B , 3rd floor, Paper Mills Road, Gopal Colony, Perambur, Chennai",180
+Spencer Plaza Mall,13.0615102,80.2614606,3.9,shopping_mall,20619,"768-769, Anna Salai, Chennai",180
+THE MARINA MALL,12.8360379,80.2293307,4.3,shopping_mall,15223,"Old Mahabalipuram Rd, Egattur",180
+VIVIRA MALL,12.8504319,80.2262178,4,shopping_mall,7128,"33, Old Mahabalipuram Rd, Navalur",180
+VR Chennai,13.0805465,80.197132,4.5,shopping_mall,45040,"Inner Ring Rd, Thirumangalam, Anna Nagar, Chennai",180
+S Mall,13.0274084,80.2636165,3.8,shopping_mall,10,"No.2, 3, Devanathan St, Trustpakkam, Mandaveli, Chennai",180
+Krishna Shopping Mall,12.9749172,80.2441681,4.1,shopping_mall,306,"Omr Food Street, No. 10, 2nd Gate, MGR Main Rd, Kandancavadi, Perungudi, Chennai",180
+Yuvaraj Mall,12.8402931,79.7035894,0,shopping_mall,0,"Periya, Kanchipuram",180
+Chengalpattu Fort,12.7005842,79.9777909,3.8,fort,6,"J C K Nagar, Chengalpattu",120
+Chennai Fort MRTS,13.0832203,80.2827773,3.8,fort,9,"Muthuswamy Rd, Park Town, Chennai",120
+Fashion Fort,12.9896011,80.2192562,5,fort,1,"Janakpuri 1st St, TN Police Housing Colony, Velachery, Chennai",120
+Fort Indraprastha,12.9906001,80.2594695,4.2,fort,52,"45, Kalakshetra Rd, Sriram Nagar, Radhakrishnan Nagar, Thiruvanmiyur, Chennai",120
+Fort St GEORGE Ramparts,13.0822783,80.2856072,0,fort,0,"Fort St George, Chennai",120
+Fort St. George,13.0796439,80.2874492,4.2,fort,3858,"Rajaji Rd, near Legislature and Secretariat, Fort St George, Chennai",120
+Kings fort mansion,13.031819,80.1420094,3.5,fort,17,"A5 gsr garden thelliyar agaram, Porur, Chennai",120
+Advent Christian Church Sholinganallur,12.8895107,80.2307997,4.3,church,22,"Sathyavani Muthu St, Sholinganallur, Chennai",60
+AFC Church,13.0787758,80.1777729,3,church,2,"No 1, 37, Church Road, Panneer Nagar, Mogappair East, Chennai",60
+Apostolic Faith Church,13.0804599,80.1799436,4.5,church,76,"No 1, 37, Church Road, Panneer Nagar, Mogappair East, Mogappair, Chennai",60
+Ascension Church,13.068474,80.2229408,4.5,church,272,"23, 4th St, Railway Colony, Aminjikarai, Chennai",60
+Christ Church,13.06605,80.269964,4.3,church,16,"no 55, 56, Anna Salai, Border Thottam, Padupakkam, Triplicane, Chennai",60
+Church Of The Good Shepherd (CSI),13.0449625,80.2605762,4.5,church,187,"67, Dr Radha Krishnan Salai, CIT Colony, Mylapore, Chennai",60
+CSI Church Of Saint John The Baptist,13.0755799,80.2634291,4.4,church,46,"No.497, Pantheon Road, Egmore, Chennai",60
+CSI Emmanuel Church,13.0926853,80.203083,4.6,church,55,"35, Church Street, Anna Nagar West, Thangam Colony, Anna Nagar, Chennai",60
+CSI St. Paul's Church,12.9128308,80.0704274,3.9,church,54,"Mudichur Rd, Mudichur",60
+CSI Wesley English Church,13.0075987,80.1956597,4.6,church,115,"4/2, St. Patrick's Church Road, St. Thomas Mount, Chennai",60
+Emmanuel Methodist Church,13.0866534,80.2596398,4.6,church,162,"48-50, Jeremiah Rd, Vepery, Periyamet, Chennai",60
+Faith Christian Church,13.065849,80.1885814,4.4,church,25,"No.2 A, Madha Koil Street, Nerkundrum Main Rd, Nerkundram, Chennai",60
+Holy Cross Church,13.0332477,80.2396028,4.6,church,97,"90/24, Venkatanarayana Rd, Parthasarathi Puram, T. Nagar, Chennai",60
+Holy trinity church,13.076042,80.1834831,4.5,church,150,"Golden George Nagar, Nerkundram, Chennai",60
+Hope AG Church,12.9270059,80.1991174,4.6,church,130,"1, Velachery Road, Medavakkam, Chennai",60
+Infant Jesus Church,12.972995,80.060032,4.3,church,10,"Kuzandaiyesu Nagar Church Street, Periyar Colony, Nandambakkam, Sirukalathur",60
+Our Lady of Good Health Church,12.8908046,80.1949909,4.8,church,16,"Perumbakkam, Chennai",60
+Our Lady of Light Shrine (Luz Church),13.038147,80.2624346,4.7,church,554,"156, Luz Church Rd, CIT Colony, Mylapore, Chennai",60
+OUR SAVIOUR CHURCH - OSC,13.0370465,80.1228336,5,church,11,"OSC CHURCH, No. 35, 3rd west OSC church street, Chendurpuram, Indira Nagar, Kattupakkam, Chennai",60
+Pallavaram Church of CHRIST,12.9677284,80.1480046,3.5,church,4,"111, Mariamman Koil St, Periyar Nagar, Pallavaram, Chennai",60
+Rose of Sharon AG church,13.055462,80.2298854,4.6,church,175,"18, Zachariah Colony 2nd St, Minor Trustpuram, Choolaimedu, Chennai",60
+Santhome Cathedral Basilica,13.033569,80.277822,4.7,church,9117,"38, Santhome High Rd, Dummingkuppam, Mylapore, Chennai",60
+St Mathew's CSI Church,13.0343407,80.1535647,4.7,church,81,"8, CSI Church St, Jaya Nagar, Porur, Chennai",60
+St. Andrew's Church (The Kirk),13.0795797,80.2640622,4.7,church,367,"Opp Daily Thanthi, #37, Poonamallee High Rd, Egmore, Chennai",60
+St. Antony's Church,12.8674496,80.064205,4.5,church,68,"RC Church Street, PO, Velmurugan Nagar, Annai Anjugam Nagar, Urapakkam, West",60
+St. Pius Church,12.9639193,80.2442127,4.6,church,149,"Church Rd, Ramappa Nagar, Kandancavadi, Perungudi, Chennai",60
+St. Thomas Evangelical Church of India,13.079875,80.197834,4.6,church,26,"36, Pillaiyar Koil St, Anna Nagar West, Koyambedu, Chennai",60
+St. Thomas' Garrison Church,13.0024034,80.1961558,4.6,church,304,"#1, Great Southern Trunk Rd, Mathas Nagar, St.Thomas Mount",60
+The Church of Jesus Christ of Latter-Day Saints,13.0148364,80.2264059,4.5,church,84,"Old No. 8, New No. 23, Taluk Office Rd, Little Mount, Saidapet, Chennai",60
+The Church Of Jesus Christ Of Latter-Days Saints,13.0850726,80.2127487,5,church,19,"74/223, 2nd Ave, Block Y, Y Block, Anna Nagar, Chennai",60
+ECR Beach,12.8918404,80.2536424,4.4,beach,1927,"Sea Shell Ave, Akkarai, Panaiyur, Chennai",60
+Edward Elliot's Beach,12.9988631,80.271761,4.4,beach,3321,"Edward Elliot's Beach, Tamil Nadu, India",60
+Gandhi Beach,13.0401803,80.2812613,4.4,beach,246,"Gandhi Beach, India",60
+Graveside Beach,12.7550862,80.2463065,4.3,beach,116,Kanchipuram,60
+Kalpakkam Beach,12.4997247,80.1601553,4.3,beach,106,"Mosque Rd, Meiyur",60
+Mahabalipuram Beach,12.6121234,80.1969215,4.4,beach,2405,"Mahabalipuram Beach, Tamil Nadu 603104, India",60
+Marina Beach Photo Spot,13.0551109,80.2846086,4.4,beach,1576,"Marina Beach, Triplicane, Chennai",60
+Olive Beach,12.9254561,80.2580138,4.2,beach,202,Chennai,60
+Pallava Beach,12.6344609,80.2016286,4.4,beach,28,"Pallava Beach, Tamil Nadu 603104, India",60
+Panaiyur Beach ECR,12.8827778,80.2522222,4.4,beach,1321,"3/338, Rajaji Road, Panaiyur, Chennai",60
+Sai Beach Resort,12.699315,80.2255134,4.1,beach,7,Nemmeli,60
+Thiruvalluvar Nagar Beach,12.9736122,80.2664556,4.4,beach,599,Chennai,60
+Thiruvanmiyur Beach,12.9756151,80.2669676,4.5,beach,21586,"Water Land Dr Rd, Valmiki Nagar, Thiruvalluvar Nagar, Lakshman Perumal Nagar, Chennai",60
+Tiruvottiyur Beach,13.169452,80.3114742,4,beach,56,"Tiruvottiyur Beach, Tamil Nadu 600019, India",60
+Uthandi Beach,12.8713261,80.2507762,4.4,beach,205,Chennai,60
+Beautiful Beach,12.9214993,80.2568178,4.2,beach,78,"Injambakkam, Harichandra 3rd Cross St, Cholamandal Artists Village, Injambakkam, Chennai",60
+Enfour Beach,13.1326365,80.3017719,4.9,beach,11,"Fishing Harbour, Tondiarpet, Chennai",60
+Covelong Beach,12.7870019,80.2504447,3.9,beach,33,"Covelong, Chennai",60
+Adventure Aero Sports Association,12.963583,80.261626,5,adventure&game,2,"NO.305, Palkalai Nagar, Palavakkam",120
+Adventure Aero Sports Association,12.9637439,80.2617798,4.3,adventure&game,40,"No. 305, 8th Cross St, Palkalai Nagar, Palavakkam, Chennai",120
+Adventures India,13.0536743,80.2339281,4,adventure&game,2,"151, Kodambakkam High Rd, Parthsarathy Puram, T. Nagar, Chennai",120
+"Apache adventure camp Head office-forest camping,tent camp,adventure tour camp in chennai",13.0336742,80.2296273,4.2,adventure&game,9,"#2, Police Quarter's Lane, T. Nagar, Chennai",120
+Beach Adventures,12.6839933,80.2156624,4,adventure&game,85,"169/17, ECR, 5km from Crocodile Park, District-Chennai, Pattipulam",120
+Chennai Adventure Club,13.0658532,80.2102307,4.9,adventure&game,20,"2/16 , 1st Floor, Ambalavanar St, Arumbakkam, Chennai",120
+Freeing India,13.0552914,80.2498353,4.3,adventure&game,758,"123, Ispahani Centre, Nungambakkam High Rd, Chennai",120
+Freeing India,12.99624,80.268823,4.4,adventure&game,485,"E21, 16th Cross St, GOCHS Colony, Besant Nagar, Chennai",120
+Fun & Bowling,12.972018,80.220107,3.7,adventure&game,493,"No.137 Grand Mall 3rd Floor, V.O.C Nagar, Doctor Seetaram Nagar, Velachery, Chennai",120
+Fun 2 Play,12.9213642,80.0924279,4,adventure&game,37,"253/1C2B, First floor SSRComplex, Bharathi Nagar, Mudichur Rd, Tambaram West",120
+Fun Park A/c,13.1253228,79.9109969,4.3,adventure&game,4,"149/1, JN Rd, Hariram Nagar, Poonga Nagar, Kakkalur",120
+Fun Ulagam,12.9242093,80.1143513,3.6,adventure&game,232,"3D,Anop Building, Mudichur Road, IOB, West Tambaram, opposite LNC Textiles, Chennai",120
+Heaven Explorer,13.1359352,80.156315,5,adventure&game,4,"5, 1, Ayirankatha Amman Nagar, Oragadam, Chennai",120
+Kart Attack,12.8965339,80.2459793,4.1,adventure&game,1217,"3, Palm Garden Rd, Akkarai, Injambakkam, Chennai",120
+Kartwheel - Kids Play & Party Zone,13.0025514,80.2552249,4.4,adventure&game,944,"New No.21, Old No.9 Balaram Road, Baktavatsalm Nagar, Adyar, Chennai",120
+Kiddo Castle - Kids Play & Party Zone,12.9306847,80.2315297,4.2,adventure&game,375,"5, Land Mark:, State Highway 49A, 394, Old Mahabalipuram Rd, near Cognizant Technology Solutions, Oggiyamduraipakkam",120
+Kidoos fun park,12.8497859,80.2261861,4.1,adventure&game,77,"OMR food street, near AGS cinemas, Chennai, Navalur",120
+MAGIC Thrills & Adventures (P) Limited,12.7090085,80.2248995,4.2,adventure&game,33,"#451A, East Coast Road, Nemmeli Village, Thiruporur",120
+Monkey Monk,12.6816423,80.2192844,4,adventure&game,265,"No. 109, ECR Road, Pattipulam, Village, Chennai",120
+MOOSAA LAND,12.8492316,80.2258376,4,adventure&game,171,"92, Old Mahabalipuram Rd, Thirumalai Nagar Annexe, Navalur",120
+Moosaland,13.0846146,80.1698676,4.3,adventure&game,38,"1/C1, Kamarajar Salai, Mogappair West, Padmavati Nagar, Virugambakkam, Chennai",120
+Mudstacle Run,12.8725495,80.199568,3.6,adventure&game,5,"Karanai Main Rd, Ottiambakkam, Chennai",120
+Mystery Rooms Chennai,13.0677954,80.2472212,4.5,adventure&game,759,"#24, 2nd Flr (Above Kora), BBCL Magnum, College Rd, Nungambakkam, Chennai",120
+Off Road Sports,12.6816312,80.2146213,3.8,adventure&game,348,"168/3D, Pattipulam, East Cost Road, 2kms from Dolphin city, Chennai",120
+Planet Adventure Paintball,12.9727277,80.2659384,3.8,adventure&game,437,"Shri, Krishna Enclave, No.8, Water Land Dr Rd, Kottivakkam, Chennai",120
+Planet Adventure's Jus' Play,12.9723688,80.2656251,4,adventure&game,1,"No.8, Shri Krishna Enclave, Kottivakkam Beach, Near Bella Ciao, Water Land Dr Rd, Kaveri Nagar, Chennai",120
+Pleeease Mom,13.0586471,80.2646672,3.6,adventure&game,68,"2, Club House Rd, Express Estate, Royapettah, Chennai",120
+Snow Kingdom (Chennai),12.9131665,80.25118,4.6,adventure&game,16160,"SH 49, next to VGP Universal Kingdom, Injambakkam, Chennai",120
+Wild Tribe Ranch,12.7339119,80.2348233,3.6,adventure&game,401,Nemmeli,120
+Blue Lagoon Beach Resort,12.941559,80.255757,3.9,amusement_park,4165,"5/72, East Coast Road, Raja Nagar, Neelankarai",360
+Kishkinta,12.9366488,80.0786805,3.8,amusement_park,4822,"Near, 82, Varadarajapuram, Darkas Ward - II, Tambaram, Chennai",360
+MGM Dizzee World,12.8257501,80.2442984,4,amusement_park,13411,"1/74, State Highway 49, Muthukadu",360
+Queensland Amusement Park,13.0300355,80.0276134,4.1,amusement_park,18647,"Chennai-Bengaluru Highway, Palanjur, Sembarambakkam, Chennai",360
+VGP Universal Kingdom,12.914221,80.250524,4,amusement_park,20361,"State Highway 49, Injambakkam, Chennai",360
+Monkey Monk,12.6816423,80.2192844,4,amusement_park,265,"No. 109, ECR Road, Pattipulam, Village, Chennai",360
+Veera Aqua,13.1913934,80.3127677,3.9,amusement_park,25,"115, Ennore Express Road, Netaji Nagar West, Ennore",360
+Tirusula Nathar Temple Tank,12.9721803,80.1668934,4,amusement_park,45,"Harbour quaters, Tirusulam, Chennai",360
+Dolphin City,12.7010925,80.222357,2.9,amusement_park,33,"State Highway 49, Nemmeli",360
+Wonderla amusement park,12.735753,80.1640998,3.7,amusement_park,35,"Unnamed Road, Illalur RF, Illalur",360
+Chetpet ecopark boat house,13.0751674,80.2407503,0,amusement_park,0,New Bupathy Nagar,360
+Perandur Lake,13.3164959,79.939431,0,amusement_park,0,Perandur,360
+Periya Kulam,13.3027012,79.9242792,0,amusement_park,0,Mambakkam,360
+Islamic Trust in Chennai,13.130024,80.249311,0,mosque,0,"Old No. 140, New no: 173, Tondiarpet High road Kodungaiyur Chennai, Tamil, Nadu",60
+Al-Huda Jumma Masjid,13.0539582,80.2379387,4.6,mosque,50,"24, 30, Kamarajapuram, Nungambakkam, Chennai",60
+MMA Mosque cum Hostel,13.0754156,80.2622884,4.4,mosque,36,"Kennet Lane, Chintadripet, Chennai",60
+Muhyidden juma masjid,13.0978946,80.2655587,0,mosque,0,"10/17,11/19, 2nd street, Pulianthope, Chennai",60
+Masjid E Charminar Ahle Hadees,13.0978265,80.2591877,4.7,mosque,74,"191, Perambur Barracks Road, Dadashamakan, Jamalia, Chennai",60
+Walajah Big Mosque,13.0637766,80.2725435,4.7,mosque,1407,"Triplicane High Road, SVM Nagar, Ellis Puram, Padupakkam, Triplicane, Chennai",60
+Railway Station Mosque,13.0757644,80.246227,4.4,mosque,31,"Chennai,, Pullapuram, Chetpet, Chennai",60
+Noor Masjid,13.1129343,80.2792621,4.7,mosque,40,"26 17/2, Parthasarathi, Main Street, Old Washermanpet, Chennai",60
+Bavuta Masjid-e-Mubaarak,13.1150263,80.284162,4.9,mosque,44,"9, 5, Mottai Garden, Old Washermanpet, Chennai",60
+Mosque,13.0471156,80.2743051,3.9,mosque,22,"Avvai Shanmugam Salai, Sudandira Nagar, Royapettah, Chennai",60
+Ya Muhyideen Masjid and Madarasa,13.126975,80.2779666,0,mosque,0,"2/6, 1st Street, Durga Devi Nagar, Tondiarpet, Chennai",60
+"Jumma Masjid, mylapore",13.0345906,80.2731149,0,mosque,0,"12, Kutchery Road, Madhavaperumalpuram, Mylapore, Chennai",60
+Jumma Mosque,13.0344701,80.273195,4.7,mosque,93,"178, 52, Kutchery Road, Mylapore, Chennai",60
+Ayisha(rali) Educational Trust,13.119622,80.237744,4.7,mosque,18,"2, Main Road, Kennedy Square, Perambur, Chennai",60
+Dargah,13.1342628,80.2777661,4.1,mosque,45,"3rd Street, Nethaji Nagar, Old Washermanpet, Chennai",60
+Edkha Mosque,13.0294086,80.2654081,4.8,mosque,39,"Old No. 236, New No. 30, Saint Marys Road, Mandaveli, Chennai",60
+MASJID E BILAL BIN RUBA,13.1294409,80.2303768,4.9,mosque,61,"No: 8, 'B' Block 5th Street Thanikachalam Nagar Ponniammanmedu Chennai :",60
+Masjid E Huda & Madrasathul Huda,13.0176533,80.2229826,4.2,mosque,13,"Salavaiyalar Colony 2nd Street, No.58/81,Gotha medu, Saidapet, Chennai",60
+Tntj Padi,13.0968941,80.1848108,4.4,mosque,30,"81/63, Padi, Chennai",60
+Masjid noor,13.029523,80.1919187,4.4,mosque,20,"Netaji Subash Chandra Bose Street, Bharathi Nagar, Nesapakkam, Chennai",60
+Masjid E Elahi Mosque,12.9872462,80.2227316,4.6,mosque,121,"No. 31/13, Throwpathy Amman Koil 2nd Street, TN Police Housing Colony, Velachery, Chennai",60
+Taj Traders,13.0363162,80.1500645,4.9,mosque,15,"opp. porur lake, 2/5, Trunk Road, Gandhi Nagar, Chennai",60
+Masjid-e-Sabeel-ul-Huda,12.9364457,80.2508012,4.9,mosque,10,"2/239, 1st Avenue, Vettuvankeni, Chennai",60
+MOSQUE,13.1299112,80.0795836,0,mosque,0,"Anna Nagar, Pattabiram",60
+Masjid-e-Mohammedia,13.1291967,80.0792867,4,mosque,6,"Anna Nagar Main Road, Kariyappa Nagar, Pattabiram",60
+Jumma Masjid,12.8518992,80.0647723,3.4,mosque,5,"6, Grand Southern Trunk Road, Jaibeemnagar, Grand Southern Trunk Road, Jaibeemnagar, Guduvanchery",60
+Barracks Road Masjid,13.0833232,80.2658677,0,mosque,0,Periyamet,60
+Masjid E Mahmood,13.070805,80.2661507,0,mosque,0,Pudupet,60
+Jumma Mosque,13.0904606,80.2821756,0,mosque,0,Sowcarpet,60
+Masjid-e-Sayeedia,13.0633414,80.2688508,0,mosque,0,Border Thottam,60
+Ilayangudi Mosque,13.1022188,80.2917543,0,mosque,0,Seethakadi Nagar,60
+Fakkir Lebbai Mosque,13.0479898,80.2747732,0,mosque,0,Gokulam Colony,60
+Ayanavaram Mosque,13.0972001,80.2324254,0,mosque,0,KK Nagar,60
+Choolaimedu Masjid,13.0647325,80.2303451,0,mosque,0,Thiruvenkatapuram,60
+Madina Mazjid,13.1016866,80.2190165,0,mosque,0,ICF North Colony,60
+Ashok Nagar Masjid,13.0393532,80.2146154,0,mosque,0,Sarvamangala Colony,60
+Mogappair Mosque,13.0789843,80.1710278,0,mosque,0,Mogappair West,60
+khadeeja madarsa (cypher city sembigulam),13.0030287,80.2069728,0,mosque,0,Mela Ilandaikulam,60
+Masjid-e-Ilahi,12.9875669,80.2225024,0,mosque,0,TN Police Housing Colony,60
+J M Hawwa Jummah Masjid,12.9889672,80.2148333,0,mosque,0,TamilNadu Housing Board Colony,60
+Noorul Islam Mosque Ernavoor,13.1928294,80.3111695,0,mosque,0,Ennore,60
+Mosque,13.1071771,80.1356183,0,mosque,0,TNHB Colony,60
+Masjid-E-Mubarak,13.1153808,80.1047757,0,mosque,0,Vivekananda Nagar,60
+Jamiya Masjid,12.9688271,80.1467834,0,mosque,0,Periyar Nagar,60
+Makkah Masjid - Vellakal,12.9286161,80.1824063,0,mosque,0,Medavakkam,60
+Medavakkam Masjid,12.9183678,80.1887706,0,mosque,0,Ranganathapuram,60
+Masjid E Elahi - Santhosapuram,12.915666,80.1707444,0,mosque,0,Santhosapuram,60
+Masjid - Aadhi Nagar - Selaiyur (Near Christ King School),12.9207972,80.1307767,0,mosque,0,Bethelpuram,60
+AMS Masjid,13.146537,80.0604992,0,mosque,0,Muthapudupet,60
+Masjid - Perungalathur,12.9042107,80.0935396,0,mosque,0,New Perungalathur,60
+Masjid - Nedunkundram,12.877335,80.1075463,0,mosque,0,Nedunkundram,60
+Mannivakkam Masjid,12.8910651,80.0690988,0,mosque,0,Mannivakkam Extension,60
+Masjid Munavvar Jumma Mosque & Madarsa,12.8760229,79.9996667,0,mosque,0,Sirumathur,60
+Mosque,12.8221565,80.0444,0,mosque,0,SRM Nagar,60
+ASHAFUS SUUFFA MASJID,12.9276125,79.8752055,0,mosque,0,Sunguvarchatram,60
+Sathyam Cinemas,13.0553551,80.2579667,4.6,movie_theater,46861,"8, Thiruvika Road, Royapettah, Chennai",180
+Kasi Theatre,13.029642,80.2087,4.1,movie_theater,10489,"No:91, 92, Inner Ring Road, Ashok Nagar, Chennai",180
+AGS Cinemas,12.8505011,80.2256851,4.1,movie_theater,20479,"Coromandel Plaza, 5th Floor, 87/1A, Old Mahabalipuram Road, Navalur",180
+S2 Cinemas Perambur,13.112285,80.236243,4.3,movie_theater,13939,"2nd Floor Spectrum Mall, Paper Mills Road, Perambur, Chennai",180
+Kamala Cinemas,13.0490233,80.2100967,4.3,movie_theater,12959,"156, Arcot Road, Vadapalani, Chennai",180
+Ega Theatre,13.0778811,80.2404623,3.9,movie_theater,10504,"810, Poonamallee High Road, Vasu Street, Kilpauk, Chennai",180
+Rakki Cinemas,13.1227884,80.1474598,4.1,movie_theater,17650,"No.1, Ambattur Red Hills Road, Ambattur, Chennai",180
+Ganapathy Ram Theatre,13.0039687,80.2563222,2.9,movie_theater,3535,"101, LB Road, Baktavatsalm Nagar, Adyar, Chennai",180
+Varadharaja Theatres,12.9377829,80.1390337,4.2,movie_theater,7805,"190/2B, 1st Main Road, Chitlapakkam, Chennai",180
+S2 Theyagaraja,12.9895125,80.2564385,4.3,movie_theater,21877,"60, LB Road, Thiruvanmiyur, Chennai",180
+Palazzo Cinemas,13.0504652,80.2096475,4.6,movie_theater,41809,"3rd Floor The Forum Vijaya Mall NSK Salai, Arcot Road, Vadapalani, Chennai",180
+Inox,13.0429507,80.2737903,4.1,movie_theater,9268,"3rd Citi Center, Doctor Radha Krishnan Salai, Mylapore, Chennai",180
+AGS Cinemas,13.0474385,80.2449434,4.1,movie_theater,15261,"No. 24, opp.to barathidasan hospital, 1, Gopathi Narayanaswami Chetty Road, T. Nagar, Chennai",180
+SPI CINEMAS,13.0408793,80.2560624,4.5,movie_theater,52,"1/1, Venus Colony, Teynampet, Chennai",180
+PVR Skywalk,13.073498,80.221108,4.1,movie_theater,13490,"Nelson Manickam Road, Aminjikarai, Chennai",180
+teentalkstudio,13.054501,80.211422,0,movie_theater,0,"Raahat Plaza, besment shop no 10, 172, Arcot Road, Vadapalani, Chennai",180
+Rohini Silver Screens,13.0757486,80.1958707,3.9,movie_theater,23377,"141/2, Poonamallee High Road, Koyambedu, Chennai",180
+AVM Studios,13.0455608,80.2044427,4.1,movie_theater,981,"38, Arcot Road, AV Meiyappan Road, Ottagapalayam, Chennai",180
+Chennai's Visualite film Institute | Photography | Cinematography |Direction |Acting | Viscom Course,13.0012552,80.2544007,5,movie_theater,209,"29/14, Kamaraj Avenue 2nd Street, Indira Nagar, Venkata Rathinam Nagar, Adyar, Chennai",180
+Chandra Metro Mall,13.046769,80.1903895,4,movie_theater,6431,"Near D Mart, 262, Arcot Road, Rajeswari Colony, Virugambakkam, Chennai",180
+Jazz Cinemas Luxe,12.9906971,80.2167184,4.6,movie_theater,35438,"Phoenix Market City, No. 142, 2nd Floor, Velachery Main Road, Indira Gandhi Nagar, Velachery, Chennai",180
+Shivakumar Raju,13.061238,80.163899,0,movie_theater,0,"Maduravoyal, Chennai",180
+Inox National Virugambakkam,13.0470303,80.1903285,3.9,movie_theater,12536,"Arcot Road, Chandra Metro Mall, Virugambakkam Old 92, New 262, Chennai",180
+PVR Cinemas,12.9719462,80.2205255,4.1,movie_theater,17720,"3rd Grand Square Mall 137, Tambaram, Velachery - Tambaram Main Road, Velachery, Chennai",180
+Kumaran Cinemas,12.9720725,80.1914614,3.6,movie_theater,7441,"5, Muthu Mohamed Street, Puzhuthivakkam, Madipakkam, Chennai",180
+Shree Radha Movie Park A/C,13.1930996,80.1834342,3.6,movie_theater,678,"GNT Road, Redhills, Padianallur",180
+Prarthana Beach Drive-in Theatre,12.9298946,80.2522815,3.8,movie_theater,4417,"State Highway 49, Injambakkam, Chennai",180
+Mayajaal Multiplex,12.8480384,80.2398611,4,movie_theater,40451,"34/1 East Coast Road Kanathur, Chennai",180
+Tik Prime,12.9193728,80.0833894,0,movie_theater,0,"# 25, Ranganayagi Street, Manavalan Nagar, Old Perungalathur, Chennai",180
+VVM Cinemas,13.33569,80.1947328,2.9,movie_theater,211,"57,Newcar Street, Thiruvallur Dist, Ponneri",180
+Vettri Theatres 4K 3D,12.9546678,80.1416564,4.1,movie_theater,18972,"511, Great Southern Trunk Road, Chromepet, Chennai",180
+Sree Gopi Krishna Complex,13.0948593,80.2272743,3.1,movie_theater,2500,"13, Muthamman Koil Street, Ayanavaram, Chennai",180
+Sri Brinda Theater,13.1197413,80.2421984,3.3,movie_theater,2298,"129, Madhavaram High Road, Perambur, Chennai",180
+Bharath Theatre,13.1102599,80.2797875,4.1,movie_theater,2191,"40, Dr.Vijayaraghavalu Road, Old Washermanpet, Chennai",180
+Govt. Certified Diploma Courses |Photography| Sound Engineering |Direction| Cinematography|Acting,13.032575,80.2166428,4.8,movie_theater,16,"15, 62nd Street, Indira Colony, Ashok Nagar, Chennai",180
+AnandRishi Productions,13.0838603,80.2633784,3.6,movie_theater,15,"2, Brethapet Road, Park Town, Chennai",180
+Marudhar Studio,13.0990815,80.278156,4,movie_theater,17,"69/30, Krishnappa Tank Street, Kondithope, Chennai",180
+Metropeep tv Entertainment Media,13.0658701,80.2532126,5,movie_theater,7,"2nd floor, Buhari bulindings, 3, Moores Road, Chennai",180
+BLACKHAWK STUDIOS,13.0529707,80.2789383,0,movie_theater,0,"Venkatrangam Street, Triplicane, Chennai",180
+IDream Cinemas,13.116162,80.2931543,4,movie_theater,4242,"No. 87, Suryanarayana, Thambu Chetty Street, Kalmandapam, Royapuram, Chennai",180
+Pandian Cinema Hall,13.1255228,80.2787638,0,movie_theater,0,"11, Parthasarathi Street, Old Washermanpet, Chennai",180
+Agastya Theatre,13.1245833,80.2890831,0,movie_theater,0,"232, Thiruvottiyur High Road, Tondiarpet, Chennai",180
+Sri Pandiyan,13.1285633,80.2727091,0,movie_theater,0,"15, Kamarajar Salai, Kodungaiyur, Chennai",180
+Cinesales Corporation,13.0613668,80.2273401,0,movie_theater,0,"192, Anna Road, Anna Road, Chennai",180
+4th street Creation,13.034136,80.2502599,5,movie_theater,1,"Alwarpet Street, Phase 4, Alwarpet, Chennai",180
+GREEN MATTE STUDIO,13.0525896,80.2189259,4.5,movie_theater,28,"34/17, South, Sivan Kovil Road, Power House, Kodambakkam, Chennai",180
+CtcMediaboy,13.054426,80.204856,4.6,movie_theater,5,"No 17, 16/4, First Floor, Second Street, Dhanalakshmi Colony, Vadapalani, Chennai",180
+ICONIC CINEMA,13.0542689,80.2024927,0,movie_theater,0,"No 50/8 C4,2nd Floor, Sairam Appartment, Harikrishnan Street, Saligramam, Chennai",180
+Alpine Media Films & Productions,13.0674519,80.1972569,0,movie_theater,0,"Sriji Majestic Commercial Complex, F17, Koyambedu, Chennai",180
+META - Maya Export Training Academy,13.06122,80.1987054,5,movie_theater,52,"No.18, 72, Jakkamal Koil Street, Postal audit colony, Saligramam, Chennai",180
+Raj Cinema Hall - Chennai,13.0194283,80.2240107,0,movie_theater,0,"20, Abdul Razzak Street, Saidapet, Chennai",180
+THE SOUTH INDIAN COMPANY,13.0429169,80.197391,4.3,movie_theater,3,"46/5, 53rd Street, Sector 9, K. K. Nagar, Chennai",180
+Vavents Studio,13.0381823,80.1944041,5,movie_theater,6,"1228, 77th Street, Ponnambalam Colony, Sector 12, K. K. Nagar, Chennai",180
+Ungalal Oruvan,13.0155604,80.2085475,0,movie_theater,0,"Guindy, Chennai",180
+Cinibeats,13.0506587,80.180703,0,movie_theater,0,"1A, Main Road, Syndicate Colony, Alwartirunagar, Valasaravakkam, Chennai",180
+SR Theatre A/C DTS SONY 4K,13.0127168,80.2038613,0,movie_theater,0,"103, Great Southern Trunk Road, Guindy, Maduranthakam",180
+Shree Radha Bala Multiplex,13.1584266,80.2040113,0,movie_theater,0,"3, Dr. Ambedkar Street, Red Hills, Chennai",180
+SK - MARLEN Cinemas,13.001838,80.2039453,3.1,movie_theater,2658,"Subramania Mudali Street, No:18, Appavu Street, Alandur, Chennai",180
+PVR: Grand Galada Chennai,12.978953,80.161894,4.2,movie_theater,23104,"PVR LTD Grand Galada Mall Kohinoor-2, Chennai",180
+Sundar Multiplex,13.0352691,80.1552711,0,movie_theater,0,"32, Trunk Road, Poonamallee, Chennai",180
+Arunmathi Theatre,12.9776861,80.1308357,3,movie_theater,468,"No 31, 7th Street, Anakaputhur",180
+GODSHIKA,12.9677431,80.1254378,0,movie_theater,0,"9, Gandhi Nagar Main Road, Shankar Nagar, Pammal, Chennai",180
+MR Cinema Hall,12.9393146,80.12997,0,movie_theater,0,"49, Great Southern Trunk Road, Tambaram, Chennai",180
+Government Museum Chennai,13.0716298,80.2567955,4.3,museum,9511,"Government Maternity Hospital, Pantheon Road, Egmore, Chennai",120
+Philatelic Bureau,13.0672026,80.2697426,4.3,museum,25,"Anna Salai, Chennai",120
+MGR Memorial House,13.0385945,80.2416468,4.4,museum,695,"27, Arcot Street, T. Nagar, Chennai",120
+Foundation Of Occupational Development,13.0452808,80.2121145,4.3,museum,3,"C-block, 1st Floor, Bharathiar Complex, 100, Feet Road, Vadapalani, Vadapalani, Chennai",120
+Tamilnadu Science and Technology Center,13.0124683,80.2438056,4,museum,289,"Gandhi Mandapam Road, Guindy, Chennai",120
+Edge Design House,13.0040429,80.2500045,4.6,museum,11,"Old No:32, New No:26 Vijay Mahal, 5th Main Road, Kasturba Nagar Adyar, Chennai",120
+Dakshina Chitra Museum,12.823037,80.2420451,4.4,museum,10281,"State Highway 49, Muthukadu",120
+Science City,13.0133831,80.242994,4.2,museum,189,"Planatarium Campus, Gandhi Mandapam Road, Chennai",120
+Vivekananda House,13.0498494,80.2804094,4.5,museum,5930,"Kamaraj Salai, Marina Beach Road, Triplicane, Chennai",120
+Chennai Rail Museum,13.100308,80.2073677,4.4,museum,4624,"next to ICF Furnishing Division, New Avadi Road, Villivakkam, Chennai",120
+Chennai Rail Museum,13.0826333,80.2749465,4,museum,9,"Kannappar Thidal, Periyamet, Chennai",120
+Chennai central station,13.0828453,80.2752807,4.3,museum,238,"Puratchi Thalaivar Dr MGR Central railway station, Kannappar Thidal, Periyamet, Chennai",120
+T M Gembu Chetty,13.086074,80.279364,5,museum,2,"Old No. 158 C, New No. 129 c, Rasappa Chetty Street,, Chennai",120
+Fort St. George,13.0796439,80.2874492,4.2,museum,3858,"near Legislature and Secretariat, Rajaji Road, Chennai",120
+Perarignar Anna Museum,13.0662097,80.2850929,4.4,museum,51,"Navalar Nagar, Chepauk, Triplicane, Chennai",120
+Kalainar Karunanithi Memorial,13.0659612,80.2857913,3.3,museum,3,"Navalar Nagar, Chepauk, Triplicane, Chennai",120
+Global Marble Emporium,13.053664,80.211943,4.8,museum,47,"64/1, Inner Ring Road, Thirunagar, Vadapalani, Chennai",120
+Thattan Kulam Pond,13.1466876,80.231061,3.6,museum,11,"Kanmal Nagar, Madhavaram, Chennai",120
+Magic Mirage Science,13.0571361,80.1932459,5,museum,1,"#257, 2nd Main Road, Natesa Nagar, Virugambakkam, Chennai",120
+SRI KOLHAPURI - The Doll Factory,12.9730711,80.1898352,4.7,museum,38,"1, 5th Street, Nanganallur, Chennai",120
+Click Art Museum,12.91321,80.2513047,4.2,museum,745,"159, 5/108 5/108, State Highway 49, Akkarai, Injambakkam, Chennai",120
+"The Raintree, Anna Salai",13.033861,80.243921,4.4,restaurant,6810,"636, Anna Salai, Teynampet, Chennai",90
+Radisson Blu Hotel Chennai,12.9944534,80.1875061,4.3,restaurant,5257,"531, Chennai - Theni Highway, St.Thomas Mount",90
+"Lemon Tree Hotel, Chennai",13.0111566,80.2246885,3.9,restaurant,3491,"72, Sardar Patel Road, Venkta Puram, Guindy, Chennai",90
+Grand by GRT Hotels,13.0401407,80.2451383,4.4,restaurant,10382,"120, Sir Theagaraya Road, Drivers Colony, T. Nagar, Chennai",90
+Barbeque Nation - Chennai - T Nagar,13.0469296,80.2349447,4.2,restaurant,7183,"near The Grand Sweets, No. 39, 1st Floor, Star City Serviced Apartment Ground Floor, near The Grand Sweets, Bazullah Road, T. Nagar, Chennai",90
+New Woodlands Hotel,13.045397,80.2621209,4.2,restaurant,7243,"72 & 75, Doctor Radha Krishnan Salai, Mylapore, Chennai",90
+Ginger Hotel Chennai (Vadapalani),13.0564722,80.2111602,3.7,restaurant,2248,"61, Inner Ring Road, NGO Colony, Vadapalani, Chennai",90
+Anjappar Chettinad Restaurant Nungambakkam,13.0558391,80.2484305,3.8,restaurant,1490,"Rosy Tower, 7/2, Nungambakkam High Road, Nungambakkam, Chennai",90
+Sangeetha Veg Restaurant,13.0070607,80.250072,4.2,restaurant,12022,"Shop No: 7, near Reliance Digital, 1st Main Road, Gandhi Nagar, Adyar, Chennai",90
+MGM Eastwoods,12.9106138,80.2498873,3.9,restaurant,1069,"1, 240, State Highway 49, Injambakkam, Chennai",90
+Adyar Ananda Bhavan Pure Vegetarian Restaurant - Adyar,13.0057837,80.2574872,4.1,restaurant,4259,"No. 9, Near Adyar Manere LB Road Gandhi Nagar, Shastri Nagar, Adyar, Chennai",90
+Crimson Chakra,13.0106705,80.2540675,3.7,restaurant,1248,"#13, 1st, Crescent Road, Gandhi Nagar, Adyar, Chennai",90
+Benjarong - Thai Restaurant,13.03174,80.2518265,4.4,restaurant,1113,"146, TT Krishnamachari Road, Alwarpet, Chennai",90
+Hotel Saravana Bhavan,13.0412278,80.235571,3.6,restaurant,3214,"102, Sir Theagaraya Road, Pondy Bazaar, Parthasarathi Puram, T. Nagar, Chennai",90
+The Cascade,13.0601823,80.2480818,4.2,restaurant,888,"1632, Platinum Tower 2nd Floor, Khader Nawaz Khan Road, Thousand Lights West, Nungambakkam, Chennai",90
+Raj Park Hotel Chennai,13.0442798,80.2593323,4,restaurant,3447,"180, TT Krishnamachari Road, Alwarpet, Chennai",90
+Cream Centre,13.0671679,80.2460597,4.3,restaurant,2594,"45, College Road, Subba Road Avenue, Nungambakkam, Chennai",90
+10 Downing Street,13.0430687,80.244168,4.1,restaurant,5465,"Kences Inn, 50, North Boag Road, T. Nagar, Chennai",90
+Subway,13.0826252,80.211007,4.4,restaurant,1668,"AC 112, 4th Avenue, Shanthi Colony, Anna Nagar, Chennai",90
+Blue Lagoon Beach Resort,12.941559,80.255757,3.9,restaurant,4165,"5/72, East Coast Road, Raja Nagar, Neelankarai",90
+Rain Forest,13.0071695,80.257713,4.1,restaurant,5017,"41 & 42, 1st Main Road, Gandhi Road, Adyar, Chennai",90
+Hotel City Tower,13.0846097,80.2760267,3.8,restaurant,1023,"148, Wall Tax Road, Park Town, Central",90
+"The Pride Hotel, Chennai",13.0787667,80.2490373,3.8,restaurant,2256,"216, E V R Periyar Salai, Near Sangam Cinema Poonamalle, High Road, Kilpauk, Chennai",90
+Park Avenue Hotel,13.0640204,80.2437126,3.9,restaurant,711,"No. 67, 84, Nungambakkam High Road, Block Z, Tirumurthy Nagar, Nungambakkam, Chennai",90
+Maple Tree Hotels,13.0550071,80.211257,3.7,restaurant,1733,"near City Union Bank, No.77, Inner Ring Road, Vadapalani, Chennai",90
+Hot Chips Veg Restaurant,13.006459,80.244743,3.5,restaurant,2083,"near CLRI, Ramco Systems, New #52, near CLRI, Ramco Systems, Sardar Patel Road, Adyar, Chennai",90
+Sigree Global Grill,13.0530441,80.2483127,4,restaurant,2925,"4th Floor, No: 11, Kodambakkam High Road, Nungambakkam, Chennai",90
+Murugan Idli Shop,13.0453721,80.2328574,4.1,restaurant,6618,"46/13, North Usman Road, Parthasarathi Puram, T. Nagar, Chennai",90
+Hotel Raaj Bhaavan,13.0558551,80.2476916,3.7,restaurant,1111,"4, Doctor Thirumoorthy Nagar Main Road, Tirumurthy Nagar, Nungambakkam, Chennai",90
+Hotel Saravana Bhavan,13.0853532,80.2521809,3.5,restaurant,2301,"1, Vellala Street, Purasaiwakkam, Chennai",90
+"Hotel Saravana Bhavan Chennai, Egmore",13.076808,80.262252,3.6,restaurant,3211,"21, Kennet Lane, Egmore, Chennai",90
+Keys Select Hotel Katti Ma,12.990265,80.258568,4,restaurant,1370,"11, 23, Kalakshetra Road, Thiruvanmiyur, Chennai",90
+Adyar Ananda Bhavan Sweets & A2B Veg Restaurant - Nungambakkam,13.0644215,80.243309,3.9,restaurant,900,"No.1/9 &1, 10, Wheat Croft Road, Seetha Nagar, Nungambakkam, Chennai",90
+Tuscana Pizzeria at Wallace Garden,13.0616706,80.2497568,4.1,restaurant,816,"Wallace Garden, Nungambakkam, 19, 3rd Street, Thousand Lights West, Thousand Lights, Chennai",90
+Subway,12.985678,80.2456202,4,restaurant,903,"International Tech Park, CSIR Road, Tharamani, Chennai",90
+Hotel Blue Diamond,13.0790264,80.2532858,3.9,restaurant,448,"934, E.V.R.Periyar Salai,Poonamalle High Road, Chennai",90
+Kumarakom Restaurant,13.0531671,80.2484995,3.8,restaurant,1720,"Gemini Parson Complex, No: 3A/3, New, No 9, Kodambakkam High Road, Near, Nungambakkam, Chennai",90
+McDonald's,13.0739162,80.2211861,4.1,restaurant,1824,"No 1 Jn, Ampa Skywalk 627 Poonamalle High Rd, Nelson Manickam Road, Chennai",90
+Hotel Nayagara,13.0521392,80.2278466,3.6,restaurant,809,"No.15, United India Colony, 2nd Cross, Station View Road, Kodambakkam, Chennai",90
+Wangs Kitchen - Opposite to Temenos,13.0655421,80.2430627,3.6,restaurant,496,"G-7, Gee Gee Emerald, # 151, Village, Road, Nungambakkam, Chennai",90
+Dahlia Restaurant,13.0624689,80.2452122,4.5,restaurant,214,"No 37, Kaveri Complex, 96, Nungambakkam High Road, Subba Road Avenue, Nungambakkam, Chennai",90
+Shri Rajasthani Dhaba Restaurant,13.0849281,80.2040645,4.3,restaurant,3270,"Shop No. C40, 3rd Floor, 2nd Avenue Road, Anna Nagar, Near Adyar Ananda Bhavan, Chennai",90
+Fruit Shop on Greams Road,13.0603224,80.2544789,4.3,restaurant,1541,"near Apollo Hospital, 11, Greams Road, Thousand Lights, Chennai",90
+Apoorvas Sangeetha Veg Restaurant,13.0564923,80.2554904,3.9,restaurant,1332,"65, Greams Road, Thousand Lights, Chennai",90
+Hotel Saravana Bhavan,13.0543886,80.2562069,3.4,restaurant,3262,"133 & 134, Peters Road, Ganapathy Colony, Gopalapuram, Chennai",90
+KFC,13.0534635,80.2475204,3.7,restaurant,1691,"No 172, Kodambakkam High Road, Tirumurthy Nagar, Nungambakkam, Chennai",90
+Amaravathi Restaurant,13.0450725,80.2593514,3.9,restaurant,3427,"opp. Music Academy, 1, Cathedral Road, Parthasarathypuram, Mylapore, Chennai",90
+Azzuri Bay,13.0111192,80.2538252,4.1,restaurant,2098,"13, 1st Crescent Park Road, Gandhi Nagar, Adyar, Chennai",90
+Sangeetha Veg Restaurant,13.0083135,80.21055,3.9,restaurant,4888,"65, Anna Salai, Guindy, Chennai",90
+Marina Inn,13.0753418,80.2591581,3.8,restaurant,1351,"55/31, Gandhi Irwin Road, Egmore, Chennai",90
+Anjappar Chettinad Restaurant R K Salai,13.0443719,80.2657347,3.7,restaurant,1304,"71, Doctor Radha Krishnan Salai, Thulukkanam Thottam, Mylapore, Chennai",90
+Pizza Hut,13.0004966,80.2526614,3.9,restaurant,664,"61, Kasturba Nagar 3rd Cross Street, Adyar, Chennai",90
+China Town,13.0458949,80.2580483,4.2,restaurant,760,"#74, Third Floor, Cathedral Road, Pudupet, Gopalapuram, Chennai",90
+Amma Chettinadu Restaurant,13.0480314,80.2445178,4,restaurant,1793,"Near Bharathi Rajaa Hospital, 1, Giri Road, T. Nagar, Chennai",90
+"Chokhi Dhani, Chennai",13.0108795,80.0073027,4.1,restaurant,5699,"NH-4, Near Queensland Theme Park, Kevlur Road Tandalam, Sriperumbudur, Chennai",90
+Ente Keralam,13.0833219,80.2102017,3.8,restaurant,1225,"No.61, 5th Avenue, Shanthi Colony, Anna Nagar, Chennai",90
+Pizza Hut,13.0444064,80.2655655,3.8,restaurant,1198,"Ace Tower, 73, RK Salai, Anna Salai, Mylapore, Chennai",90
+Domino's Pizza,13.1156605,80.244601,4,restaurant,1352,"Plot No, beside Revathi Stores, 111, Melpatti Ponnappan Street, பெரம்பூர், சென்னை",90
+Kings Hotel Egmore #Rooms #Bar #Restaurant #BanquetHall #Partyhall,13.0725273,80.2548587,3.8,restaurant,905,"32, Halls Road, Egmore, opp Egmore Baby Hospital, Chennai",90
+Opal Inn Hotel,12.9966639,80.2587124,3.8,restaurant,32,"15, Mahatma Gandhi Road, Nungambakkam, Chennai",90
+Radisson Blu Hotel Chennai,12.9944534,80.1875061,4.3,restaurant,5257,"531, Chennai - Theni Highway, St.Thomas Mount",90
+The French Loaf,13.0557822,80.2349104,3.6,restaurant,196,"80, Mahalingapuram Main Road, Mahalingapuram, Nungambakkam, Chennai",90
+Hot Chips Veg Restaurant,13.006459,80.244743,3.5,restaurant,2083,"near CLRI, Ramco Systems, New #52, near CLRI, Ramco Systems, Sardar Patel Road, Adyar, Chennai",90
+Barista,12.9990934,80.270669,3.9,restaurant,578,"No M, 29/4, 25th Cross Street, Besant Nagar, Chennai",90
+Mash Resto-Café Besant Nagar,13.0027885,80.2722267,4.1,restaurant,1413,"1st Floor, 13, 5th Avenue, Urrur Kuppam, Besant Nagar, Chennai",90
+Hot Chips Veg Restaurant,12.9286222,80.1144833,3.7,restaurant,976,"Old No 9 New No 67, Rajaji Road, Venkatesan Street, Opp National Theater, West Tambaram, Chennai",90
+Hot Chips Veg Restaurant,13.0886288,80.2867911,3.7,restaurant,1353,"225, NSC Bose Road, Parry's Corner, Chennai",90
+Cafe Amin,13.0513692,80.2641501,4.1,restaurant,1126,"No. 21, Royapettah High Rd, Opposite to Police Station, Azad Nagar, Royapettah, Chennai",90
+Coffeetales,13.0817903,80.2249971,4.3,restaurant,518,"7, 7th West Cross Street, Shenoy Nagar West, Bharathi Puram, Annanagar East, Chennai",90
+Hot Chips Veg Restaurant,12.9567456,80.2553724,3.5,restaurant,2753,"No: 2/546, East Coast Road, Neelangarai, Near Antony church, Chennai",90
+Doveton Cafe,13.0866669,80.2581204,3.9,restaurant,4917,"No.5, Purasawalkam High Road, Purasaiwakkam, Chennai",90
+Hot Breads,13.0147263,80.224472,3.7,restaurant,158,"7/2, Anna Salai, Saidapet, Chennai",90
+Hot Chips Veg Restaurant,13.0850088,80.2031159,3.8,restaurant,2514,"Tovo Canteen, C-44 12th Main Road, 2nd Avenue, Anna Nagar, Chennai",90
+Hot Chips Veg Restaurant,12.9797185,80.2276573,3.6,restaurant,3463,"3, 1st Main Road, Baby Nagar, Velachery, Chennai",90
+ID SATHYAM,13.055433,80.258131,4.4,restaurant,487,"1st Floor, Plot No. 8, Sathyam Cinemas, Thiruvika Road, Peters Colony, Royapettah, Chennai",90
+Brew,13.0614009,80.2638916,4.5,restaurant,2,"Taj Club House, No. 2, Club House Road, Chennai",90
+Akshayas Snack Corner,12.9200017,80.1446282,4.2,restaurant,15,"No 46, 2nd Main Road, Sundaram Colony, Selaiyur, Chennai",90
+Grand Star,12.8424529,80.0578065,3.3,restaurant,6,"144/A, G.S.T. Road, NH Service Road, Guduvanchery",90
+NOVELTY TEA HOUSE,13.0891536,80.2788544,4.1,restaurant,1194,"Old No.175, New, No.355, Mint Street, Park Town, Chennai",90
+Ecstasy by Mickaël Besse,13.055431,80.258008,4.4,restaurant,59,"# 8, Sathyam Cinemas, Thiru-vi-ka Road, Royapettah, Chennai",90
+Cafe Adoniya,13.0708997,80.2462746,4.1,restaurant,74,"66/5, Spur Tank Road, Mukta Gardens, Chetpet, Chennai",90
+Cafe Coffee Day,13.0314234,80.256411,3.7,restaurant,213,"127, 2nd Street, CP Ramaswamy Road, Abiramapuram, Chennai",90
+Ambrosia cafe & bakery,13.0303182,80.2456353,4.3,restaurant,236,"No 11, 139, Cenotaph Road, Chennai",90
+Hot Breads,13.0873696,80.1794263,3.9,restaurant,218,"2nd Building, 1461, Garden Avenue Thiruvalluvar Road Panneer Nagar East, Mogappair East, Chennai",90
+Hot Chips Veg Restaurant,13.0365937,80.2121449,3.7,restaurant,1375,"36, Balaji Complex, opposite to Gokulam Park, 1, 1st Street, Ashok Nagar, Chennai",90
+Hot Chips Veg Restaurant,12.9428826,80.1336145,3.6,restaurant,1710,"MIT Road, No.13, Chennai - Theni Highway, Kamakshi Colony, Chromepet, Chennai",90
+Cookie Man - Chennai Airport,12.9840736,80.1666751,3.6,restaurant,28,"Kamaraj Domestic Terminal, Check Inn Area Meenambakkam, airport, Chennai",90
+Hot Breads,13.0565827,80.2569049,4,restaurant,58,"102, Anna Salai, Chennai",90
+Fusilli Reasons,13.0817956,80.2488186,4.3,restaurant,5675,"Ormes Road, 2/62, Kilpauk, Chennai",90
+Lobby Lounge,13.043045,80.248685,4.2,restaurant,13,"365, Anna Salai, Thiru Vi Ka Kudiyiruppu, Teynampet, Chennai",90
+Hot Chips Veg Restaurant,13.087229,80.2587875,3.7,restaurant,820,"14, Thiru Narayana Guru Road, Periyamedu, Purasaiwakkam, Chennai",90
+Snofield,13.0452081,80.2594507,4.1,restaurant,40,"Amaravathi Complex, 1, Cathedral Road, Gopalapuram, Chennai",90
+Saravana Coffee,13.0522849,80.2279606,4,restaurant,16,"45/2, Akbarabad 2nd Street, Kodambakkam, Chennai",90
+Truly Scrumptious,13.0284467,80.256199,4.3,restaurant,18,"CP Ramaswamy Street, SBI Colony, Abiramapuram, Chennai",90
+Ashok pan house,13.08495,80.2134538,4.3,restaurant,58,"No.42/1, 2 and avenue. Annanagar,, Chennai",90
+Leo Coffee,13.042013,80.177885,4.4,restaurant,9,"opp. HDFC BANK, No:, opp. HDFC BANK, Arcot Road, Valasaravakkam, Chennai",90
+Leo Coffee Shop,13.1327293,80.2922552,4.5,restaurant,8,"No: 530, Thiruvottiyur High Road, Old Washermanpet, Chennai",90
+Leo Coffee,13.0897033,80.2785578,0,restaurant,0,"167, NSC Bose Road, Parrys, George Town, Chennai",90
+Leo Coffee,13.0867388,80.2572848,4.3,restaurant,6,"259, Purasawalkam High Road, Perumalpet, Purasaiwakkam, Chennai",90
+Mathsya Egmore,13.0750204,80.258062,4.2,restaurant,5678,"1, Tamil Salai, KVN Puram, Egmore, Chennai",90
+Coffee House @ Mount Road,13.0661983,80.268601,4.2,restaurant,1566,"105, Anna Salai, Border Thottam, Padupakkam, Triplicane, Chennai",90
+Craft Cafe,13.0655519,80.2669318,4.1,restaurant,37,"108, Mount Road, Anna Salai, Royapettah, Chennai",90
+Chai Kings - Kilpauk,13.0789505,80.2519397,4.2,restaurant,657,"925, Poonamallee High Road, Kilpauk, Chennai",90
+Leo Coffee,13.063968,80.280575,0,restaurant,0,"No: 282, BHARATHIYAR SALAI, Triplicane, Chennai",90
+Leo Coffee,13.059652,80.274283,0,restaurant,0,"NISHAM FOODS PRIVATE LIMITED, NO: 35, Royapettah High Road, Royapettah, Chennai",90
+Ratna Cafe,13.0587341,80.2740342,4.1,restaurant,9211,"Triplicane High Road, Triplicane, Chennai",90
+Wild Garden - The café at Amethyst,13.0571201,80.2594242,4.4,restaurant,3548,"next to Corporation Bank, No 28, Whites Road, Amethyst, next to Corporation Bank, Royapettah, Chennai",90
+Sandy's Chocolate Laboratory,13.0610964,80.2482131,4.3,restaurant,1969,"2 16/1 WALLACE GARDEN Next To Subway, Nungambakkam, Chennai",90
+Costa Coffee - Harrington,13.0689623,80.2386226,3.7,restaurant,22,"No. 92, Lady Andal Venkata Subba Rao Matriculation Higher Secondary School., Harrington Road, Chetpet, Chennai",90
+Rathna Cafe,13.1126397,80.2885087,4,restaurant,52,"16, M.C. Road, Gollavar Agraharam Road, Old Washermanpet, Chennai",90
+The French Loaf,13.113842,80.294464,3.8,restaurant,24,"International Tech Park, Planet Yumm Food Court, Ascendas, Phase 1, Tharamani, Chennai",90
+Brown Tree,13.046506,80.256068,4.1,restaurant,134,"54, Cathedral Road, Kasturi Estate, Gopalapuram, Chennai",90
+Signature Tattoo & Arts Institute,13.0556776,80.242861,4.8,restaurant,21,"opp. to Valluvarkottom, #9 New Tank Street , Nungambakkam, Next to ICICI bank, opp. to Valluvarkottom, Chennai",90
+The Pedreno's Global Fusion Restaurant,13.0429162,80.2633849,4.2,restaurant,1758,"113, 114, PS Sivasamy Salai, Mylapore, Chennai",90
+CAKE MY DAY,13.1242801,80.2600998,4,restaurant,64,"948, Nagamalaipudukotai, Mahakavi Bharathi Nagar, Vyasarpadi, Chennai",90
+Leo Coffee,13.084695,80.22516,1,restaurant,1,"No: ""30, JJ MALIGAI COMP, THIRUMANGALAM, Anna Nagar West, Chennai",90
+Leo Coffee,13.070899,80.223618,0,restaurant,0,"MURUGAN STORES SUPER MARKET, NO:513, Poonamallee High Road, Aminjikarai, Chennai",90
+Gangotree Chats,13.0416485,80.2444263,4.1,restaurant,633,"23 A, Mandira Appts, North Boag Road, Drivers Colony, T. Nagar, Chennai",90
+Goli Vada Pav No.1,13.0330146,80.2712058,3.7,restaurant,23,"New No 27,East Mada Street, Vinayaka Nagar Colony, Mylapore, Chennai",90
+Leo Coffee,13.0323626,80.2688853,3.6,restaurant,61,"42, South Mada Street, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai",90
+Arignar Anna Zoological Park,12.8793266,80.0819116,4.2,zoo,42348,"Grand Southern Trunk Road, Vandalur",120
+Chennai Snake Park Trust,13.004233,80.2386284,4.1,zoo,5862,"Raj Bhavan post, Guindy, Chennai",120
+Wildlife photography tours -Naturographers,13.040897,80.2245048,4.7,zoo,3,"Arihant Apartments, 81 B, Thambiah Road, West Mambalam, Chennai",120
+Reptile House,12.8799568,80.0935926,4,zoo,308,Vandalur Zoo,120
+vandalur zoo,12.882649,80.0876584,4.1,zoo,1346,"Vandalur Zoo, Peerakankaranai",120
+Vandaloor Biological Park,12.8802388,80.0829657,4.2,zoo,234,Vandalur,120

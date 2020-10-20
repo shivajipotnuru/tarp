@@ -1,0 +1,21 @@
+#map{
+  
+    border-radius: 5px;
+    border-style: solid;
+    border-color:black;
+    color:black;
+    height: 575px; 
+width: 100%;
+
+}
+#do{
+    font-weight: bold;
+   text-align: center;
+    margin-top:10px;
+    font-family: 'Lexend Tera', sans-serif;
+    color: black;
+}
+
+body {
+ background-color: white !important;
+}

@@ -1,0 +1,50 @@
+#plan{
+    font-family: 'Lexend Tera', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    color: white;
+    }
+  
+#hello{
+    font-family: 'Lexend Tera', sans-serif;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top:10px;
+    display:inline-block;
+    color: white;
+    margin-bottom: 10px;
+}
+.card-text{
+    font-family: 'Arimo', sans-serif;
+    border-radius: 6px;
+    
+    }
+.card{
+    margin-top: 20px;
+    box-shadow:0 0 15px 4px rgb(87, 81, 81);
+}
+.card-header{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Arimo', sans-serif;
+    background-color: black;
+}
+#hi{
+    text-align: right;
+    margin-right: 40px;
+    color:white;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.884), rgba(0, 0, 0, 0.884)),  url("mainpage.jpeg"); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  opacity: 1;
+  visibility:initial;
+  
+  }
+ 
+  
+
+ 

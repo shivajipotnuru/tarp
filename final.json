@@ -1,0 +1,4912 @@
+[
+ {
+   "name": "Amman Temple",
+   "latitude": 12.9746792,
+   "longitude": 80.1905608,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 8,
+   "vicinity": "2nd St, Balaji Nagar, Nanganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Amman Temple",
+   "latitude": 12.9655473,
+   "longitude": 80.1702404,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 7,
+   "vicinity": "Sangavi Salai, Rajiv Gandhi Nagar, Pallavaram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Arthanareeswarar Temple",
+   "latitude": 12.984983,
+   "longitude": 80.1883267,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 1097,
+   "vicinity": "4th Main Rd, Nanganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Arulmigu Karaneeswarar Temple",
+   "latitude": 13.02476,
+   "longitude": 80.2231759,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 3103,
+   "vicinity": "1, Karaneeswarar Koil St, Suriyammapet, Saidapet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Arulmigu Marundeeswarar Temple",
+   "latitude": 12.9848721,
+   "longitude": 80.2605869,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 6591,
+   "vicinity": "8, W Tank St, Lalitha Nagar, Thiruvanmiyur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Arulmigu Maruntheeswarar Temple",
+   "latitude": 12.7778037,
+   "longitude": 79.9913814,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 101,
+   "vicinity": "Bharathiya Street, Thirukkachur, Kattankulathur",
+   "time": 60
+ },
+ {
+   "name": "Arulmigu Ramar temple",
+   "latitude": 13.0057564,
+   "longitude": 80.2435513,
+   "user_rating": 4.2,
+   "category": "hindu_temple",
+   "num_user_rated": 71,
+   "vicinity": "2nd Street, Sriram Nagar, Tharamani, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Arulmigu Sri Parthasarathyswamy Temple",
+   "latitude": 13.0538886,
+   "longitude": 80.2770111,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 13470,
+   "vicinity": "Narayana Krishnaraja Puram, Triplicane, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Arulmigu Thiyagarajaswamy Temple",
+   "latitude": 13.1614504,
+   "longitude": 80.2995869,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 2885,
+   "vicinity": "Sannathi St, Gopal Nagar, Tiruvottiyur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Ayyappan Temple",
+   "latitude": 13.0189951,
+   "longitude": 80.2681172,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 2406,
+   "vicinity": "82, Santhome Hwy Road, MRC Nagar, Raja Annamalai Puram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Dhandeeswaram temple",
+   "latitude": 12.9858183,
+   "longitude": 80.2238753,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 254,
+   "vicinity": "1st Ave, Karunabigai Colony, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Dharmalingeshwarar Temple",
+   "latitude": 12.971563,
+   "longitude": 80.186374,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 301,
+   "vicinity": "voltas colony main road, 50 ft road, Eswaran Colony, MMTC Colony, Nanganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Ellaiyamman Temple",
+   "latitude": 12.9701497,
+   "longitude": 80.2370267,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 10,
+   "vicinity": "Ambedkar Nagar, Perungudi, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Ganesh Temple",
+   "latitude": 13.0003312,
+   "longitude": 80.2519063,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 6,
+   "vicinity": "60/56, Kasturba Nagar 3rd Cross St, Venkata Rathnam Nagar Extension, Venkata Rathinam Nagar, Adyar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "ganesha Temple",
+   "latitude": 13.0249938,
+   "longitude": 80.2592173,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 7,
+   "vicinity": "Chennai, Ramakrishna Nagar, Raja Annamalai Puram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Gangadeeswarar Temple",
+   "latitude": 13.0306667,
+   "longitude": 80.1785053,
+   "user_rating": 4.2,
+   "category": "hindu_temple",
+   "num_user_rated": 49,
+   "vicinity": "Bajanai Kovil St, Mullai Nagar, Ramapuram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Hrudayaaleeswarar Temple",
+   "latitude": 13.1119451,
+   "longitude": 80.0281219,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 360,
+   "vicinity": "Thiruninravur",
+   "time": 60
+ },
+ {
+   "name": "ISKCON",
+   "latitude": 12.9061719,
+   "longitude": 80.2418253,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 10858,
+   "vicinity": "Bhakti Vedanta Swami Road, Off ECR, Akkarai, Sholinganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Jalakanteswarar Temple",
+   "latitude": 13.001974,
+   "longitude": 80.2417176,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 198,
+   "vicinity": "Delhi Ave, Indian Institute Of Technology, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Karapakkam Shivan Temple",
+   "latitude": 12.9138419,
+   "longitude": 80.2296553,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 371,
+   "vicinity": "Old Mahabalipuram Rd, Near Karapakkam Bus Stop, Karappakam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Lord Nandheeswarar Temple",
+   "latitude": 12.9946438,
+   "longitude": 80.2004915,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 201,
+   "vicinity": "Pedestrian Overpass, TNGO Colony, Adambakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Mangaleeshwarar Temple",
+   "latitude": 13.0773796,
+   "longitude": 80.2115161,
+   "user_rating": 4.2,
+   "category": "hindu_temple",
+   "num_user_rated": 34,
+   "vicinity": "782/464, National Highway 48, Arumbakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Nagamariyamman Temple",
+   "latitude": 13.0112652,
+   "longitude": 80.2540296,
+   "user_rating": 0,
+   "category": "hindu_temple",
+   "num_user_rated": 0,
+   "vicinity": "1st Cres Park Rd, Gandhi Nagar, Adyar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Raja Rajeshwari Temple",
+   "latitude": 12.9895563,
+   "longitude": 80.1916619,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 334,
+   "vicinity": "18th St, Thillaiganga Nagar, Nanganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sai Baba Temple",
+   "latitude": 12.9989447,
+   "longitude": 80.2071054,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 36,
+   "vicinity": "47, Link Rd, State Bank Colony, Guindy, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Selli Amman Temple Pond",
+   "latitude": 12.9591575,
+   "longitude": 80.1825371,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 2,
+   "vicinity": "Selli amman temple, Anbu Nagar, Keelkattalai, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Shiva Temple",
+   "latitude": 13.1365722,
+   "longitude": 80.132267,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 246,
+   "vicinity": "15/A, N Mada St, Thirumullaivoyal, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Shore Temple",
+   "latitude": 12.6164515,
+   "longitude": 80.1993321,
+   "user_rating": 4.6,
+   "category": "place_of_worship",
+   "num_user_rated": 2622,
+   "vicinity": "Mahabalipuram",
+   "time": 60
+ },
+ {
+   "name": "Shri Ashtalakshmi Temple",
+   "latitude": 12.992607,
+   "longitude": 80.2703938,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 5066,
+   "vicinity": "elliots beach, 6/21 paindi Amman Kovil, Besant Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Shri Dhenupureeswarar Temple, Suyambu Lingam",
+   "latitude": 12.8985977,
+   "longitude": 80.1600266,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 3528,
+   "vicinity": "Madambakkam Main Rd, Madambakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Shri Siddhi Vinayakar Temple",
+   "latitude": 12.9743187,
+   "longitude": 80.1847887,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 15,
+   "vicinity": "3rd Cross St, Lakshmi Nagar IV Stage, AGS Colony, Nanganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Siddhivinayaka Temple",
+   "latitude": 13.0299262,
+   "longitude": 80.1866931,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 2,
+   "vicinity": "Mari Amman Koil St, Rayala Nagar, Ramapuram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Siva Vishnu Temple",
+   "latitude": 12.9713988,
+   "longitude": 80.2180109,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 212,
+   "vicinity": "4th Cross St, Vijaya Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Siva Vishnu Temple",
+   "latitude": 13.0358799,
+   "longitude": 80.2301333,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 506,
+   "vicinity": "2, Natesan Street, N Usman Rd, T. Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sivan Temple",
+   "latitude": 13.0239969,
+   "longitude": 80.2521738,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 12,
+   "vicinity": "RA Puram, Nandanam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sivanandheswarar Temple.Padal petra temple",
+   "latitude": 13.2451781,
+   "longitude": 80.0955688,
+   "user_rating": 4.4,
+   "category": "hindu_temple",
+   "num_user_rated": 31,
+   "vicinity": "Sivanandheswarar Temple, Thirukkandalam",
+   "time": 60
+ },
+ {
+   "name": "Sri Kaalikambal Temple",
+   "latitude": 13.0943711,
+   "longitude": 80.2891129,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 4484,
+   "vicinity": "212, Thambu Chetty St, near DHL Express Courier, Mannady, George Town, Chennai",
+   "time": 60
+ },
+ {
+   "name": "SRI KURUNGALEESHWARAR TEMPLE",
+   "latitude": 13.0729539,
+   "longitude": 80.1973008,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 167,
+   "vicinity": "Virrugambakkam, Koyambedu, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sri Mallikeswarar temple",
+   "latitude": 13.0368545,
+   "longitude": 80.2122543,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 31,
+   "vicinity": "near Metro Station, Zaffarkhanpet, Ashok Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sri Navakkira Temple",
+   "latitude": 13.0201746,
+   "longitude": 80.2047008,
+   "user_rating": 0,
+   "category": "hindu_temple",
+   "num_user_rated": 0,
+   "vicinity": "No-1, 1st Pillaiyar Koil Street, Gandhi Nagar, Ambal Nagar, Ekkatuthangal, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sri Rathnagiriswarar Temple",
+   "latitude": 12.9966226,
+   "longitude": 80.2670521,
+   "user_rating": 4.8,
+   "category": "hindu_temple",
+   "num_user_rated": 918,
+   "vicinity": "No 1, 6th Cross St, RBI Quarters, Besant Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sri Thulaseeswarar Temple",
+   "latitude": 12.7781646,
+   "longitude": 79.9763285,
+   "user_rating": 4.9,
+   "category": "hindu_temple",
+   "num_user_rated": 10,
+   "vicinity": "Appur R.F.",
+   "time": 60
+ },
+ {
+   "name": "Sri Vedapureeswarar Temple",
+   "latitude": 13.071588,
+   "longitude": 80.1148152,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 444,
+   "vicinity": "Karpagambal Nagar, Tiruvallur District, Tiruverkadu",
+   "time": 60
+ },
+ {
+   "name": "Thangavinayakar Temple",
+   "latitude": 13.0347341,
+   "longitude": 80.254204,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 13,
+   "vicinity": "Ramasamy Naicker Street, MIG Colony, Alwarpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Thiru Neelakandeswarar Temple",
+   "latitude": 12.9602767,
+   "longitude": 80.1821367,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 67,
+   "vicinity": "Eashwaran Koil St, Anbu Nagar, Keelkattalai, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Thrisulanathar Thirukkovil",
+   "latitude": 12.9734702,
+   "longitude": 80.1658456,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 282,
+   "vicinity": "Near Tirusulam Airport, Harbour quaters, Tirusulam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Tirumala Tirupati Devasthanam",
+   "latitude": 13.0358333,
+   "longitude": 80.2363889,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 8945,
+   "vicinity": "No 26, Venkatanarayana Rd, Parthasarathi Puram, T. Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "TNT025 - Thiruvanmiyur Shivan Temple(Padal Petra Temple)",
+   "latitude": 12.984957,
+   "longitude": 80.2599861,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 31,
+   "vicinity": "34, East Coast Rd, Ambedkar Nagar, Kamaraj Nagar, Thiruvanmiyur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vadapalani Murugan Temple",
+   "latitude": 13.0528421,
+   "longitude": 80.2135209,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 8118,
+   "vicinity": "Palani Andavar Koil St, Vadapalani, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vadapalani Murugan Temple",
+   "latitude": 13.0528421,
+   "longitude": 80.2135209,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 8118,
+   "vicinity": "Palani Andavar Koil St, Vadapalani, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vadaranyeswarar Swamy Temple மாந்தி கோயில்,Padal Petra Temple",
+   "latitude": 13.1302742,
+   "longitude": 79.7746536,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 1175,
+   "vicinity": "Thiruvalangadu Rd, Thiruvalangadu",
+   "time": 60
+ },
+ {
+   "name": "Varashakthi Vinayagar Temple",
+   "latitude": 12.9523562,
+   "longitude": 80.2363014,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 11,
+   "vicinity": "Sri Sai Nagar, Oggiyamduraipakkam",
+   "time": 60
+ },
+ {
+   "name": "Velleeswarar Temple",
+   "latitude": 13.0325808,
+   "longitude": 80.2694909,
+   "user_rating": 4.7,
+   "category": "hindu_temple",
+   "num_user_rated": 870,
+   "vicinity": "25, TSV Koil Street, Sankarapuram, Mylapore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vengeeswarar Temple",
+   "latitude": 13.0487893,
+   "longitude": 80.2124392,
+   "user_rating": 4.6,
+   "category": "hindu_temple",
+   "num_user_rated": 1247,
+   "vicinity": "36, Sannadhi St, Sarvamangala Colony, Aruna Colony, Vadapalani, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vigneshwara Temple",
+   "latitude": 13.0263099,
+   "longitude": 80.2660434,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 2,
+   "vicinity": "S Canal Bank Rd, Jeth Nagar, Mandaveli, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vinayak Temple",
+   "latitude": 12.9873361,
+   "longitude": 80.2341772,
+   "user_rating": 3.3,
+   "category": "hindu_temple",
+   "num_user_rated": 4,
+   "vicinity": "Temple Rd, Indian Institute Of Technology, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vyagrapureeswarar Temple",
+   "latitude": 12.7154047,
+   "longitude": 79.9784214,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 54,
+   "vicinity": "Thirutheri R.F.",
+   "time": 60
+ },
+ {
+   "name": "Yoganarasimhar Temple",
+   "latitude": 12.9838859,
+   "longitude": 80.2224318,
+   "user_rating": 4.5,
+   "category": "hindu_temple",
+   "num_user_rated": 17,
+   "vicinity": "Velachery Main Rd, Ram Nagar, Murugapakkam, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Amma Park",
+   "latitude": 13.175975,
+   "longitude": 80.204503,
+   "user_rating": 3.6,
+   "category": "park",
+   "num_user_rated": 39,
+   "vicinity": "Grant Lyon, Red Hills, Payasambakkam",
+   "time": 60
+ },
+ {
+   "name": "Assisi Nagar Park",
+   "latitude": 13.162469,
+   "longitude": 80.2328442,
+   "user_rating": 4.7,
+   "category": "park",
+   "num_user_rated": 7,
+   "vicinity": "9th St, Assisi Nagar, Madhavaram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Baby Nagar Park",
+   "latitude": 12.9791078,
+   "longitude": 80.2290039,
+   "user_rating": 3.5,
+   "category": "park",
+   "num_user_rated": 410,
+   "vicinity": "2nd Main Rd, Baby Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Birla Avenue Park",
+   "latitude": 13.1448167,
+   "longitude": 80.2007981,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 167,
+   "vicinity": "Surapet Main Rd, Iyappa Nagar Extension, Padmavathi Nagar, Puzhal, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Chennai Corporation Children's Park",
+   "latitude": 12.9837322,
+   "longitude": 80.2169678,
+   "user_rating": 3,
+   "category": "park",
+   "num_user_rated": 33,
+   "vicinity": "Ward No. 177, Zone. 40A, 2nd Main Rd, Gangai Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Chennai Corporation Children's Park",
+   "latitude": 12.9837988,
+   "longitude": 80.2281936,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 30,
+   "vicinity": "Shanthi 1st Cross St, VGP Seethapathy Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Chennai Corporation Park",
+   "latitude": 13.0890553,
+   "longitude": 80.1931069,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 114,
+   "vicinity": "Block No. 49A, Theravidam, Park Street, Welcome Colony, Anna Nagar West Extension, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Chennai Corporation Park",
+   "latitude": 13.0956878,
+   "longitude": 80.2573608,
+   "user_rating": 3.5,
+   "category": "park",
+   "num_user_rated": 68,
+   "vicinity": "Ward 176, Part 17, Park St, Pattalam, Conran Smith Nagar, Ethiraj Gardens, Purasaiwakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Chennai Municipality Park",
+   "latitude": 13.1238889,
+   "longitude": 80.2004263,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 53,
+   "vicinity": "Santhosh Nagar, Lakshmipuram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Chennai Snake Park Trust",
+   "latitude": 13.004233,
+   "longitude": 80.2386284,
+   "user_rating": 4.1,
+   "category": "zoo",
+   "num_user_rated": 5862,
+   "vicinity": "Raj Bhavan post, Guindy, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Children's Park- Adambakkam",
+   "latitude": 12.9846384,
+   "longitude": 80.2047751,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 116,
+   "vicinity": "zone.40.a, Ward No.177, Mandalam, Mahalakshmi Nagar, Adambakkam, 600088, 13, 1st Cross St, Lakshmi Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Collector nagar Park",
+   "latitude": 13.1490231,
+   "longitude": 80.2005403,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 158,
+   "vicinity": "2, Collector Nagar St, INTUC Nagar, Puzhal, Kadirvedu",
+   "time": 60
+ },
+ {
+   "name": "Community Park",
+   "latitude": 13.1236241,
+   "longitude": 79.9206072,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 228,
+   "vicinity": "Old NGGO Colony, Thiruvallur",
+   "time": 60
+ },
+ {
+   "name": "Corporation Park",
+   "latitude": 13.0304888,
+   "longitude": 80.2157029,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 127,
+   "vicinity": "12th Ave, Ragavan Colony, Mettuppalayam, Ashok Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Corporation Park",
+   "latitude": 12.9950976,
+   "longitude": 80.2665862,
+   "user_rating": 3.8,
+   "category": "park",
+   "num_user_rated": 152,
+   "vicinity": "Anna Colony, Besant Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Corporation Park",
+   "latitude": 13.0272124,
+   "longitude": 80.2448538,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 224,
+   "vicinity": "7, Turnbulls Rd, Boat Club Area, Nandanam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Corporation Park",
+   "latitude": 12.9759144,
+   "longitude": 80.2178486,
+   "user_rating": 3.4,
+   "category": "park",
+   "num_user_rated": 36,
+   "vicinity": "1st, Main Rd, BHEL Shakthi Nagar, Devi Karumariamman Nagar Extension, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Corporation Park",
+   "latitude": 12.9776329,
+   "longitude": 80.2099875,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 152,
+   "vicinity": "10, 4th Cross St, AGS Colony, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Corporation park",
+   "latitude": 12.9775986,
+   "longitude": 80.2089722,
+   "user_rating": 4.6,
+   "category": "park",
+   "num_user_rated": 140,
+   "vicinity": "5th St, Saraswathi Nagar, AGS Colony, Adambakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Dhandeeswaram park",
+   "latitude": 12.9830709,
+   "longitude": 80.2219467,
+   "user_rating": 3.7,
+   "category": "park",
+   "num_user_rated": 122,
+   "vicinity": "Velachery Bypass Road, No.74-A, Velachery Main Rd, Ram Nagar, Dhadeswaram Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Gandhi Childrens Park",
+   "latitude": 12.8528776,
+   "longitude": 80.0647917,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 102,
+   "vicinity": "11, NCK Avenure, Guduvanchery",
+   "time": 60
+ },
+ {
+   "name": "Government Park",
+   "latitude": 12.9907615,
+   "longitude": 80.2173863,
+   "user_rating": 4.7,
+   "category": "park",
+   "num_user_rated": 22,
+   "vicinity": "Indira Gandhi Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Guindy National Park",
+   "latitude": 13.0049251,
+   "longitude": 80.2378725,
+   "user_rating": 4.1,
+   "category": "tourist_attraction",
+   "num_user_rated": 17061,
+   "vicinity": "Rangeguindy, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Kids Park",
+   "latitude": 12.981124,
+   "longitude": 80.2214566,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 72,
+   "vicinity": "Velachery Main Rd, Dhandeeswaram, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Madhavaram Tree Park",
+   "latitude": 13.1601854,
+   "longitude": 80.2413147,
+   "user_rating": 4.3,
+   "category": "park",
+   "num_user_rated": 85,
+   "vicinity": "MMC Aavin Quarters, Madhavaram Milk Colony, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Millennium Park",
+   "latitude": 13.094472,
+   "longitude": 80.1920398,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 1852,
+   "vicinity": "Park Rd, ONGC Housing, Anna Nagar West Extension, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Municipality Park",
+   "latitude": 12.9543849,
+   "longitude": 80.1434579,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 152,
+   "vicinity": "Station Border Rd, Lakshmi Nagar, Shanthi Nagar, Chromepet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Municipality Park",
+   "latitude": 12.9741024,
+   "longitude": 80.213953,
+   "user_rating": 3.8,
+   "category": "park",
+   "num_user_rated": 35,
+   "vicinity": "1st St, Srinivasa Nagar Extension, Ram Nagar, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "New Park",
+   "latitude": 13.1302151,
+   "longitude": 80.2853477,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 151,
+   "vicinity": "Tondiarpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.016569,
+   "longitude": 80.160384,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 51,
+   "vicinity": "No.60, Vishwanathan Palani St, VGN Lakshmi Nagar, Mugalivakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.0372939,
+   "longitude": 80.1808674,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 500,
+   "vicinity": "11th St, Chowthri Nagar, Nesapakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.1096042,
+   "longitude": 80.1060763,
+   "user_rating": 4.3,
+   "category": "park",
+   "num_user_rated": 210,
+   "vicinity": "Ram Nagar, Avadi",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.0899344,
+   "longitude": 80.1996471,
+   "user_rating": 4.2,
+   "category": "park",
+   "num_user_rated": 151,
+   "vicinity": "487, Bharathi Colony, J Block, Ajanta Colony, Anna Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.0703166,
+   "longitude": 80.2276722,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 158,
+   "vicinity": "Officers Colony, Aminjikarai, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.1575217,
+   "longitude": 80.2273346,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 127,
+   "vicinity": "6, Madavaram Red Hills Rd, Ring Road Housing Sector, Madhavaram, Manjampakkam",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.1124138,
+   "longitude": 80.1004735,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 47,
+   "vicinity": "Nehru Nagar, TNHB Mig V Block, Avadi",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.0067951,
+   "longitude": 80.2520226,
+   "user_rating": 3.8,
+   "category": "park",
+   "num_user_rated": 21,
+   "vicinity": "Gandhi Nagar, Adyar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.1575217,
+   "longitude": 80.2273346,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 127,
+   "vicinity": "6, Madavaram Red Hills Rd, Ring Road Housing Sector, Madhavaram, Manjampakkam",
+   "time": 60
+ },
+ {
+   "name": "Park",
+   "latitude": 13.1242193,
+   "longitude": 80.2075174,
+   "user_rating": 3.6,
+   "category": "park",
+   "num_user_rated": 53,
+   "vicinity": "6/20, Tiru Vi Ka St Thenpalani Nagar, Tiru Vi Ka St, Thenpalani Nagar, Kolathur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Public Park, Kallikuppam",
+   "latitude": 13.1345636,
+   "longitude": 80.1774566,
+   "user_rating": 4,
+   "category": "park",
+   "num_user_rated": 141,
+   "vicinity": "Hindustan Motor Nagar, Sri Nagar, Kolathur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Secretariat Colony Park",
+   "latitude": 13.136236,
+   "longitude": 80.2097783,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 340,
+   "vicinity": "Secretariat Colony Main Rd, Secretariat Nagar, Lakshmipuram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Senthil Nagar Childrens Park",
+   "latitude": 13.1220761,
+   "longitude": 80.2027182,
+   "user_rating": 3.8,
+   "category": "park",
+   "num_user_rated": 106,
+   "vicinity": "13th St, Periyarnagar, Senthil Nagar, Kolathur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Siva sakthi Nagar Park",
+   "latitude": 13.1448869,
+   "longitude": 80.2335473,
+   "user_rating": 3.7,
+   "category": "park",
+   "num_user_rated": 50,
+   "vicinity": "Madavaram Red Hills Rd, Siva Sakthi Nagar, Madhavaram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Surapet park",
+   "latitude": 13.1572144,
+   "longitude": 80.1961505,
+   "user_rating": 4.1,
+   "category": "park",
+   "num_user_rated": 94,
+   "vicinity": "Kathirvedu Puzhal India, 9, Ambattur Red Hills Rd, Puzhal, Kadirvedu",
+   "time": 60
+ },
+ {
+   "name": "Thiruvalluvar Park",
+   "latitude": 13.1596258,
+   "longitude": 80.2075714,
+   "user_rating": 3.9,
+   "category": "park",
+   "num_user_rated": 48,
+   "vicinity": "Mettuppalaiyam Puzhal, Vadaperumbakkam",
+   "time": 60
+ },
+ {
+   "name": "Tirumullaivoyal Park",
+   "latitude": 13.1327387,
+   "longitude": 80.1274032,
+   "user_rating": 4.3,
+   "category": "park",
+   "num_user_rated": 130,
+   "vicinity": "SS Nagar, Thirumullaivoyal, Chennai",
+   "time": 60
+ },
+ {
+   "name": "VGP nagar park",
+   "latitude": 13.1378211,
+   "longitude": 80.2276072,
+   "user_rating": 3.8,
+   "category": "park",
+   "num_user_rated": 165,
+   "vicinity": "Madhavaram High Rd, Kanakan Chatram, Perambur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Vinayagar Temple Children's Park",
+   "latitude": 13.1212681,
+   "longitude": 80.2025439,
+   "user_rating": 4.2,
+   "category": "park",
+   "num_user_rated": 97,
+   "vicinity": "10th St, Periyarnagar, RK Syndicate Nagar, Kolathur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "10 Square Mall",
+   "latitude": 13.0704245,
+   "longitude": 80.2027604,
+   "user_rating": 3.6,
+   "category": "shopping_mall",
+   "num_user_rated": 425,
+   "vicinity": "Ten Square Mall, SH 2, Koyambedu, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Abirami Mega Mall",
+   "latitude": 13.0861507,
+   "longitude": 80.2480438,
+   "user_rating": 3.8,
+   "category": "shopping_mall",
+   "num_user_rated": 11466,
+   "vicinity": "152, Purasawalkam High Rd, Lumbini Square, Purasaiwakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Alsa Mall",
+   "latitude": 13.0686817,
+   "longitude": 80.2572632,
+   "user_rating": 3.8,
+   "category": "shopping_mall",
+   "num_user_rated": 5337,
+   "vicinity": "Montieth Road, Egmore, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Ampa Skywalk",
+   "latitude": 13.0734711,
+   "longitude": 80.2214432,
+   "user_rating": 4.1,
+   "category": "shopping_mall",
+   "num_user_rated": 41097,
+   "vicinity": "No:1, Nelson Manickam Road, 627, Poonamalee High Road, Aminjikarai, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Bergamo Mall",
+   "latitude": 13.0607902,
+   "longitude": 80.251193,
+   "user_rating": 4.1,
+   "category": "shopping_mall",
+   "num_user_rated": 1498,
+   "vicinity": "5/3, Khadar Navazkhan Road, Thousand Lights West, Thousand Lights, Chennai",
+   "time": 180
+ },
+ {
+   "name": "BMR Mall",
+   "latitude": 12.8432745,
+   "longitude": 80.2271694,
+   "user_rating": 3.7,
+   "category": "shopping_mall",
+   "num_user_rated": 703,
+   "vicinity": "Navalur",
+   "time": 180
+ },
+ {
+   "name": "Challa Mall",
+   "latitude": 13.0398658,
+   "longitude": 80.242849,
+   "user_rating": 3.6,
+   "category": "shopping_mall",
+   "num_user_rated": 996,
+   "vicinity": "43, 25, Sir Theagaraya Rd, Parthasarathi Puram, T. Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Chandra Metro Mall",
+   "latitude": 13.046769,
+   "longitude": 80.1903895,
+   "user_rating": 4,
+   "category": "shopping_mall",
+   "num_user_rated": 6431,
+   "vicinity": "262, Arcot Rd, Near D Mart, Rajeswari Colony, Virugambakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Express Avenue",
+   "latitude": 13.0584546,
+   "longitude": 80.2641844,
+   "user_rating": 4.4,
+   "category": "shopping_mall",
+   "num_user_rated": 76793,
+   "vicinity": "17, Pattullos Rd, Express Estate, Thousand Lights, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Forum Vijaya Mall",
+   "latitude": 13.0498937,
+   "longitude": 80.2095018,
+   "user_rating": 4.4,
+   "category": "shopping_mall",
+   "num_user_rated": 80664,
+   "vicinity": "183, Arcot Rd, Vadapalani, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Gemini Mall",
+   "latitude": 13.0460756,
+   "longitude": 80.2020055,
+   "user_rating": 3.7,
+   "category": "shopping_mall",
+   "num_user_rated": 3,
+   "vicinity": "Bharani Colony, Vijayaraghavapuram, Saligramam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Gold Souk Grande",
+   "latitude": 12.8767197,
+   "longitude": 80.0796273,
+   "user_rating": 2.8,
+   "category": "shopping_mall",
+   "num_user_rated": 80,
+   "vicinity": "Chennai - Theni Hwy, Peerakankaranai",
+   "time": 180
+ },
+ {
+   "name": "Grand Square",
+   "latitude": 12.9719922,
+   "longitude": 80.2201966,
+   "user_rating": 4,
+   "category": "shopping_mall",
+   "num_user_rated": 25701,
+   "vicinity": "137, Velachery - Tambaram Main Rd, V.O.C Nagar, Doctor Seetaram Nagar, Velachery, Chennai",
+   "time": 180
+ },
+ {
+   "name": "LooLU SHOPPING CENTRE",
+   "latitude": 13.0960205,
+   "longitude": 80.2910357,
+   "user_rating": 4.4,
+   "category": "shopping_mall",
+   "num_user_rated": 9,
+   "vicinity": "2/3, Mannady Street, Mannady, George Town, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Phoenix Marketcity",
+   "latitude": 12.9904673,
+   "longitude": 80.2169764,
+   "user_rating": 4.5,
+   "category": "shopping_mall",
+   "num_user_rated": 84947,
+   "vicinity": "142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Ramee Mall",
+   "latitude": 13.0428226,
+   "longitude": 80.2486156,
+   "user_rating": 3.8,
+   "category": "shopping_mall",
+   "num_user_rated": 4708,
+   "vicinity": "365, Annai Salai, Poes Road, Subbarayan Nagar, Teynampet, Chennai, Tamil Nadu 600018, India, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Shopping Mall",
+   "latitude": 12.9680037,
+   "longitude": 80.1831264,
+   "user_rating": 4,
+   "category": "shopping_mall",
+   "num_user_rated": 1,
+   "vicinity": "Moovarasanpet, Bharathiyar Nagar, Keelkattalai, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Spectrum The Grand Venus Mall",
+   "latitude": 13.1122705,
+   "longitude": 80.2363842,
+   "user_rating": 4,
+   "category": "shopping_mall",
+   "num_user_rated": 9931,
+   "vicinity": "114, A, 114 B , 3rd floor, Paper Mills Road, Gopal Colony, Perambur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Spencer Plaza Mall",
+   "latitude": 13.0615102,
+   "longitude": 80.2614606,
+   "user_rating": 3.9,
+   "category": "shopping_mall",
+   "num_user_rated": 20619,
+   "vicinity": "768-769, Anna Salai, Chennai",
+   "time": 180
+ },
+ {
+   "name": "THE MARINA MALL",
+   "latitude": 12.8360379,
+   "longitude": 80.2293307,
+   "user_rating": 4.3,
+   "category": "shopping_mall",
+   "num_user_rated": 15223,
+   "vicinity": "Old Mahabalipuram Rd, Egattur",
+   "time": 180
+ },
+ {
+   "name": "VIVIRA MALL",
+   "latitude": 12.8504319,
+   "longitude": 80.2262178,
+   "user_rating": 4,
+   "category": "shopping_mall",
+   "num_user_rated": 7128,
+   "vicinity": "33, Old Mahabalipuram Rd, Navalur",
+   "time": 180
+ },
+ {
+   "name": "VR Chennai",
+   "latitude": 13.0805465,
+   "longitude": 80.197132,
+   "user_rating": 4.5,
+   "category": "shopping_mall",
+   "num_user_rated": 45040,
+   "vicinity": "Inner Ring Rd, Thirumangalam, Anna Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "S Mall",
+   "latitude": 13.0274084,
+   "longitude": 80.2636165,
+   "user_rating": 3.8,
+   "category": "shopping_mall",
+   "num_user_rated": 10,
+   "vicinity": "No.2, 3, Devanathan St, Trustpakkam, Mandaveli, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Krishna Shopping Mall",
+   "latitude": 12.9749172,
+   "longitude": 80.2441681,
+   "user_rating": 4.1,
+   "category": "shopping_mall",
+   "num_user_rated": 306,
+   "vicinity": "Omr Food Street, No. 10, 2nd Gate, MGR Main Rd, Kandancavadi, Perungudi, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Yuvaraj Mall",
+   "latitude": 12.8402931,
+   "longitude": 79.7035894,
+   "user_rating": 0,
+   "category": "shopping_mall",
+   "num_user_rated": 0,
+   "vicinity": "Periya, Kanchipuram",
+   "time": 180
+ },
+ {
+   "name": "Chengalpattu Fort",
+   "latitude": 12.7005842,
+   "longitude": 79.9777909,
+   "user_rating": 3.8,
+   "category": "fort",
+   "num_user_rated": 6,
+   "vicinity": "J C K Nagar, Chengalpattu",
+   "time": 120
+ },
+ {
+   "name": "Chennai Fort MRTS",
+   "latitude": 13.0832203,
+   "longitude": 80.2827773,
+   "user_rating": 3.8,
+   "category": "fort",
+   "num_user_rated": 9,
+   "vicinity": "Muthuswamy Rd, Park Town, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fashion Fort",
+   "latitude": 12.9896011,
+   "longitude": 80.2192562,
+   "user_rating": 5,
+   "category": "fort",
+   "num_user_rated": 1,
+   "vicinity": "Janakpuri 1st St, TN Police Housing Colony, Velachery, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fort Indraprastha",
+   "latitude": 12.9906001,
+   "longitude": 80.2594695,
+   "user_rating": 4.2,
+   "category": "fort",
+   "num_user_rated": 52,
+   "vicinity": "45, Kalakshetra Rd, Sriram Nagar, Radhakrishnan Nagar, Thiruvanmiyur, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fort St GEORGE Ramparts",
+   "latitude": 13.0822783,
+   "longitude": 80.2856072,
+   "user_rating": 0,
+   "category": "fort",
+   "num_user_rated": 0,
+   "vicinity": "Fort St George, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fort St. George",
+   "latitude": 13.0796439,
+   "longitude": 80.2874492,
+   "user_rating": 4.2,
+   "category": "fort",
+   "num_user_rated": 3858,
+   "vicinity": "Rajaji Rd, near Legislature and Secretariat, Fort St George, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Kings fort mansion",
+   "latitude": 13.031819,
+   "longitude": 80.1420094,
+   "user_rating": 3.5,
+   "category": "fort",
+   "num_user_rated": 17,
+   "vicinity": "A5 gsr garden thelliyar agaram, Porur, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Advent Christian Church Sholinganallur",
+   "latitude": 12.8895107,
+   "longitude": 80.2307997,
+   "user_rating": 4.3,
+   "category": "church",
+   "num_user_rated": 22,
+   "vicinity": "Sathyavani Muthu St, Sholinganallur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "AFC Church",
+   "latitude": 13.0787758,
+   "longitude": 80.1777729,
+   "user_rating": 3,
+   "category": "church",
+   "num_user_rated": 2,
+   "vicinity": "No 1, 37, Church Road, Panneer Nagar, Mogappair East, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Apostolic Faith Church",
+   "latitude": 13.0804599,
+   "longitude": 80.1799436,
+   "user_rating": 4.5,
+   "category": "church",
+   "num_user_rated": 76,
+   "vicinity": "No 1, 37, Church Road, Panneer Nagar, Mogappair East, Mogappair, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Ascension Church",
+   "latitude": 13.068474,
+   "longitude": 80.2229408,
+   "user_rating": 4.5,
+   "category": "church",
+   "num_user_rated": 272,
+   "vicinity": "23, 4th St, Railway Colony, Aminjikarai, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Christ Church",
+   "latitude": 13.06605,
+   "longitude": 80.269964,
+   "user_rating": 4.3,
+   "category": "church",
+   "num_user_rated": 16,
+   "vicinity": "no 55, 56, Anna Salai, Border Thottam, Padupakkam, Triplicane, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Church Of The Good Shepherd (CSI)",
+   "latitude": 13.0449625,
+   "longitude": 80.2605762,
+   "user_rating": 4.5,
+   "category": "church",
+   "num_user_rated": 187,
+   "vicinity": "67, Dr Radha Krishnan Salai, CIT Colony, Mylapore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "CSI Church Of Saint John The Baptist",
+   "latitude": 13.0755799,
+   "longitude": 80.2634291,
+   "user_rating": 4.4,
+   "category": "church",
+   "num_user_rated": 46,
+   "vicinity": "No.497, Pantheon Road, Egmore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "CSI Emmanuel Church",
+   "latitude": 13.0926853,
+   "longitude": 80.203083,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 55,
+   "vicinity": "35, Church Street, Anna Nagar West, Thangam Colony, Anna Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "CSI St. Paul's Church",
+   "latitude": 12.9128308,
+   "longitude": 80.0704274,
+   "user_rating": 3.9,
+   "category": "church",
+   "num_user_rated": 54,
+   "vicinity": "Mudichur Rd, Mudichur",
+   "time": 60
+ },
+ {
+   "name": "CSI Wesley English Church",
+   "latitude": 13.0075987,
+   "longitude": 80.1956597,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 115,
+   "vicinity": "4/2, St. Patrick's Church Road, St. Thomas Mount, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Emmanuel Methodist Church",
+   "latitude": 13.0866534,
+   "longitude": 80.2596398,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 162,
+   "vicinity": "48-50, Jeremiah Rd, Vepery, Periyamet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Faith Christian Church",
+   "latitude": 13.065849,
+   "longitude": 80.1885814,
+   "user_rating": 4.4,
+   "category": "church",
+   "num_user_rated": 25,
+   "vicinity": "No.2 A, Madha Koil Street, Nerkundrum Main Rd, Nerkundram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Holy Cross Church",
+   "latitude": 13.0332477,
+   "longitude": 80.2396028,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 97,
+   "vicinity": "90/24, Venkatanarayana Rd, Parthasarathi Puram, T. Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Holy trinity church",
+   "latitude": 13.076042,
+   "longitude": 80.1834831,
+   "user_rating": 4.5,
+   "category": "church",
+   "num_user_rated": 150,
+   "vicinity": "Golden George Nagar, Nerkundram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Hope AG Church",
+   "latitude": 12.9270059,
+   "longitude": 80.1991174,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 130,
+   "vicinity": "1, Velachery Road, Medavakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Infant Jesus Church",
+   "latitude": 12.972995,
+   "longitude": 80.060032,
+   "user_rating": 4.3,
+   "category": "church",
+   "num_user_rated": 10,
+   "vicinity": "Kuzandaiyesu Nagar Church Street, Periyar Colony, Nandambakkam, Sirukalathur",
+   "time": 60
+ },
+ {
+   "name": "Our Lady of Good Health Church",
+   "latitude": 12.8908046,
+   "longitude": 80.1949909,
+   "user_rating": 4.8,
+   "category": "church",
+   "num_user_rated": 16,
+   "vicinity": "Perumbakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Our Lady of Light Shrine (Luz Church)",
+   "latitude": 13.038147,
+   "longitude": 80.2624346,
+   "user_rating": 4.7,
+   "category": "church",
+   "num_user_rated": 554,
+   "vicinity": "156, Luz Church Rd, CIT Colony, Mylapore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "OUR SAVIOUR CHURCH - OSC",
+   "latitude": 13.0370465,
+   "longitude": 80.1228336,
+   "user_rating": 5,
+   "category": "church",
+   "num_user_rated": 11,
+   "vicinity": "OSC CHURCH, No. 35, 3rd west OSC church street, Chendurpuram, Indira Nagar, Kattupakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Pallavaram Church of CHRIST",
+   "latitude": 12.9677284,
+   "longitude": 80.1480046,
+   "user_rating": 3.5,
+   "category": "church",
+   "num_user_rated": 4,
+   "vicinity": "111, Mariamman Koil St, Periyar Nagar, Pallavaram, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Rose of Sharon AG church",
+   "latitude": 13.055462,
+   "longitude": 80.2298854,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 175,
+   "vicinity": "18, Zachariah Colony 2nd St, Minor Trustpuram, Choolaimedu, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Santhome Cathedral Basilica",
+   "latitude": 13.033569,
+   "longitude": 80.277822,
+   "user_rating": 4.7,
+   "category": "church",
+   "num_user_rated": 9117,
+   "vicinity": "38, Santhome High Rd, Dummingkuppam, Mylapore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "St Mathew's CSI Church",
+   "latitude": 13.0343407,
+   "longitude": 80.1535647,
+   "user_rating": 4.7,
+   "category": "church",
+   "num_user_rated": 81,
+   "vicinity": "8, CSI Church St, Jaya Nagar, Porur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "St. Andrew's Church (The Kirk)",
+   "latitude": 13.0795797,
+   "longitude": 80.2640622,
+   "user_rating": 4.7,
+   "category": "church",
+   "num_user_rated": 367,
+   "vicinity": "Opp Daily Thanthi, #37, Poonamallee High Rd, Egmore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "St. Antony's Church",
+   "latitude": 12.8674496,
+   "longitude": 80.064205,
+   "user_rating": 4.5,
+   "category": "church",
+   "num_user_rated": 68,
+   "vicinity": "RC Church Street, PO, Velmurugan Nagar, Annai Anjugam Nagar, Urapakkam, West",
+   "time": 60
+ },
+ {
+   "name": "St. Pius Church",
+   "latitude": 12.9639193,
+   "longitude": 80.2442127,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 149,
+   "vicinity": "Church Rd, Ramappa Nagar, Kandancavadi, Perungudi, Chennai",
+   "time": 60
+ },
+ {
+   "name": "St. Thomas Evangelical Church of India",
+   "latitude": 13.079875,
+   "longitude": 80.197834,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 26,
+   "vicinity": "36, Pillaiyar Koil St, Anna Nagar West, Koyambedu, Chennai",
+   "time": 60
+ },
+ {
+   "name": "St. Thomas' Garrison Church",
+   "latitude": 13.0024034,
+   "longitude": 80.1961558,
+   "user_rating": 4.6,
+   "category": "church",
+   "num_user_rated": 304,
+   "vicinity": "#1, Great Southern Trunk Rd, Mathas Nagar, St.Thomas Mount",
+   "time": 60
+ },
+ {
+   "name": "The Church of Jesus Christ of Latter-Day Saints",
+   "latitude": 13.0148364,
+   "longitude": 80.2264059,
+   "user_rating": 4.5,
+   "category": "church",
+   "num_user_rated": 84,
+   "vicinity": "Old No. 8, New No. 23, Taluk Office Rd, Little Mount, Saidapet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "The Church Of Jesus Christ Of Latter-Days Saints",
+   "latitude": 13.0850726,
+   "longitude": 80.2127487,
+   "user_rating": 5,
+   "category": "church",
+   "num_user_rated": 19,
+   "vicinity": "74/223, 2nd Ave, Block Y, Y Block, Anna Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "ECR Beach",
+   "latitude": 12.8918404,
+   "longitude": 80.2536424,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 1927,
+   "vicinity": "Sea Shell Ave, Akkarai, Panaiyur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Edward Elliot's Beach",
+   "latitude": 12.9988631,
+   "longitude": 80.271761,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 3321,
+   "vicinity": "Edward Elliot's Beach, Tamil Nadu, India",
+   "time": 60
+ },
+ {
+   "name": "Gandhi Beach",
+   "latitude": 13.0401803,
+   "longitude": 80.2812613,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 246,
+   "vicinity": "Gandhi Beach, India",
+   "time": 60
+ },
+ {
+   "name": "Graveside Beach",
+   "latitude": 12.7550862,
+   "longitude": 80.2463065,
+   "user_rating": 4.3,
+   "category": "beach",
+   "num_user_rated": 116,
+   "vicinity": "Kanchipuram",
+   "time": 60
+ },
+ {
+   "name": "Kalpakkam Beach",
+   "latitude": 12.4997247,
+   "longitude": 80.1601553,
+   "user_rating": 4.3,
+   "category": "beach",
+   "num_user_rated": 106,
+   "vicinity": "Mosque Rd, Meiyur",
+   "time": 60
+ },
+ {
+   "name": "Mahabalipuram Beach",
+   "latitude": 12.6121234,
+   "longitude": 80.1969215,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 2405,
+   "vicinity": "Mahabalipuram Beach, Tamil Nadu 603104, India",
+   "time": 60
+ },
+ {
+   "name": "Marina Beach Photo Spot",
+   "latitude": 13.0551109,
+   "longitude": 80.2846086,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 1576,
+   "vicinity": "Marina Beach, Triplicane, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Olive Beach",
+   "latitude": 12.9254561,
+   "longitude": 80.2580138,
+   "user_rating": 4.2,
+   "category": "beach",
+   "num_user_rated": 202,
+   "vicinity": "Chennai",
+   "time": 60
+ },
+ {
+   "name": "Pallava Beach",
+   "latitude": 12.6344609,
+   "longitude": 80.2016286,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 28,
+   "vicinity": "Pallava Beach, Tamil Nadu 603104, India",
+   "time": 60
+ },
+ {
+   "name": "Panaiyur Beach ECR",
+   "latitude": 12.8827778,
+   "longitude": 80.2522222,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 1321,
+   "vicinity": "3/338, Rajaji Road, Panaiyur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Sai Beach Resort",
+   "latitude": 12.699315,
+   "longitude": 80.2255134,
+   "user_rating": 4.1,
+   "category": "beach",
+   "num_user_rated": 7,
+   "vicinity": "Nemmeli",
+   "time": 60
+ },
+ {
+   "name": "Thiruvalluvar Nagar Beach",
+   "latitude": 12.9736122,
+   "longitude": 80.2664556,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 599,
+   "vicinity": "Chennai",
+   "time": 60
+ },
+ {
+   "name": "Thiruvanmiyur Beach",
+   "latitude": 12.9756151,
+   "longitude": 80.2669676,
+   "user_rating": 4.5,
+   "category": "beach",
+   "num_user_rated": 21586,
+   "vicinity": "Water Land Dr Rd, Valmiki Nagar, Thiruvalluvar Nagar, Lakshman Perumal Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Tiruvottiyur Beach",
+   "latitude": 13.169452,
+   "longitude": 80.3114742,
+   "user_rating": 4,
+   "category": "beach",
+   "num_user_rated": 56,
+   "vicinity": "Tiruvottiyur Beach, Tamil Nadu 600019, India",
+   "time": 60
+ },
+ {
+   "name": "Uthandi Beach",
+   "latitude": 12.8713261,
+   "longitude": 80.2507762,
+   "user_rating": 4.4,
+   "category": "beach",
+   "num_user_rated": 205,
+   "vicinity": "Chennai",
+   "time": 60
+ },
+ {
+   "name": "Beautiful Beach",
+   "latitude": 12.9214993,
+   "longitude": 80.2568178,
+   "user_rating": 4.2,
+   "category": "beach",
+   "num_user_rated": 78,
+   "vicinity": "Injambakkam, Harichandra 3rd Cross St, Cholamandal Artists Village, Injambakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Enfour Beach",
+   "latitude": 13.1326365,
+   "longitude": 80.3017719,
+   "user_rating": 4.9,
+   "category": "beach",
+   "num_user_rated": 11,
+   "vicinity": "Fishing Harbour, Tondiarpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Covelong Beach",
+   "latitude": 12.7870019,
+   "longitude": 80.2504447,
+   "user_rating": 3.9,
+   "category": "beach",
+   "num_user_rated": 33,
+   "vicinity": "Covelong, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Adventure Aero Sports Association",
+   "latitude": 12.963583,
+   "longitude": 80.261626,
+   "user_rating": 5,
+   "category": "adventure&game",
+   "num_user_rated": 2,
+   "vicinity": "NO.305, Palkalai Nagar, Palavakkam",
+   "time": 120
+ },
+ {
+   "name": "Adventure Aero Sports Association",
+   "latitude": 12.9637439,
+   "longitude": 80.2617798,
+   "user_rating": 4.3,
+   "category": "adventure&game",
+   "num_user_rated": 40,
+   "vicinity": "No. 305, 8th Cross St, Palkalai Nagar, Palavakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Adventures India",
+   "latitude": 13.0536743,
+   "longitude": 80.2339281,
+   "user_rating": 4,
+   "category": "adventure&game",
+   "num_user_rated": 2,
+   "vicinity": "151, Kodambakkam High Rd, Parthsarathy Puram, T. Nagar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Apache adventure camp Head office-forest camping,tent camp,adventure tour camp in chennai",
+   "latitude": 13.0336742,
+   "longitude": 80.2296273,
+   "user_rating": 4.2,
+   "category": "adventure&game",
+   "num_user_rated": 9,
+   "vicinity": "#2, Police Quarter's Lane, T. Nagar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Beach Adventures",
+   "latitude": 12.6839933,
+   "longitude": 80.2156624,
+   "user_rating": 4,
+   "category": "adventure&game",
+   "num_user_rated": 85,
+   "vicinity": "169/17, ECR, 5km from Crocodile Park, District-Chennai, Pattipulam",
+   "time": 120
+ },
+ {
+   "name": "Chennai Adventure Club",
+   "latitude": 13.0658532,
+   "longitude": 80.2102307,
+   "user_rating": 4.9,
+   "category": "adventure&game",
+   "num_user_rated": 20,
+   "vicinity": "2/16 , 1st Floor, Ambalavanar St, Arumbakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Freeing India",
+   "latitude": 13.0552914,
+   "longitude": 80.2498353,
+   "user_rating": 4.3,
+   "category": "adventure&game",
+   "num_user_rated": 758,
+   "vicinity": "123, Ispahani Centre, Nungambakkam High Rd, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Freeing India",
+   "latitude": 12.99624,
+   "longitude": 80.268823,
+   "user_rating": 4.4,
+   "category": "adventure&game",
+   "num_user_rated": 485,
+   "vicinity": "E21, 16th Cross St, GOCHS Colony, Besant Nagar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fun & Bowling",
+   "latitude": 12.972018,
+   "longitude": 80.220107,
+   "user_rating": 3.7,
+   "category": "adventure&game",
+   "num_user_rated": 493,
+   "vicinity": "No.137 Grand Mall 3rd Floor, V.O.C Nagar, Doctor Seetaram Nagar, Velachery, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fun 2 Play",
+   "latitude": 12.9213642,
+   "longitude": 80.0924279,
+   "user_rating": 4,
+   "category": "adventure&game",
+   "num_user_rated": 37,
+   "vicinity": "253/1C2B, First floor SSRComplex, Bharathi Nagar, Mudichur Rd, Tambaram West",
+   "time": 120
+ },
+ {
+   "name": "Fun Park A/c",
+   "latitude": 13.1253228,
+   "longitude": 79.9109969,
+   "user_rating": 4.3,
+   "category": "adventure&game",
+   "num_user_rated": 4,
+   "vicinity": "149/1, JN Rd, Hariram Nagar, Poonga Nagar, Kakkalur",
+   "time": 120
+ },
+ {
+   "name": "Fun Ulagam",
+   "latitude": 12.9242093,
+   "longitude": 80.1143513,
+   "user_rating": 3.6,
+   "category": "adventure&game",
+   "num_user_rated": 232,
+   "vicinity": "3D,Anop Building, Mudichur Road, IOB, West Tambaram, opposite LNC Textiles, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Heaven Explorer",
+   "latitude": 13.1359352,
+   "longitude": 80.156315,
+   "user_rating": 5,
+   "category": "adventure&game",
+   "num_user_rated": 4,
+   "vicinity": "5, 1, Ayirankatha Amman Nagar, Oragadam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Kart Attack",
+   "latitude": 12.8965339,
+   "longitude": 80.2459793,
+   "user_rating": 4.1,
+   "category": "adventure&game",
+   "num_user_rated": 1217,
+   "vicinity": "3, Palm Garden Rd, Akkarai, Injambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Kartwheel - Kids Play & Party Zone",
+   "latitude": 13.0025514,
+   "longitude": 80.2552249,
+   "user_rating": 4.4,
+   "category": "adventure&game",
+   "num_user_rated": 944,
+   "vicinity": "New No.21, Old No.9 Balaram Road, Baktavatsalm Nagar, Adyar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Kiddo Castle - Kids Play & Party Zone",
+   "latitude": 12.9306847,
+   "longitude": 80.2315297,
+   "user_rating": 4.2,
+   "category": "adventure&game",
+   "num_user_rated": 375,
+   "vicinity": "5, Land Mark:, State Highway 49A, 394, Old Mahabalipuram Rd, near Cognizant Technology Solutions, Oggiyamduraipakkam",
+   "time": 120
+ },
+ {
+   "name": "Kidoos fun park",
+   "latitude": 12.8497859,
+   "longitude": 80.2261861,
+   "user_rating": 4.1,
+   "category": "adventure&game",
+   "num_user_rated": 77,
+   "vicinity": "OMR food street, near AGS cinemas, Chennai, Navalur",
+   "time": 120
+ },
+ {
+   "name": "MAGIC Thrills & Adventures (P) Limited",
+   "latitude": 12.7090085,
+   "longitude": 80.2248995,
+   "user_rating": 4.2,
+   "category": "adventure&game",
+   "num_user_rated": 33,
+   "vicinity": "#451A, East Coast Road, Nemmeli Village, Thiruporur",
+   "time": 120
+ },
+ {
+   "name": "MOOSAA LAND",
+   "latitude": 12.8492316,
+   "longitude": 80.2258376,
+   "user_rating": 4,
+   "category": "adventure&game",
+   "num_user_rated": 171,
+   "vicinity": "92, Old Mahabalipuram Rd, Thirumalai Nagar Annexe, Navalur",
+   "time": 120
+ },
+ {
+   "name": "Moosaland",
+   "latitude": 13.0846146,
+   "longitude": 80.1698676,
+   "user_rating": 4.3,
+   "category": "adventure&game",
+   "num_user_rated": 38,
+   "vicinity": "1/C1, Kamarajar Salai, Mogappair West, Padmavati Nagar, Virugambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Mudstacle Run",
+   "latitude": 12.8725495,
+   "longitude": 80.199568,
+   "user_rating": 3.6,
+   "category": "adventure&game",
+   "num_user_rated": 5,
+   "vicinity": "Karanai Main Rd, Ottiambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Mystery Rooms Chennai",
+   "latitude": 13.0677954,
+   "longitude": 80.2472212,
+   "user_rating": 4.5,
+   "category": "adventure&game",
+   "num_user_rated": 759,
+   "vicinity": "#24, 2nd Flr (Above Kora), BBCL Magnum, College Rd, Nungambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Off Road Sports",
+   "latitude": 12.6816312,
+   "longitude": 80.2146213,
+   "user_rating": 3.8,
+   "category": "adventure&game",
+   "num_user_rated": 348,
+   "vicinity": "168/3D, Pattipulam, East Cost Road, 2kms from Dolphin city, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Planet Adventure Paintball",
+   "latitude": 12.9727277,
+   "longitude": 80.2659384,
+   "user_rating": 3.8,
+   "category": "adventure&game",
+   "num_user_rated": 437,
+   "vicinity": "Shri, Krishna Enclave, No.8, Water Land Dr Rd, Kottivakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Planet Adventure's Jus' Play",
+   "latitude": 12.9723688,
+   "longitude": 80.2656251,
+   "user_rating": 4,
+   "category": "adventure&game",
+   "num_user_rated": 1,
+   "vicinity": "No.8, Shri Krishna Enclave, Kottivakkam Beach, Near Bella Ciao, Water Land Dr Rd, Kaveri Nagar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Pleeease Mom",
+   "latitude": 13.0586471,
+   "longitude": 80.2646672,
+   "user_rating": 3.6,
+   "category": "adventure&game",
+   "num_user_rated": 68,
+   "vicinity": "2, Club House Rd, Express Estate, Royapettah, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Snow Kingdom (Chennai)",
+   "latitude": 12.9131665,
+   "longitude": 80.25118,
+   "user_rating": 4.6,
+   "category": "adventure&game",
+   "num_user_rated": 16160,
+   "vicinity": "SH 49, next to VGP Universal Kingdom, Injambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Wild Tribe Ranch",
+   "latitude": 12.7339119,
+   "longitude": 80.2348233,
+   "user_rating": 3.6,
+   "category": "adventure&game",
+   "num_user_rated": 401,
+   "vicinity": "Nemmeli",
+   "time": 120
+ },
+ {
+   "name": "Blue Lagoon Beach Resort",
+   "latitude": 12.941559,
+   "longitude": 80.255757,
+   "user_rating": 3.9,
+   "category": "amusement_park",
+   "num_user_rated": 4165,
+   "vicinity": "5/72, East Coast Road, Raja Nagar, Neelankarai",
+   "time": 360
+ },
+ {
+   "name": "Kishkinta",
+   "latitude": 12.9366488,
+   "longitude": 80.0786805,
+   "user_rating": 3.8,
+   "category": "amusement_park",
+   "num_user_rated": 4822,
+   "vicinity": "Near, 82, Varadarajapuram, Darkas Ward - II, Tambaram, Chennai",
+   "time": 360
+ },
+ {
+   "name": "MGM Dizzee World",
+   "latitude": 12.8257501,
+   "longitude": 80.2442984,
+   "user_rating": 4,
+   "category": "amusement_park",
+   "num_user_rated": 13411,
+   "vicinity": "1/74, State Highway 49, Muthukadu",
+   "time": 360
+ },
+ {
+   "name": "Queensland Amusement Park",
+   "latitude": 13.0300355,
+   "longitude": 80.0276134,
+   "user_rating": 4.1,
+   "category": "amusement_park",
+   "num_user_rated": 18647,
+   "vicinity": "Chennai-Bengaluru Highway, Palanjur, Sembarambakkam, Chennai",
+   "time": 360
+ },
+ {
+   "name": "VGP Universal Kingdom",
+   "latitude": 12.914221,
+   "longitude": 80.250524,
+   "user_rating": 4,
+   "category": "amusement_park",
+   "num_user_rated": 20361,
+   "vicinity": "State Highway 49, Injambakkam, Chennai",
+   "time": 360
+ },
+ {
+   "name": "Monkey Monk",
+   "latitude": 12.6816423,
+   "longitude": 80.2192844,
+   "user_rating": 4,
+   "category": "amusement_park",
+   "num_user_rated": 265,
+   "vicinity": "No. 109, ECR Road, Pattipulam, Village, Chennai",
+   "time": 360
+ },
+ {
+   "name": "Veera Aqua",
+   "latitude": 13.1913934,
+   "longitude": 80.3127677,
+   "user_rating": 3.9,
+   "category": "amusement_park",
+   "num_user_rated": 25,
+   "vicinity": "115, Ennore Express Road, Netaji Nagar West, Ennore",
+   "time": 360
+ },
+ {
+   "name": "Tirusula Nathar Temple Tank",
+   "latitude": 12.9721803,
+   "longitude": 80.1668934,
+   "user_rating": 4,
+   "category": "amusement_park",
+   "num_user_rated": 45,
+   "vicinity": "Harbour quaters, Tirusulam, Chennai",
+   "time": 360
+ },
+ {
+   "name": "Dolphin City",
+   "latitude": 12.7010925,
+   "longitude": 80.222357,
+   "user_rating": 2.9,
+   "category": "amusement_park",
+   "num_user_rated": 33,
+   "vicinity": "State Highway 49, Nemmeli",
+   "time": 360
+ },
+ {
+   "name": "Wonderla amusement park",
+   "latitude": 12.735753,
+   "longitude": 80.1640998,
+   "user_rating": 3.7,
+   "category": "amusement_park",
+   "num_user_rated": 35,
+   "vicinity": "Unnamed Road, Illalur RF, Illalur",
+   "time": 360
+ },
+ {
+   "name": "Chetpet ecopark boat house",
+   "latitude": 13.0751674,
+   "longitude": 80.2407503,
+   "user_rating": 0,
+   "category": "amusement_park",
+   "num_user_rated": 0,
+   "vicinity": "New Bupathy Nagar",
+   "time": 360
+ },
+ {
+   "name": "Perandur Lake",
+   "latitude": 13.3164959,
+   "longitude": 79.939431,
+   "user_rating": 0,
+   "category": "amusement_park",
+   "num_user_rated": 0,
+   "vicinity": "Perandur",
+   "time": 360
+ },
+ {
+   "name": "Periya Kulam",
+   "latitude": 13.3027012,
+   "longitude": 79.9242792,
+   "user_rating": 0,
+   "category": "amusement_park",
+   "num_user_rated": 0,
+   "vicinity": "Mambakkam",
+   "time": 360
+ },
+ {
+   "name": "Islamic Trust in Chennai",
+   "latitude": 13.130024,
+   "longitude": 80.249311,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Old No. 140, New no: 173, Tondiarpet High road Kodungaiyur Chennai, Tamil, Nadu",
+   "time": 60
+ },
+ {
+   "name": "Al-Huda Jumma Masjid",
+   "latitude": 13.0539582,
+   "longitude": 80.2379387,
+   "user_rating": 4.6,
+   "category": "mosque",
+   "num_user_rated": 50,
+   "vicinity": "24, 30, Kamarajapuram, Nungambakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "MMA Mosque cum Hostel",
+   "latitude": 13.0754156,
+   "longitude": 80.2622884,
+   "user_rating": 4.4,
+   "category": "mosque",
+   "num_user_rated": 36,
+   "vicinity": "Kennet Lane, Chintadripet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Muhyidden juma masjid",
+   "latitude": 13.0978946,
+   "longitude": 80.2655587,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "10/17,11/19, 2nd street, Pulianthope, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Masjid E Charminar Ahle Hadees",
+   "latitude": 13.0978265,
+   "longitude": 80.2591877,
+   "user_rating": 4.7,
+   "category": "mosque",
+   "num_user_rated": 74,
+   "vicinity": "191, Perambur Barracks Road, Dadashamakan, Jamalia, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Walajah Big Mosque",
+   "latitude": 13.0637766,
+   "longitude": 80.2725435,
+   "user_rating": 4.7,
+   "category": "mosque",
+   "num_user_rated": 1407,
+   "vicinity": "Triplicane High Road, SVM Nagar, Ellis Puram, Padupakkam, Triplicane, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Railway Station Mosque",
+   "latitude": 13.0757644,
+   "longitude": 80.246227,
+   "user_rating": 4.4,
+   "category": "mosque",
+   "num_user_rated": 31,
+   "vicinity": "Chennai,, Pullapuram, Chetpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Noor Masjid",
+   "latitude": 13.1129343,
+   "longitude": 80.2792621,
+   "user_rating": 4.7,
+   "category": "mosque",
+   "num_user_rated": 40,
+   "vicinity": "26 17/2, Parthasarathi, Main Street, Old Washermanpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Bavuta Masjid-e-Mubaarak",
+   "latitude": 13.1150263,
+   "longitude": 80.284162,
+   "user_rating": 4.9,
+   "category": "mosque",
+   "num_user_rated": 44,
+   "vicinity": "9, 5, Mottai Garden, Old Washermanpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Mosque",
+   "latitude": 13.0471156,
+   "longitude": 80.2743051,
+   "user_rating": 3.9,
+   "category": "mosque",
+   "num_user_rated": 22,
+   "vicinity": "Avvai Shanmugam Salai, Sudandira Nagar, Royapettah, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Ya Muhyideen Masjid and Madarasa",
+   "latitude": 13.126975,
+   "longitude": 80.2779666,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "2/6, 1st Street, Durga Devi Nagar, Tondiarpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Jumma Masjid, mylapore",
+   "latitude": 13.0345906,
+   "longitude": 80.2731149,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "12, Kutchery Road, Madhavaperumalpuram, Mylapore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Jumma Mosque",
+   "latitude": 13.0344701,
+   "longitude": 80.273195,
+   "user_rating": 4.7,
+   "category": "mosque",
+   "num_user_rated": 93,
+   "vicinity": "178, 52, Kutchery Road, Mylapore, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Ayisha(rali) Educational Trust",
+   "latitude": 13.119622,
+   "longitude": 80.237744,
+   "user_rating": 4.7,
+   "category": "mosque",
+   "num_user_rated": 18,
+   "vicinity": "2, Main Road, Kennedy Square, Perambur, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Dargah",
+   "latitude": 13.1342628,
+   "longitude": 80.2777661,
+   "user_rating": 4.1,
+   "category": "mosque",
+   "num_user_rated": 45,
+   "vicinity": "3rd Street, Nethaji Nagar, Old Washermanpet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Edkha Mosque",
+   "latitude": 13.0294086,
+   "longitude": 80.2654081,
+   "user_rating": 4.8,
+   "category": "mosque",
+   "num_user_rated": 39,
+   "vicinity": "Old No. 236, New No. 30, Saint Marys Road, Mandaveli, Chennai",
+   "time": 60
+ },
+ {
+   "name": "MASJID E BILAL BIN RUBA",
+   "latitude": 13.1294409,
+   "longitude": 80.2303768,
+   "user_rating": 4.9,
+   "category": "mosque",
+   "num_user_rated": 61,
+   "vicinity": "No: 8, 'B' Block 5th Street Thanikachalam Nagar Ponniammanmedu Chennai :",
+   "time": 60
+ },
+ {
+   "name": "Masjid E Huda & Madrasathul Huda",
+   "latitude": 13.0176533,
+   "longitude": 80.2229826,
+   "user_rating": 4.2,
+   "category": "mosque",
+   "num_user_rated": 13,
+   "vicinity": "Salavaiyalar Colony 2nd Street, No.58/81,Gotha medu, Saidapet, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Tntj Padi",
+   "latitude": 13.0968941,
+   "longitude": 80.1848108,
+   "user_rating": 4.4,
+   "category": "mosque",
+   "num_user_rated": 30,
+   "vicinity": "81/63, Padi, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Masjid noor",
+   "latitude": 13.029523,
+   "longitude": 80.1919187,
+   "user_rating": 4.4,
+   "category": "mosque",
+   "num_user_rated": 20,
+   "vicinity": "Netaji Subash Chandra Bose Street, Bharathi Nagar, Nesapakkam, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Masjid E Elahi Mosque",
+   "latitude": 12.9872462,
+   "longitude": 80.2227316,
+   "user_rating": 4.6,
+   "category": "mosque",
+   "num_user_rated": 121,
+   "vicinity": "No. 31/13, Throwpathy Amman Koil 2nd Street, TN Police Housing Colony, Velachery, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Taj Traders",
+   "latitude": 13.0363162,
+   "longitude": 80.1500645,
+   "user_rating": 4.9,
+   "category": "mosque",
+   "num_user_rated": 15,
+   "vicinity": "opp. porur lake, 2/5, Trunk Road, Gandhi Nagar, Chennai",
+   "time": 60
+ },
+ {
+   "name": "Masjid-e-Sabeel-ul-Huda",
+   "latitude": 12.9364457,
+   "longitude": 80.2508012,
+   "user_rating": 4.9,
+   "category": "mosque",
+   "num_user_rated": 10,
+   "vicinity": "2/239, 1st Avenue, Vettuvankeni, Chennai",
+   "time": 60
+ },
+ {
+   "name": "MOSQUE",
+   "latitude": 13.1299112,
+   "longitude": 80.0795836,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Anna Nagar, Pattabiram",
+   "time": 60
+ },
+ {
+   "name": "Masjid-e-Mohammedia",
+   "latitude": 13.1291967,
+   "longitude": 80.0792867,
+   "user_rating": 4,
+   "category": "mosque",
+   "num_user_rated": 6,
+   "vicinity": "Anna Nagar Main Road, Kariyappa Nagar, Pattabiram",
+   "time": 60
+ },
+ {
+   "name": "Jumma Masjid",
+   "latitude": 12.8518992,
+   "longitude": 80.0647723,
+   "user_rating": 3.4,
+   "category": "mosque",
+   "num_user_rated": 5,
+   "vicinity": "6, Grand Southern Trunk Road, Jaibeemnagar, Grand Southern Trunk Road, Jaibeemnagar, Guduvanchery",
+   "time": 60
+ },
+ {
+   "name": "Barracks Road Masjid",
+   "latitude": 13.0833232,
+   "longitude": 80.2658677,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Periyamet",
+   "time": 60
+ },
+ {
+   "name": "Masjid E Mahmood",
+   "latitude": 13.070805,
+   "longitude": 80.2661507,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Pudupet",
+   "time": 60
+ },
+ {
+   "name": "Jumma Mosque",
+   "latitude": 13.0904606,
+   "longitude": 80.2821756,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Sowcarpet",
+   "time": 60
+ },
+ {
+   "name": "Masjid-e-Sayeedia",
+   "latitude": 13.0633414,
+   "longitude": 80.2688508,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Border Thottam",
+   "time": 60
+ },
+ {
+   "name": "Ilayangudi Mosque",
+   "latitude": 13.1022188,
+   "longitude": 80.2917543,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Seethakadi Nagar",
+   "time": 60
+ },
+ {
+   "name": "Fakkir Lebbai Mosque",
+   "latitude": 13.0479898,
+   "longitude": 80.2747732,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Gokulam Colony",
+   "time": 60
+ },
+ {
+   "name": "Ayanavaram Mosque",
+   "latitude": 13.0972001,
+   "longitude": 80.2324254,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "KK Nagar",
+   "time": 60
+ },
+ {
+   "name": "Choolaimedu Masjid",
+   "latitude": 13.0647325,
+   "longitude": 80.2303451,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Thiruvenkatapuram",
+   "time": 60
+ },
+ {
+   "name": "Madina Mazjid",
+   "latitude": 13.1016866,
+   "longitude": 80.2190165,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "ICF North Colony",
+   "time": 60
+ },
+ {
+   "name": "Ashok Nagar Masjid",
+   "latitude": 13.0393532,
+   "longitude": 80.2146154,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Sarvamangala Colony",
+   "time": 60
+ },
+ {
+   "name": "Mogappair Mosque",
+   "latitude": 13.0789843,
+   "longitude": 80.1710278,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Mogappair West",
+   "time": 60
+ },
+ {
+   "name": "khadeeja madarsa (cypher city sembigulam)",
+   "latitude": 13.0030287,
+   "longitude": 80.2069728,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Mela Ilandaikulam",
+   "time": 60
+ },
+ {
+   "name": "Masjid-e-Ilahi",
+   "latitude": 12.9875669,
+   "longitude": 80.2225024,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "TN Police Housing Colony",
+   "time": 60
+ },
+ {
+   "name": "J M Hawwa Jummah Masjid",
+   "latitude": 12.9889672,
+   "longitude": 80.2148333,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "TamilNadu Housing Board Colony",
+   "time": 60
+ },
+ {
+   "name": "Noorul Islam Mosque Ernavoor",
+   "latitude": 13.1928294,
+   "longitude": 80.3111695,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Ennore",
+   "time": 60
+ },
+ {
+   "name": "Mosque",
+   "latitude": 13.1071771,
+   "longitude": 80.1356183,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "TNHB Colony",
+   "time": 60
+ },
+ {
+   "name": "Masjid-E-Mubarak",
+   "latitude": 13.1153808,
+   "longitude": 80.1047757,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Vivekananda Nagar",
+   "time": 60
+ },
+ {
+   "name": "Jamiya Masjid",
+   "latitude": 12.9688271,
+   "longitude": 80.1467834,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Periyar Nagar",
+   "time": 60
+ },
+ {
+   "name": "Makkah Masjid - Vellakal",
+   "latitude": 12.9286161,
+   "longitude": 80.1824063,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Medavakkam",
+   "time": 60
+ },
+ {
+   "name": "Medavakkam Masjid",
+   "latitude": 12.9183678,
+   "longitude": 80.1887706,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Ranganathapuram",
+   "time": 60
+ },
+ {
+   "name": "Masjid E Elahi - Santhosapuram",
+   "latitude": 12.915666,
+   "longitude": 80.1707444,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Santhosapuram",
+   "time": 60
+ },
+ {
+   "name": "Masjid - Aadhi Nagar - Selaiyur (Near Christ King School)",
+   "latitude": 12.9207972,
+   "longitude": 80.1307767,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Bethelpuram",
+   "time": 60
+ },
+ {
+   "name": "AMS Masjid",
+   "latitude": 13.146537,
+   "longitude": 80.0604992,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Muthapudupet",
+   "time": 60
+ },
+ {
+   "name": "Masjid - Perungalathur",
+   "latitude": 12.9042107,
+   "longitude": 80.0935396,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "New Perungalathur",
+   "time": 60
+ },
+ {
+   "name": "Masjid - Nedunkundram",
+   "latitude": 12.877335,
+   "longitude": 80.1075463,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Nedunkundram",
+   "time": 60
+ },
+ {
+   "name": "Mannivakkam Masjid",
+   "latitude": 12.8910651,
+   "longitude": 80.0690988,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Mannivakkam Extension",
+   "time": 60
+ },
+ {
+   "name": "Masjid Munavvar Jumma Mosque & Madarsa",
+   "latitude": 12.8760229,
+   "longitude": 79.9996667,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Sirumathur",
+   "time": 60
+ },
+ {
+   "name": "Mosque",
+   "latitude": 12.8221565,
+   "longitude": 80.0444,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "SRM Nagar",
+   "time": 60
+ },
+ {
+   "name": "ASHAFUS SUUFFA MASJID",
+   "latitude": 12.9276125,
+   "longitude": 79.8752055,
+   "user_rating": 0,
+   "category": "mosque",
+   "num_user_rated": 0,
+   "vicinity": "Sunguvarchatram",
+   "time": 60
+ },
+ {
+   "name": "Sathyam Cinemas",
+   "latitude": 13.0553551,
+   "longitude": 80.2579667,
+   "user_rating": 4.6,
+   "category": "movie_theater",
+   "num_user_rated": 46861,
+   "vicinity": "8, Thiruvika Road, Royapettah, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Kasi Theatre",
+   "latitude": 13.029642,
+   "longitude": 80.2087,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 10489,
+   "vicinity": "No:91, 92, Inner Ring Road, Ashok Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "AGS Cinemas",
+   "latitude": 12.8505011,
+   "longitude": 80.2256851,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 20479,
+   "vicinity": "Coromandel Plaza, 5th Floor, 87/1A, Old Mahabalipuram Road, Navalur",
+   "time": 180
+ },
+ {
+   "name": "S2 Cinemas Perambur",
+   "latitude": 13.112285,
+   "longitude": 80.236243,
+   "user_rating": 4.3,
+   "category": "movie_theater",
+   "num_user_rated": 13939,
+   "vicinity": "2nd Floor Spectrum Mall, Paper Mills Road, Perambur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Kamala Cinemas",
+   "latitude": 13.0490233,
+   "longitude": 80.2100967,
+   "user_rating": 4.3,
+   "category": "movie_theater",
+   "num_user_rated": 12959,
+   "vicinity": "156, Arcot Road, Vadapalani, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Ega Theatre",
+   "latitude": 13.0778811,
+   "longitude": 80.2404623,
+   "user_rating": 3.9,
+   "category": "movie_theater",
+   "num_user_rated": 10504,
+   "vicinity": "810, Poonamallee High Road, Vasu Street, Kilpauk, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Rakki Cinemas",
+   "latitude": 13.1227884,
+   "longitude": 80.1474598,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 17650,
+   "vicinity": "No.1, Ambattur Red Hills Road, Ambattur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Ganapathy Ram Theatre",
+   "latitude": 13.0039687,
+   "longitude": 80.2563222,
+   "user_rating": 2.9,
+   "category": "movie_theater",
+   "num_user_rated": 3535,
+   "vicinity": "101, LB Road, Baktavatsalm Nagar, Adyar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Varadharaja Theatres",
+   "latitude": 12.9377829,
+   "longitude": 80.1390337,
+   "user_rating": 4.2,
+   "category": "movie_theater",
+   "num_user_rated": 7805,
+   "vicinity": "190/2B, 1st Main Road, Chitlapakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "S2 Theyagaraja",
+   "latitude": 12.9895125,
+   "longitude": 80.2564385,
+   "user_rating": 4.3,
+   "category": "movie_theater",
+   "num_user_rated": 21877,
+   "vicinity": "60, LB Road, Thiruvanmiyur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Palazzo Cinemas",
+   "latitude": 13.0504652,
+   "longitude": 80.2096475,
+   "user_rating": 4.6,
+   "category": "movie_theater",
+   "num_user_rated": 41809,
+   "vicinity": "3rd Floor The Forum Vijaya Mall NSK Salai, Arcot Road, Vadapalani, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Inox",
+   "latitude": 13.0429507,
+   "longitude": 80.2737903,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 9268,
+   "vicinity": "3rd Citi Center, Doctor Radha Krishnan Salai, Mylapore, Chennai",
+   "time": 180
+ },
+ {
+   "name": "AGS Cinemas",
+   "latitude": 13.0474385,
+   "longitude": 80.2449434,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 15261,
+   "vicinity": "No. 24, opp.to barathidasan hospital, 1, Gopathi Narayanaswami Chetty Road, T. Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "SPI CINEMAS",
+   "latitude": 13.0408793,
+   "longitude": 80.2560624,
+   "user_rating": 4.5,
+   "category": "movie_theater",
+   "num_user_rated": 52,
+   "vicinity": "1/1, Venus Colony, Teynampet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "PVR Skywalk",
+   "latitude": 13.073498,
+   "longitude": 80.221108,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 13490,
+   "vicinity": "Nelson Manickam Road, Aminjikarai, Chennai",
+   "time": 180
+ },
+ {
+   "name": "teentalkstudio",
+   "latitude": 13.054501,
+   "longitude": 80.211422,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "Raahat Plaza, besment shop no 10, 172, Arcot Road, Vadapalani, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Rohini Silver Screens",
+   "latitude": 13.0757486,
+   "longitude": 80.1958707,
+   "user_rating": 3.9,
+   "category": "movie_theater",
+   "num_user_rated": 23377,
+   "vicinity": "141/2, Poonamallee High Road, Koyambedu, Chennai",
+   "time": 180
+ },
+ {
+   "name": "AVM Studios",
+   "latitude": 13.0455608,
+   "longitude": 80.2044427,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 981,
+   "vicinity": "38, Arcot Road, AV Meiyappan Road, Ottagapalayam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Chennai's Visualite film Institute | Photography | Cinematography |Direction |Acting | Viscom Course",
+   "latitude": 13.0012552,
+   "longitude": 80.2544007,
+   "user_rating": 5,
+   "category": "movie_theater",
+   "num_user_rated": 209,
+   "vicinity": "29/14, Kamaraj Avenue 2nd Street, Indira Nagar, Venkata Rathinam Nagar, Adyar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Chandra Metro Mall",
+   "latitude": 13.046769,
+   "longitude": 80.1903895,
+   "user_rating": 4,
+   "category": "movie_theater",
+   "num_user_rated": 6431,
+   "vicinity": "Near D Mart, 262, Arcot Road, Rajeswari Colony, Virugambakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Jazz Cinemas Luxe",
+   "latitude": 12.9906971,
+   "longitude": 80.2167184,
+   "user_rating": 4.6,
+   "category": "movie_theater",
+   "num_user_rated": 35438,
+   "vicinity": "Phoenix Market City, No. 142, 2nd Floor, Velachery Main Road, Indira Gandhi Nagar, Velachery, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Shivakumar Raju",
+   "latitude": 13.061238,
+   "longitude": 80.163899,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "Maduravoyal, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Inox National Virugambakkam",
+   "latitude": 13.0470303,
+   "longitude": 80.1903285,
+   "user_rating": 3.9,
+   "category": "movie_theater",
+   "num_user_rated": 12536,
+   "vicinity": "Arcot Road, Chandra Metro Mall, Virugambakkam Old 92, New 262, Chennai",
+   "time": 180
+ },
+ {
+   "name": "PVR Cinemas",
+   "latitude": 12.9719462,
+   "longitude": 80.2205255,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 17720,
+   "vicinity": "3rd Grand Square Mall 137, Tambaram, Velachery - Tambaram Main Road, Velachery, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Kumaran Cinemas",
+   "latitude": 12.9720725,
+   "longitude": 80.1914614,
+   "user_rating": 3.6,
+   "category": "movie_theater",
+   "num_user_rated": 7441,
+   "vicinity": "5, Muthu Mohamed Street, Puzhuthivakkam, Madipakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Shree Radha Movie Park A/C",
+   "latitude": 13.1930996,
+   "longitude": 80.1834342,
+   "user_rating": 3.6,
+   "category": "movie_theater",
+   "num_user_rated": 678,
+   "vicinity": "GNT Road, Redhills, Padianallur",
+   "time": 180
+ },
+ {
+   "name": "Prarthana Beach Drive-in Theatre",
+   "latitude": 12.9298946,
+   "longitude": 80.2522815,
+   "user_rating": 3.8,
+   "category": "movie_theater",
+   "num_user_rated": 4417,
+   "vicinity": "State Highway 49, Injambakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Mayajaal Multiplex",
+   "latitude": 12.8480384,
+   "longitude": 80.2398611,
+   "user_rating": 4,
+   "category": "movie_theater",
+   "num_user_rated": 40451,
+   "vicinity": "34/1 East Coast Road Kanathur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Tik Prime",
+   "latitude": 12.9193728,
+   "longitude": 80.0833894,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "# 25, Ranganayagi Street, Manavalan Nagar, Old Perungalathur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "VVM Cinemas",
+   "latitude": 13.33569,
+   "longitude": 80.1947328,
+   "user_rating": 2.9,
+   "category": "movie_theater",
+   "num_user_rated": 211,
+   "vicinity": "57,Newcar Street, Thiruvallur Dist, Ponneri",
+   "time": 180
+ },
+ {
+   "name": "Vettri Theatres 4K 3D",
+   "latitude": 12.9546678,
+   "longitude": 80.1416564,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 18972,
+   "vicinity": "511, Great Southern Trunk Road, Chromepet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Sree Gopi Krishna Complex",
+   "latitude": 13.0948593,
+   "longitude": 80.2272743,
+   "user_rating": 3.1,
+   "category": "movie_theater",
+   "num_user_rated": 2500,
+   "vicinity": "13, Muthamman Koil Street, Ayanavaram, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Sri Brinda Theater",
+   "latitude": 13.1197413,
+   "longitude": 80.2421984,
+   "user_rating": 3.3,
+   "category": "movie_theater",
+   "num_user_rated": 2298,
+   "vicinity": "129, Madhavaram High Road, Perambur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Bharath Theatre",
+   "latitude": 13.1102599,
+   "longitude": 80.2797875,
+   "user_rating": 4.1,
+   "category": "movie_theater",
+   "num_user_rated": 2191,
+   "vicinity": "40, Dr.Vijayaraghavalu Road, Old Washermanpet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Govt. Certified Diploma Courses |Photography| Sound Engineering |Direction| Cinematography|Acting",
+   "latitude": 13.032575,
+   "longitude": 80.2166428,
+   "user_rating": 4.8,
+   "category": "movie_theater",
+   "num_user_rated": 16,
+   "vicinity": "15, 62nd Street, Indira Colony, Ashok Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "AnandRishi Productions",
+   "latitude": 13.0838603,
+   "longitude": 80.2633784,
+   "user_rating": 3.6,
+   "category": "movie_theater",
+   "num_user_rated": 15,
+   "vicinity": "2, Brethapet Road, Park Town, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Marudhar Studio",
+   "latitude": 13.0990815,
+   "longitude": 80.278156,
+   "user_rating": 4,
+   "category": "movie_theater",
+   "num_user_rated": 17,
+   "vicinity": "69/30, Krishnappa Tank Street, Kondithope, Chennai",
+   "time": 180
+ },
+ {
+   "name": "BLACKHAWK STUDIOS",
+   "latitude": 13.0529707,
+   "longitude": 80.2789383,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "Venkatrangam Street, Triplicane, Chennai",
+   "time": 180
+ },
+ {
+   "name": "IDream Cinemas",
+   "latitude": 13.116162,
+   "longitude": 80.2931543,
+   "user_rating": 4,
+   "category": "movie_theater",
+   "num_user_rated": 4242,
+   "vicinity": "No. 87, Suryanarayana, Thambu Chetty Street, Kalmandapam, Royapuram, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Pandian Cinema Hall",
+   "latitude": 13.1255228,
+   "longitude": 80.2787638,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "11, Parthasarathi Street, Old Washermanpet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Agastya Theatre",
+   "latitude": 13.1245833,
+   "longitude": 80.2890831,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "232, Thiruvottiyur High Road, Tondiarpet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Sri Pandiyan",
+   "latitude": 13.1285633,
+   "longitude": 80.2727091,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "15, Kamarajar Salai, Kodungaiyur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Cinesales Corporation",
+   "latitude": 13.0613668,
+   "longitude": 80.2273401,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "192, Anna Road, Anna Road, Chennai",
+   "time": 180
+ },
+ {
+   "name": "4th street Creation",
+   "latitude": 13.034136,
+   "longitude": 80.2502599,
+   "user_rating": 5,
+   "category": "movie_theater",
+   "num_user_rated": 1,
+   "vicinity": "Alwarpet Street, Phase 4, Alwarpet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "GREEN MATTE STUDIO",
+   "latitude": 13.0525896,
+   "longitude": 80.2189259,
+   "user_rating": 4.5,
+   "category": "movie_theater",
+   "num_user_rated": 28,
+   "vicinity": "34/17, South, Sivan Kovil Road, Power House, Kodambakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "CtcMediaboy",
+   "latitude": 13.054426,
+   "longitude": 80.204856,
+   "user_rating": 4.6,
+   "category": "movie_theater",
+   "num_user_rated": 5,
+   "vicinity": "No 17, 16/4, First Floor, Second Street, Dhanalakshmi Colony, Vadapalani, Chennai",
+   "time": 180
+ },
+ {
+   "name": "ICONIC CINEMA",
+   "latitude": 13.0542689,
+   "longitude": 80.2024927,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "No 50/8 C4,2nd Floor, Sairam Appartment, Harikrishnan Street, Saligramam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Alpine Media Films & Productions",
+   "latitude": 13.0674519,
+   "longitude": 80.1972569,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "Sriji Majestic Commercial Complex, F17, Koyambedu, Chennai",
+   "time": 180
+ },
+ {
+   "name": "META - Maya Export Training Academy",
+   "latitude": 13.06122,
+   "longitude": 80.1987054,
+   "user_rating": 5,
+   "category": "movie_theater",
+   "num_user_rated": 52,
+   "vicinity": "No.18, 72, Jakkamal Koil Street, Postal audit colony, Saligramam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Raj Cinema Hall - Chennai",
+   "latitude": 13.0194283,
+   "longitude": 80.2240107,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "20, Abdul Razzak Street, Saidapet, Chennai",
+   "time": 180
+ },
+ {
+   "name": "THE SOUTH INDIAN COMPANY",
+   "latitude": 13.0429169,
+   "longitude": 80.197391,
+   "user_rating": 4.3,
+   "category": "movie_theater",
+   "num_user_rated": 3,
+   "vicinity": "46/5, 53rd Street, Sector 9, K. K. Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Vavents Studio",
+   "latitude": 13.0381823,
+   "longitude": 80.1944041,
+   "user_rating": 5,
+   "category": "movie_theater",
+   "num_user_rated": 6,
+   "vicinity": "1228, 77th Street, Ponnambalam Colony, Sector 12, K. K. Nagar, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Ungalal Oruvan",
+   "latitude": 13.0155604,
+   "longitude": 80.2085475,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "Guindy, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Cinibeats",
+   "latitude": 13.0506587,
+   "longitude": 80.180703,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "1A, Main Road, Syndicate Colony, Alwartirunagar, Valasaravakkam, Chennai",
+   "time": 180
+ },
+ {
+   "name": "SR Theatre A/C DTS SONY 4K",
+   "latitude": 13.0127168,
+   "longitude": 80.2038613,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "103, Great Southern Trunk Road, Guindy, Maduranthakam",
+   "time": 180
+ },
+ {
+   "name": "Shree Radha Bala Multiplex",
+   "latitude": 13.1584266,
+   "longitude": 80.2040113,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "3, Dr. Ambedkar Street, Red Hills, Chennai",
+   "time": 180
+ },
+ {
+   "name": "SK - MARLEN Cinemas",
+   "latitude": 13.001838,
+   "longitude": 80.2039453,
+   "user_rating": 3.1,
+   "category": "movie_theater",
+   "num_user_rated": 2658,
+   "vicinity": "Subramania Mudali Street, No:18, Appavu Street, Alandur, Chennai",
+   "time": 180
+ },
+ {
+   "name": "PVR: Grand Galada Chennai",
+   "latitude": 12.978953,
+   "longitude": 80.161894,
+   "user_rating": 4.2,
+   "category": "movie_theater",
+   "num_user_rated": 23104,
+   "vicinity": "PVR LTD Grand Galada Mall Kohinoor-2, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Sundar Multiplex",
+   "latitude": 13.0352691,
+   "longitude": 80.1552711,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "32, Trunk Road, Poonamallee, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Arunmathi Theatre",
+   "latitude": 12.9776861,
+   "longitude": 80.1308357,
+   "user_rating": 3,
+   "category": "movie_theater",
+   "num_user_rated": 468,
+   "vicinity": "No 31, 7th Street, Anakaputhur",
+   "time": 180
+ },
+ {
+   "name": "GODSHIKA",
+   "latitude": 12.9677431,
+   "longitude": 80.1254378,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "9, Gandhi Nagar Main Road, Shankar Nagar, Pammal, Chennai",
+   "time": 180
+ },
+ {
+   "name": "MR Cinema Hall",
+   "latitude": 12.9393146,
+   "longitude": 80.12997,
+   "user_rating": 0,
+   "category": "movie_theater",
+   "num_user_rated": 0,
+   "vicinity": "49, Great Southern Trunk Road, Tambaram, Chennai",
+   "time": 180
+ },
+ {
+   "name": "Government Museum Chennai",
+   "latitude": 13.0716298,
+   "longitude": 80.2567955,
+   "user_rating": 4.3,
+   "category": "museum",
+   "num_user_rated": 9511,
+   "vicinity": "Government Maternity Hospital, Pantheon Road, Egmore, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Philatelic Bureau",
+   "latitude": 13.0672026,
+   "longitude": 80.2697426,
+   "user_rating": 4.3,
+   "category": "museum",
+   "num_user_rated": 25,
+   "vicinity": "Anna Salai, Chennai",
+   "time": 120
+ },
+ {
+   "name": "MGR Memorial House",
+   "latitude": 13.0385945,
+   "longitude": 80.2416468,
+   "user_rating": 4.4,
+   "category": "museum",
+   "num_user_rated": 695,
+   "vicinity": "27, Arcot Street, T. Nagar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Foundation Of Occupational Development",
+   "latitude": 13.0452808,
+   "longitude": 80.2121145,
+   "user_rating": 4.3,
+   "category": "museum",
+   "num_user_rated": 3,
+   "vicinity": "C-block, 1st Floor, Bharathiar Complex, 100, Feet Road, Vadapalani, Vadapalani, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Tamilnadu Science and Technology Center",
+   "latitude": 13.0124683,
+   "longitude": 80.2438056,
+   "user_rating": 4,
+   "category": "museum",
+   "num_user_rated": 289,
+   "vicinity": "Gandhi Mandapam Road, Guindy, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Edge Design House",
+   "latitude": 13.0040429,
+   "longitude": 80.2500045,
+   "user_rating": 4.6,
+   "category": "museum",
+   "num_user_rated": 11,
+   "vicinity": "Old No:32, New No:26 Vijay Mahal, 5th Main Road, Kasturba Nagar Adyar, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Dakshina Chitra Museum",
+   "latitude": 12.823037,
+   "longitude": 80.2420451,
+   "user_rating": 4.4,
+   "category": "museum",
+   "num_user_rated": 10281,
+   "vicinity": "State Highway 49, Muthukadu",
+   "time": 120
+ },
+ {
+   "name": "Science City",
+   "latitude": 13.0133831,
+   "longitude": 80.242994,
+   "user_rating": 4.2,
+   "category": "museum",
+   "num_user_rated": 189,
+   "vicinity": "Planatarium Campus, Gandhi Mandapam Road, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Vivekananda House",
+   "latitude": 13.0498494,
+   "longitude": 80.2804094,
+   "user_rating": 4.5,
+   "category": "museum",
+   "num_user_rated": 5930,
+   "vicinity": "Kamaraj Salai, Marina Beach Road, Triplicane, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Chennai Rail Museum",
+   "latitude": 13.100308,
+   "longitude": 80.2073677,
+   "user_rating": 4.4,
+   "category": "museum",
+   "num_user_rated": 4624,
+   "vicinity": "next to ICF Furnishing Division, New Avadi Road, Villivakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Chennai Rail Museum",
+   "latitude": 13.0826333,
+   "longitude": 80.2749465,
+   "user_rating": 4,
+   "category": "museum",
+   "num_user_rated": 9,
+   "vicinity": "Kannappar Thidal, Periyamet, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Chennai central station",
+   "latitude": 13.0828453,
+   "longitude": 80.2752807,
+   "user_rating": 4.3,
+   "category": "museum",
+   "num_user_rated": 238,
+   "vicinity": "Puratchi Thalaivar Dr MGR Central railway station, Kannappar Thidal, Periyamet, Chennai",
+   "time": 120
+ },
+ {
+   "name": "T M Gembu Chetty",
+   "latitude": 13.086074,
+   "longitude": 80.279364,
+   "user_rating": 5,
+   "category": "museum",
+   "num_user_rated": 2,
+   "vicinity": "Old No. 158 C, New No. 129 c, Rasappa Chetty Street,, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Fort St. George",
+   "latitude": 13.0796439,
+   "longitude": 80.2874492,
+   "user_rating": 4.2,
+   "category": "museum",
+   "num_user_rated": 3858,
+   "vicinity": "near Legislature and Secretariat, Rajaji Road, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Perarignar Anna Museum",
+   "latitude": 13.0662097,
+   "longitude": 80.2850929,
+   "user_rating": 4.4,
+   "category": "museum",
+   "num_user_rated": 51,
+   "vicinity": "Navalar Nagar, Chepauk, Triplicane, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Kalainar Karunanithi Memorial",
+   "latitude": 13.0659612,
+   "longitude": 80.2857913,
+   "user_rating": 3.3,
+   "category": "museum",
+   "num_user_rated": 3,
+   "vicinity": "Navalar Nagar, Chepauk, Triplicane, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Global Marble Emporium",
+   "latitude": 13.053664,
+   "longitude": 80.211943,
+   "user_rating": 4.8,
+   "category": "museum",
+   "num_user_rated": 47,
+   "vicinity": "64/1, Inner Ring Road, Thirunagar, Vadapalani, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Thattan Kulam Pond",
+   "latitude": 13.1466876,
+   "longitude": 80.231061,
+   "user_rating": 3.6,
+   "category": "museum",
+   "num_user_rated": 11,
+   "vicinity": "Kanmal Nagar, Madhavaram, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Magic Mirage Science",
+   "latitude": 13.0571361,
+   "longitude": 80.1932459,
+   "user_rating": 5,
+   "category": "museum",
+   "num_user_rated": 1,
+   "vicinity": "#257, 2nd Main Road, Natesa Nagar, Virugambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "SRI KOLHAPURI - The Doll Factory",
+   "latitude": 12.9730711,
+   "longitude": 80.1898352,
+   "user_rating": 4.7,
+   "category": "museum",
+   "num_user_rated": 38,
+   "vicinity": "1, 5th Street, Nanganallur, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Click Art Museum",
+   "latitude": 12.91321,
+   "longitude": 80.2513047,
+   "user_rating": 4.2,
+   "category": "museum",
+   "num_user_rated": 745,
+   "vicinity": "159, 5/108 5/108, State Highway 49, Akkarai, Injambakkam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "The Raintree, Anna Salai",
+   "latitude": 13.033861,
+   "longitude": 80.243921,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 6810,
+   "vicinity": "636, Anna Salai, Teynampet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Radisson Blu Hotel Chennai",
+   "latitude": 12.9944534,
+   "longitude": 80.1875061,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 5257,
+   "vicinity": "531, Chennai - Theni Highway, St.Thomas Mount",
+   "time": 90
+ },
+ {
+   "name": "Lemon Tree Hotel, Chennai",
+   "latitude": 13.0111566,
+   "longitude": 80.2246885,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 3491,
+   "vicinity": "72, Sardar Patel Road, Venkta Puram, Guindy, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Grand by GRT Hotels",
+   "latitude": 13.0401407,
+   "longitude": 80.2451383,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 10382,
+   "vicinity": "120, Sir Theagaraya Road, Drivers Colony, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Barbeque Nation - Chennai - T Nagar",
+   "latitude": 13.0469296,
+   "longitude": 80.2349447,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 7183,
+   "vicinity": "near The Grand Sweets, No. 39, 1st Floor, Star City Serviced Apartment Ground Floor, near The Grand Sweets, Bazullah Road, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "New Woodlands Hotel",
+   "latitude": 13.045397,
+   "longitude": 80.2621209,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 7243,
+   "vicinity": "72 & 75, Doctor Radha Krishnan Salai, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Ginger Hotel Chennai (Vadapalani)",
+   "latitude": 13.0564722,
+   "longitude": 80.2111602,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 2248,
+   "vicinity": "61, Inner Ring Road, NGO Colony, Vadapalani, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Anjappar Chettinad Restaurant Nungambakkam",
+   "latitude": 13.0558391,
+   "longitude": 80.2484305,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 1490,
+   "vicinity": "Rosy Tower, 7/2, Nungambakkam High Road, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Sangeetha Veg Restaurant",
+   "latitude": 13.0070607,
+   "longitude": 80.250072,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 12022,
+   "vicinity": "Shop No: 7, near Reliance Digital, 1st Main Road, Gandhi Nagar, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "MGM Eastwoods",
+   "latitude": 12.9106138,
+   "longitude": 80.2498873,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 1069,
+   "vicinity": "1, 240, State Highway 49, Injambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Adyar Ananda Bhavan Pure Vegetarian Restaurant - Adyar",
+   "latitude": 13.0057837,
+   "longitude": 80.2574872,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 4259,
+   "vicinity": "No. 9, Near Adyar Manere LB Road Gandhi Nagar, Shastri Nagar, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Crimson Chakra",
+   "latitude": 13.0106705,
+   "longitude": 80.2540675,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1248,
+   "vicinity": "#13, 1st, Crescent Road, Gandhi Nagar, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Benjarong - Thai Restaurant",
+   "latitude": 13.03174,
+   "longitude": 80.2518265,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 1113,
+   "vicinity": "146, TT Krishnamachari Road, Alwarpet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Saravana Bhavan",
+   "latitude": 13.0412278,
+   "longitude": 80.235571,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 3214,
+   "vicinity": "102, Sir Theagaraya Road, Pondy Bazaar, Parthasarathi Puram, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "The Cascade",
+   "latitude": 13.0601823,
+   "longitude": 80.2480818,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 888,
+   "vicinity": "1632, Platinum Tower 2nd Floor, Khader Nawaz Khan Road, Thousand Lights West, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Raj Park Hotel Chennai",
+   "latitude": 13.0442798,
+   "longitude": 80.2593323,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 3447,
+   "vicinity": "180, TT Krishnamachari Road, Alwarpet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Cream Centre",
+   "latitude": 13.0671679,
+   "longitude": 80.2460597,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 2594,
+   "vicinity": "45, College Road, Subba Road Avenue, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "10 Downing Street",
+   "latitude": 13.0430687,
+   "longitude": 80.244168,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 5465,
+   "vicinity": "Kences Inn, 50, North Boag Road, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Subway",
+   "latitude": 13.0826252,
+   "longitude": 80.211007,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 1668,
+   "vicinity": "AC 112, 4th Avenue, Shanthi Colony, Anna Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Blue Lagoon Beach Resort",
+   "latitude": 12.941559,
+   "longitude": 80.255757,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 4165,
+   "vicinity": "5/72, East Coast Road, Raja Nagar, Neelankarai",
+   "time": 90
+ },
+ {
+   "name": "Rain Forest",
+   "latitude": 13.0071695,
+   "longitude": 80.257713,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 5017,
+   "vicinity": "41 & 42, 1st Main Road, Gandhi Road, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel City Tower",
+   "latitude": 13.0846097,
+   "longitude": 80.2760267,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 1023,
+   "vicinity": "148, Wall Tax Road, Park Town, Central",
+   "time": 90
+ },
+ {
+   "name": "The Pride Hotel, Chennai",
+   "latitude": 13.0787667,
+   "longitude": 80.2490373,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 2256,
+   "vicinity": "216, E V R Periyar Salai, Near Sangam Cinema Poonamalle, High Road, Kilpauk, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Park Avenue Hotel",
+   "latitude": 13.0640204,
+   "longitude": 80.2437126,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 711,
+   "vicinity": "No. 67, 84, Nungambakkam High Road, Block Z, Tirumurthy Nagar, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Maple Tree Hotels",
+   "latitude": 13.0550071,
+   "longitude": 80.211257,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1733,
+   "vicinity": "near City Union Bank, No.77, Inner Ring Road, Vadapalani, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 13.006459,
+   "longitude": 80.244743,
+   "user_rating": 3.5,
+   "category": "restaurant",
+   "num_user_rated": 2083,
+   "vicinity": "near CLRI, Ramco Systems, New #52, near CLRI, Ramco Systems, Sardar Patel Road, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Sigree Global Grill",
+   "latitude": 13.0530441,
+   "longitude": 80.2483127,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 2925,
+   "vicinity": "4th Floor, No: 11, Kodambakkam High Road, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Murugan Idli Shop",
+   "latitude": 13.0453721,
+   "longitude": 80.2328574,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 6618,
+   "vicinity": "46/13, North Usman Road, Parthasarathi Puram, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Raaj Bhaavan",
+   "latitude": 13.0558551,
+   "longitude": 80.2476916,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1111,
+   "vicinity": "4, Doctor Thirumoorthy Nagar Main Road, Tirumurthy Nagar, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Saravana Bhavan",
+   "latitude": 13.0853532,
+   "longitude": 80.2521809,
+   "user_rating": 3.5,
+   "category": "restaurant",
+   "num_user_rated": 2301,
+   "vicinity": "1, Vellala Street, Purasaiwakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Saravana Bhavan Chennai, Egmore",
+   "latitude": 13.076808,
+   "longitude": 80.262252,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 3211,
+   "vicinity": "21, Kennet Lane, Egmore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Keys Select Hotel Katti Ma",
+   "latitude": 12.990265,
+   "longitude": 80.258568,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 1370,
+   "vicinity": "11, 23, Kalakshetra Road, Thiruvanmiyur, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Adyar Ananda Bhavan Sweets & A2B Veg Restaurant - Nungambakkam",
+   "latitude": 13.0644215,
+   "longitude": 80.243309,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 900,
+   "vicinity": "No.1/9 &1, 10, Wheat Croft Road, Seetha Nagar, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Tuscana Pizzeria at Wallace Garden",
+   "latitude": 13.0616706,
+   "longitude": 80.2497568,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 816,
+   "vicinity": "Wallace Garden, Nungambakkam, 19, 3rd Street, Thousand Lights West, Thousand Lights, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Subway",
+   "latitude": 12.985678,
+   "longitude": 80.2456202,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 903,
+   "vicinity": "International Tech Park, CSIR Road, Tharamani, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Blue Diamond",
+   "latitude": 13.0790264,
+   "longitude": 80.2532858,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 448,
+   "vicinity": "934, E.V.R.Periyar Salai,Poonamalle High Road, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Kumarakom Restaurant",
+   "latitude": 13.0531671,
+   "longitude": 80.2484995,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 1720,
+   "vicinity": "Gemini Parson Complex, No: 3A/3, New, No 9, Kodambakkam High Road, Near, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "McDonald's",
+   "latitude": 13.0739162,
+   "longitude": 80.2211861,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 1824,
+   "vicinity": "No 1 Jn, Ampa Skywalk 627 Poonamalle High Rd, Nelson Manickam Road, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Nayagara",
+   "latitude": 13.0521392,
+   "longitude": 80.2278466,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 809,
+   "vicinity": "No.15, United India Colony, 2nd Cross, Station View Road, Kodambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Wangs Kitchen - Opposite to Temenos",
+   "latitude": 13.0655421,
+   "longitude": 80.2430627,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 496,
+   "vicinity": "G-7, Gee Gee Emerald, # 151, Village, Road, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Dahlia Restaurant",
+   "latitude": 13.0624689,
+   "longitude": 80.2452122,
+   "user_rating": 4.5,
+   "category": "restaurant",
+   "num_user_rated": 214,
+   "vicinity": "No 37, Kaveri Complex, 96, Nungambakkam High Road, Subba Road Avenue, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Shri Rajasthani Dhaba Restaurant",
+   "latitude": 13.0849281,
+   "longitude": 80.2040645,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 3270,
+   "vicinity": "Shop No. C40, 3rd Floor, 2nd Avenue Road, Anna Nagar, Near Adyar Ananda Bhavan, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Fruit Shop on Greams Road",
+   "latitude": 13.0603224,
+   "longitude": 80.2544789,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 1541,
+   "vicinity": "near Apollo Hospital, 11, Greams Road, Thousand Lights, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Apoorvas Sangeetha Veg Restaurant",
+   "latitude": 13.0564923,
+   "longitude": 80.2554904,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 1332,
+   "vicinity": "65, Greams Road, Thousand Lights, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hotel Saravana Bhavan",
+   "latitude": 13.0543886,
+   "longitude": 80.2562069,
+   "user_rating": 3.4,
+   "category": "restaurant",
+   "num_user_rated": 3262,
+   "vicinity": "133 & 134, Peters Road, Ganapathy Colony, Gopalapuram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "KFC",
+   "latitude": 13.0534635,
+   "longitude": 80.2475204,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1691,
+   "vicinity": "No 172, Kodambakkam High Road, Tirumurthy Nagar, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Amaravathi Restaurant",
+   "latitude": 13.0450725,
+   "longitude": 80.2593514,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 3427,
+   "vicinity": "opp. Music Academy, 1, Cathedral Road, Parthasarathypuram, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Azzuri Bay",
+   "latitude": 13.0111192,
+   "longitude": 80.2538252,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 2098,
+   "vicinity": "13, 1st Crescent Park Road, Gandhi Nagar, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Sangeetha Veg Restaurant",
+   "latitude": 13.0083135,
+   "longitude": 80.21055,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 4888,
+   "vicinity": "65, Anna Salai, Guindy, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Marina Inn",
+   "latitude": 13.0753418,
+   "longitude": 80.2591581,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 1351,
+   "vicinity": "55/31, Gandhi Irwin Road, Egmore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Anjappar Chettinad Restaurant R K Salai",
+   "latitude": 13.0443719,
+   "longitude": 80.2657347,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1304,
+   "vicinity": "71, Doctor Radha Krishnan Salai, Thulukkanam Thottam, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Pizza Hut",
+   "latitude": 13.0004966,
+   "longitude": 80.2526614,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 664,
+   "vicinity": "61, Kasturba Nagar 3rd Cross Street, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "China Town",
+   "latitude": 13.0458949,
+   "longitude": 80.2580483,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 760,
+   "vicinity": "#74, Third Floor, Cathedral Road, Pudupet, Gopalapuram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Amma Chettinadu Restaurant",
+   "latitude": 13.0480314,
+   "longitude": 80.2445178,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 1793,
+   "vicinity": "Near Bharathi Rajaa Hospital, 1, Giri Road, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Chokhi Dhani, Chennai",
+   "latitude": 13.0108795,
+   "longitude": 80.0073027,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 5699,
+   "vicinity": "NH-4, Near Queensland Theme Park, Kevlur Road Tandalam, Sriperumbudur, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Ente Keralam",
+   "latitude": 13.0833219,
+   "longitude": 80.2102017,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 1225,
+   "vicinity": "No.61, 5th Avenue, Shanthi Colony, Anna Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Pizza Hut",
+   "latitude": 13.0444064,
+   "longitude": 80.2655655,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 1198,
+   "vicinity": "Ace Tower, 73, RK Salai, Anna Salai, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Domino's Pizza",
+   "latitude": 13.1156605,
+   "longitude": 80.244601,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 1352,
+   "vicinity": "Plot No, beside Revathi Stores, 111, Melpatti Ponnappan Street, பெரம்பூர், சென்னை",
+   "time": 90
+ },
+ {
+   "name": "Kings Hotel Egmore #Rooms #Bar #Restaurant #BanquetHall #Partyhall",
+   "latitude": 13.0725273,
+   "longitude": 80.2548587,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 905,
+   "vicinity": "32, Halls Road, Egmore, opp Egmore Baby Hospital, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Opal Inn Hotel",
+   "latitude": 12.9966639,
+   "longitude": 80.2587124,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 32,
+   "vicinity": "15, Mahatma Gandhi Road, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Radisson Blu Hotel Chennai",
+   "latitude": 12.9944534,
+   "longitude": 80.1875061,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 5257,
+   "vicinity": "531, Chennai - Theni Highway, St.Thomas Mount",
+   "time": 90
+ },
+ {
+   "name": "The French Loaf",
+   "latitude": 13.0557822,
+   "longitude": 80.2349104,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 196,
+   "vicinity": "80, Mahalingapuram Main Road, Mahalingapuram, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 13.006459,
+   "longitude": 80.244743,
+   "user_rating": 3.5,
+   "category": "restaurant",
+   "num_user_rated": 2083,
+   "vicinity": "near CLRI, Ramco Systems, New #52, near CLRI, Ramco Systems, Sardar Patel Road, Adyar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Barista",
+   "latitude": 12.9990934,
+   "longitude": 80.270669,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 578,
+   "vicinity": "No M, 29/4, 25th Cross Street, Besant Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Mash Resto-Café Besant Nagar",
+   "latitude": 13.0027885,
+   "longitude": 80.2722267,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 1413,
+   "vicinity": "1st Floor, 13, 5th Avenue, Urrur Kuppam, Besant Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 12.9286222,
+   "longitude": 80.1144833,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 976,
+   "vicinity": "Old No 9 New No 67, Rajaji Road, Venkatesan Street, Opp National Theater, West Tambaram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 13.0886288,
+   "longitude": 80.2867911,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1353,
+   "vicinity": "225, NSC Bose Road, Parry's Corner, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Cafe Amin",
+   "latitude": 13.0513692,
+   "longitude": 80.2641501,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 1126,
+   "vicinity": "No. 21, Royapettah High Rd, Opposite to Police Station, Azad Nagar, Royapettah, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Coffeetales",
+   "latitude": 13.0817903,
+   "longitude": 80.2249971,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 518,
+   "vicinity": "7, 7th West Cross Street, Shenoy Nagar West, Bharathi Puram, Annanagar East, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 12.9567456,
+   "longitude": 80.2553724,
+   "user_rating": 3.5,
+   "category": "restaurant",
+   "num_user_rated": 2753,
+   "vicinity": "No: 2/546, East Coast Road, Neelangarai, Near Antony church, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Doveton Cafe",
+   "latitude": 13.0866669,
+   "longitude": 80.2581204,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 4917,
+   "vicinity": "No.5, Purasawalkam High Road, Purasaiwakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Breads",
+   "latitude": 13.0147263,
+   "longitude": 80.224472,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 158,
+   "vicinity": "7/2, Anna Salai, Saidapet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 13.0850088,
+   "longitude": 80.2031159,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 2514,
+   "vicinity": "Tovo Canteen, C-44 12th Main Road, 2nd Avenue, Anna Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 12.9797185,
+   "longitude": 80.2276573,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 3463,
+   "vicinity": "3, 1st Main Road, Baby Nagar, Velachery, Chennai",
+   "time": 90
+ },
+ {
+   "name": "ID SATHYAM",
+   "latitude": 13.055433,
+   "longitude": 80.258131,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 487,
+   "vicinity": "1st Floor, Plot No. 8, Sathyam Cinemas, Thiruvika Road, Peters Colony, Royapettah, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Brew",
+   "latitude": 13.0614009,
+   "longitude": 80.2638916,
+   "user_rating": 4.5,
+   "category": "restaurant",
+   "num_user_rated": 2,
+   "vicinity": "Taj Club House, No. 2, Club House Road, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Akshayas Snack Corner",
+   "latitude": 12.9200017,
+   "longitude": 80.1446282,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 15,
+   "vicinity": "No 46, 2nd Main Road, Sundaram Colony, Selaiyur, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Grand Star",
+   "latitude": 12.8424529,
+   "longitude": 80.0578065,
+   "user_rating": 3.3,
+   "category": "restaurant",
+   "num_user_rated": 6,
+   "vicinity": "144/A, G.S.T. Road, NH Service Road, Guduvanchery",
+   "time": 90
+ },
+ {
+   "name": "NOVELTY TEA HOUSE",
+   "latitude": 13.0891536,
+   "longitude": 80.2788544,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 1194,
+   "vicinity": "Old No.175, New, No.355, Mint Street, Park Town, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Ecstasy by Mickaël Besse",
+   "latitude": 13.055431,
+   "longitude": 80.258008,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 59,
+   "vicinity": "# 8, Sathyam Cinemas, Thiru-vi-ka Road, Royapettah, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Cafe Adoniya",
+   "latitude": 13.0708997,
+   "longitude": 80.2462746,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 74,
+   "vicinity": "66/5, Spur Tank Road, Mukta Gardens, Chetpet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Cafe Coffee Day",
+   "latitude": 13.0314234,
+   "longitude": 80.256411,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 213,
+   "vicinity": "127, 2nd Street, CP Ramaswamy Road, Abiramapuram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Ambrosia cafe & bakery",
+   "latitude": 13.0303182,
+   "longitude": 80.2456353,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 236,
+   "vicinity": "No 11, 139, Cenotaph Road, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Breads",
+   "latitude": 13.0873696,
+   "longitude": 80.1794263,
+   "user_rating": 3.9,
+   "category": "restaurant",
+   "num_user_rated": 218,
+   "vicinity": "2nd Building, 1461, Garden Avenue Thiruvalluvar Road Panneer Nagar East, Mogappair East, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 13.0365937,
+   "longitude": 80.2121449,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 1375,
+   "vicinity": "36, Balaji Complex, opposite to Gokulam Park, 1, 1st Street, Ashok Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 12.9428826,
+   "longitude": 80.1336145,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 1710,
+   "vicinity": "MIT Road, No.13, Chennai - Theni Highway, Kamakshi Colony, Chromepet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Cookie Man - Chennai Airport",
+   "latitude": 12.9840736,
+   "longitude": 80.1666751,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 28,
+   "vicinity": "Kamaraj Domestic Terminal, Check Inn Area Meenambakkam, airport, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Breads",
+   "latitude": 13.0565827,
+   "longitude": 80.2569049,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 58,
+   "vicinity": "102, Anna Salai, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Fusilli Reasons",
+   "latitude": 13.0817956,
+   "longitude": 80.2488186,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 5675,
+   "vicinity": "Ormes Road, 2/62, Kilpauk, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Lobby Lounge",
+   "latitude": 13.043045,
+   "longitude": 80.248685,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 13,
+   "vicinity": "365, Anna Salai, Thiru Vi Ka Kudiyiruppu, Teynampet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Hot Chips Veg Restaurant",
+   "latitude": 13.087229,
+   "longitude": 80.2587875,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 820,
+   "vicinity": "14, Thiru Narayana Guru Road, Periyamedu, Purasaiwakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Snofield",
+   "latitude": 13.0452081,
+   "longitude": 80.2594507,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 40,
+   "vicinity": "Amaravathi Complex, 1, Cathedral Road, Gopalapuram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Saravana Coffee",
+   "latitude": 13.0522849,
+   "longitude": 80.2279606,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 16,
+   "vicinity": "45/2, Akbarabad 2nd Street, Kodambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Truly Scrumptious",
+   "latitude": 13.0284467,
+   "longitude": 80.256199,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 18,
+   "vicinity": "CP Ramaswamy Street, SBI Colony, Abiramapuram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Ashok pan house",
+   "latitude": 13.08495,
+   "longitude": 80.2134538,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 58,
+   "vicinity": "No.42/1, 2 and avenue. Annanagar,, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.042013,
+   "longitude": 80.177885,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 9,
+   "vicinity": "opp. HDFC BANK, No:, opp. HDFC BANK, Arcot Road, Valasaravakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee Shop",
+   "latitude": 13.1327293,
+   "longitude": 80.2922552,
+   "user_rating": 4.5,
+   "category": "restaurant",
+   "num_user_rated": 8,
+   "vicinity": "No: 530, Thiruvottiyur High Road, Old Washermanpet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.0897033,
+   "longitude": 80.2785578,
+   "user_rating": 0,
+   "category": "restaurant",
+   "num_user_rated": 0,
+   "vicinity": "167, NSC Bose Road, Parrys, George Town, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.0867388,
+   "longitude": 80.2572848,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 6,
+   "vicinity": "259, Purasawalkam High Road, Perumalpet, Purasaiwakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Mathsya Egmore",
+   "latitude": 13.0750204,
+   "longitude": 80.258062,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 5678,
+   "vicinity": "1, Tamil Salai, KVN Puram, Egmore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Coffee House @ Mount Road",
+   "latitude": 13.0661983,
+   "longitude": 80.268601,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 1566,
+   "vicinity": "105, Anna Salai, Border Thottam, Padupakkam, Triplicane, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Craft Cafe",
+   "latitude": 13.0655519,
+   "longitude": 80.2669318,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 37,
+   "vicinity": "108, Mount Road, Anna Salai, Royapettah, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Chai Kings - Kilpauk",
+   "latitude": 13.0789505,
+   "longitude": 80.2519397,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 657,
+   "vicinity": "925, Poonamallee High Road, Kilpauk, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.063968,
+   "longitude": 80.280575,
+   "user_rating": 0,
+   "category": "restaurant",
+   "num_user_rated": 0,
+   "vicinity": "No: 282, BHARATHIYAR SALAI, Triplicane, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.059652,
+   "longitude": 80.274283,
+   "user_rating": 0,
+   "category": "restaurant",
+   "num_user_rated": 0,
+   "vicinity": "NISHAM FOODS PRIVATE LIMITED, NO: 35, Royapettah High Road, Royapettah, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Ratna Cafe",
+   "latitude": 13.0587341,
+   "longitude": 80.2740342,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 9211,
+   "vicinity": "Triplicane High Road, Triplicane, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Wild Garden - The café at Amethyst",
+   "latitude": 13.0571201,
+   "longitude": 80.2594242,
+   "user_rating": 4.4,
+   "category": "restaurant",
+   "num_user_rated": 3548,
+   "vicinity": "next to Corporation Bank, No 28, Whites Road, Amethyst, next to Corporation Bank, Royapettah, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Sandy's Chocolate Laboratory",
+   "latitude": 13.0610964,
+   "longitude": 80.2482131,
+   "user_rating": 4.3,
+   "category": "restaurant",
+   "num_user_rated": 1969,
+   "vicinity": "2 16/1 WALLACE GARDEN Next To Subway, Nungambakkam, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Costa Coffee - Harrington",
+   "latitude": 13.0689623,
+   "longitude": 80.2386226,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 22,
+   "vicinity": "No. 92, Lady Andal Venkata Subba Rao Matriculation Higher Secondary School., Harrington Road, Chetpet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Rathna Cafe",
+   "latitude": 13.1126397,
+   "longitude": 80.2885087,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 52,
+   "vicinity": "16, M.C. Road, Gollavar Agraharam Road, Old Washermanpet, Chennai",
+   "time": 90
+ },
+ {
+   "name": "The French Loaf",
+   "latitude": 13.113842,
+   "longitude": 80.294464,
+   "user_rating": 3.8,
+   "category": "restaurant",
+   "num_user_rated": 24,
+   "vicinity": "International Tech Park, Planet Yumm Food Court, Ascendas, Phase 1, Tharamani, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Brown Tree",
+   "latitude": 13.046506,
+   "longitude": 80.256068,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 134,
+   "vicinity": "54, Cathedral Road, Kasturi Estate, Gopalapuram, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Signature Tattoo & Arts Institute",
+   "latitude": 13.0556776,
+   "longitude": 80.242861,
+   "user_rating": 4.8,
+   "category": "restaurant",
+   "num_user_rated": 21,
+   "vicinity": "opp. to Valluvarkottom, #9 New Tank Street , Nungambakkam, Next to ICICI bank, opp. to Valluvarkottom, Chennai",
+   "time": 90
+ },
+ {
+   "name": "The Pedreno's Global Fusion Restaurant",
+   "latitude": 13.0429162,
+   "longitude": 80.2633849,
+   "user_rating": 4.2,
+   "category": "restaurant",
+   "num_user_rated": 1758,
+   "vicinity": "113, 114, PS Sivasamy Salai, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "CAKE MY DAY",
+   "latitude": 13.1242801,
+   "longitude": 80.2600998,
+   "user_rating": 4,
+   "category": "restaurant",
+   "num_user_rated": 64,
+   "vicinity": "948, Nagamalaipudukotai, Mahakavi Bharathi Nagar, Vyasarpadi, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.084695,
+   "longitude": 80.22516,
+   "user_rating": 1,
+   "category": "restaurant",
+   "num_user_rated": 1,
+   "vicinity": "No: \"30, JJ MALIGAI COMP, THIRUMANGALAM, Anna Nagar West, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.070899,
+   "longitude": 80.223618,
+   "user_rating": 0,
+   "category": "restaurant",
+   "num_user_rated": 0,
+   "vicinity": "MURUGAN STORES SUPER MARKET, NO:513, Poonamallee High Road, Aminjikarai, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Gangotree Chats",
+   "latitude": 13.0416485,
+   "longitude": 80.2444263,
+   "user_rating": 4.1,
+   "category": "restaurant",
+   "num_user_rated": 633,
+   "vicinity": "23 A, Mandira Appts, North Boag Road, Drivers Colony, T. Nagar, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Goli Vada Pav No.1",
+   "latitude": 13.0330146,
+   "longitude": 80.2712058,
+   "user_rating": 3.7,
+   "category": "restaurant",
+   "num_user_rated": 23,
+   "vicinity": "New No 27,East Mada Street, Vinayaka Nagar Colony, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Leo Coffee",
+   "latitude": 13.0323626,
+   "longitude": 80.2688853,
+   "user_rating": 3.6,
+   "category": "restaurant",
+   "num_user_rated": 61,
+   "vicinity": "42, South Mada Street, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai",
+   "time": 90
+ },
+ {
+   "name": "Arignar Anna Zoological Park",
+   "latitude": 12.8793266,
+   "longitude": 80.0819116,
+   "user_rating": 4.2,
+   "category": "zoo",
+   "num_user_rated": 42348,
+   "vicinity": "Grand Southern Trunk Road, Vandalur",
+   "time": 120
+ },
+ {
+   "name": "Chennai Snake Park Trust",
+   "latitude": 13.004233,
+   "longitude": 80.2386284,
+   "user_rating": 4.1,
+   "category": "zoo",
+   "num_user_rated": 5862,
+   "vicinity": "Raj Bhavan post, Guindy, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Wildlife photography tours -Naturographers",
+   "latitude": 13.040897,
+   "longitude": 80.2245048,
+   "user_rating": 4.7,
+   "category": "zoo",
+   "num_user_rated": 3,
+   "vicinity": "Arihant Apartments, 81 B, Thambiah Road, West Mambalam, Chennai",
+   "time": 120
+ },
+ {
+   "name": "Reptile House",
+   "latitude": 12.8799568,
+   "longitude": 80.0935926,
+   "user_rating": 4,
+   "category": "zoo",
+   "num_user_rated": 308,
+   "vicinity": "Vandalur Zoo",
+   "time": 120
+ },
+ {
+   "name": "vandalur zoo",
+   "latitude": 12.882649,
+   "longitude": 80.0876584,
+   "user_rating": 4.1,
+   "category": "zoo",
+   "num_user_rated": 1346,
+   "vicinity": "Vandalur Zoo, Peerakankaranai",
+   "time": 120
+ },
+ {
+   "name": "Vandaloor Biological Park",
+   "latitude": 12.8802388,
+   "longitude": 80.0829657,
+   "user_rating": 4.2,
+   "category": "zoo",
+   "num_user_rated": 234,
+   "vicinity": "Vandalur",
+   "time": 120
+ }
+]

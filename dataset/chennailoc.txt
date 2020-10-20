@@ -1,0 +1,158 @@
+adambakkam : 12.9880° N, 80.2047° E
+adayar:13.0012° N, 80.2565° E
+alandur:12.9975° N, 80.2006° E
+Alapakkam:13.0490° N, 80.1673° E
+Alwarpet:13.0335° N, 80.2531° E
+Alwarthirunagar:13.0426° N, 80.1840° E
+Ambattur:13.1143° N, 80.1548° E
+Aminjikarai:13.0698° N, 80.2245° E
+Anna Nagar:13.0850° N, 80.2101° E
+Annanur:13.1184° N, 80.1246° E
+Arumbakkam:13.0724° N, 80.2102° E
+Ashok Nagar:13.0373° N, 80.2123° E
+Avadi:13.1067° N, 80.0970° E
+Ayanavaram:13.0986° N, 80.2337° E
+Besant Nagar:13.0003° N, 80.2667° E
+Basin Bridge:13.1065° N, 80.2753° E
+Chepauk: 13.0633° N, 80.2812° E
+Chetput: 13.0714° N, 80.2417° E
+Chintadripet: 13.0750° N, 80.2698° E
+Chitlapakkam:12.9370° N, 80.1389° E
+Choolai:13.0919° N, 80.2642° E
+Choolaimedu:13.0632° N, 80.2250° E
+Chrompet:12.9516° N, 80.1462° E
+Egmore:13.0732° N, 80.2609° E
+Ekkaduthangal:13.0225° N, 80.2032° E
+Eranavur:13.1896° N, 80.3039° E
+Ennore:13.2146° N, 80.3203° E
+Foreshore Estate:13.0247° N, 80.2774° E
+Fort St. George:13.0796° N, 80.2874° E
+George Town:13.0969° N, 80.2865° E
+Gopalapuram:13.0489° N, 80.2586° E
+Government Estate:13.0696° N, 80.2728° E
+Guindy:13.0067° N, 80.2206° E
+Gerugambakkam:13.0136° N, 80.1353° E
+Injambakkam:12.9198° N, 80.2511° E
+Iyyapanthangal:13.0381° N, 80.1354° E
+Jafferkhanpet:13.0299° N, 80.2048° E
+Karapakkam:12.9191° N, 80.2300° E
+Kattivakkam:13.2161° N, 80.3182° E
+Kattupakkam:13.0414° N, 80.1267° E
+Kazhipattur:12.8236° N, 80.2310° E
+K.K. Nagar:13.0410° N, 80.1994° E
+Keelkattalai:12.9556° N, 80.1869° E
+Kattivakkam:13.2161° N, 80.3182° E
+Kilpauk:13.0828° N, 80.2417° E
+Kodambakkam:13.0521° N, 80.2255° E
+Kodungaiyur:13.1375° N, 80.2478° E
+Kolathur:13.1240° N, 80.2121° E
+Korattur:13.1082° N, 80.1834° E
+Korukkupet:13.1186° N, 80.2780° E
+Kottivakkam:12.9682° N, 80.2599° E
+Kotturpuram:13.0180° N, 80.2411° E
+Kottur:13.0180° N, 80.2411° E
+Kovilambakkam:12.9409° N, 80.1851° E
+Koyambedu:13.0694° N, 80.1948° E
+Kundrathur:12.9977° N, 80.0972° E
+Madhavaram:13.1488° N, 80.2306° E
+Madhavaram Milk Colony:13.1505° N, 80.2419° E
+Madipakkam:12.9647° N, 80.1961° E
+Madambakkam:12.9033° N, 80.1585° E
+Maduravoyal:13.0656° N, 80.1608° E
+Manali:13.1779° N, 80.2701° E
+Manali New Town:13.1933° N, 80.2708° E
+Manapakkam:13.0213° N, 80.1832° E
+Mandaveli:13.0279° N, 80.2605° E
+Mangadu:13.0270° N, 80.1107° E
+Mannady:13.0928° N, 80.2893° E
+Mathur:13.1714° N, 80.2455° E
+Medavakkam:12.9171° N, 80.1923° E
+Meenambakkam:12.9875° N, 80.1753° E
+MGR Nagar:13.0352° N, 80.1973° E
+Minjur:13.2789° N, 80.2623° E
+Mogappair:13.0837° N, 80.1750° E
+MKB Nagar:13.1258° N, 80.2622° E
+Mount Road 13.069774 and the longitude is: 80.271227.
+Moolakadai:13.1296° N, 80.2416° E
+Moulivakkam:13.0215° N, 80.1443° E
+Mugalivakkam:13.0210° N, 80.1614° E
+Mudichur:13.0827° N, 80.2707° E
+Mylapore:13.0368° N, 80.2676° E
+Nandanam:13.0300° N, 80.2421° E
+Nanganallur:12.9754° N, 80.1901° E
+Nanmangalam:12.9403° N, 80.1785° E
+Neelankarai:12.9492° N, 80.2547° E
+Nemilichery: 12.9486° N, 80.1638° E
+Nesapakkam:13.0379° N, 80.1920° E
+Nolambur:13.0754° N, 80.1680° E
+Noombal:13.0528° N, 80.1359° E
+Nungambakkam:13.0569° N, 80.2425° E
+Otteri:13.0921° N, 80.2510° E
+Padi:13.0965° N, 80.1845° E
+Pakkam:13.1279° N, 80.2560° E
+Palavakkam:12.9617° N, 80.2562° E
+Pallavaram:12.9675° N, 80.1491° E
+Pallikaranai:12.9349° N, 80.2137° E
+Pammal:12.9749° N, 80.1328° E
+Park Town:13.0796° N, 80.2752° E
+Parry's Corner:13.0896° N, 80.2882° E
+Pattabiram:13.1231° N, 80.0593° E
+Pattaravakkam:13.1103° N, 80.1673° E
+Pazhavanthangal:12.9890° N, 80.1882° E
+Peerkankaranai:12.9048° N, 80.0891° E
+Perambur:13.1210° N, 80.2326° E
+Peravallur:13.1179° N, 80.2316° E
+Perumbakkam:12.8923° N, 80.1889° E
+Perungalathur:12.9048° N, 80.0891° E
+Perungudi:12.9654° N, 80.2461° E
+Pozhichalur:12.9898° N, 80.1434° E
+Poonamallee:13.0473° N, 80.0945° E
+Porur:13.0382° N, 80.1565° E
+Pudupet:13.0691° N, 80.2642° E
+Pulianthope:13.0982° N, 80.2683° E
+Purasaiwalkam:13.0902° N, 80.2543° E
+Puthagaram:13.1195° N, 80.1893° E
+Puzhal:13.1585° N, 80.2037° E
+Puzhuthivakkam/ Ullagaram:12.9698° N, 80.1943° E
+Ramavaram:13.0317° N, 80.1817° E
+Red Hills:13.1865° N, 80.1999° E
+Royapettah:13.0540° N, 80.2641° E
+Royapuram:13.1137° N, 80.2954° E
+Saidapet:13.0213° N, 80.2231° E
+Saligramam:13.0545° N, 80.2011° E
+Santhome:13.0319° N, 80.2788° E
+Sembakkam:12.9234° N, 80.1588° E
+Selaiyur:12.9068° N, 80.1425° E
+Shenoy Nagar:13.0695° N, 80.2318° E
+Sholavaram:13.2360° N, 80.1635° E
+Sholinganallur:12.9010° N, 80.2279° E
+Sithalapakkam:12.8820° N, 80.1925° E
+Sowcarpet:13.0987° N, 80.2785° E
+St.Thomas Mount:13.0051° N, 80.1933° E
+Tambaram:12.9249° N, 80.1000° E
+Teynampet:13.0405° N, 80.2503° E
+Tharamani:12.9863° N, 80.2432° E
+T. Nagar:13.0418° N, 80.2341° E
+Thirumangalam:13.0835° N, 80.1945° E
+Thirumullaivoyal:13.1307° N, 80.1314° E
+Thiruneermalai:12.9581° N, 80.1192° E
+Thiruninravur:13.1181° N, 80.0336° E
+Thiruvanmiyur:12.9830° N, 80.2594° E
+Tiruverkadu:13.0734° N, 80.1269° E
+Thiruvotriyur:13.1643° N, 80.3001° E
+Thuraipakkam:12.9416° N, 80.2362° E
+Tirusulam:12.9695° N, 80.1704° E
+Tiruvallikeni:13.0588° N, 80.2756° E
+Tondiarpet:13.1261° N, 80.2880° E
+United India Colony:13.0527° N, 80.2259° E
+Vandalur:12.8913° N, 80.0810° E
+Vadapalani:13.0500° N, 80.2121° E
+Valasaravakkam:13.0403° N, 80.1723° E
+Vallalar Nagar:13.1328° N, 80.1761° E
+Vanagaram:13.0576° N, 80.1545° E
+Velachery:12.9815° N, 80.2180° E
+Villivakkam:13.1086° N, 80.2061° E
+Virugambakkam:13.0532° N, 80.1922° E
+Vyasarpadi:13.1184° N, 80.2594° E
+Washermanpet:13.1148° N, 80.2872° E
+West Mambalam:13.0383° N, 80.2209° E

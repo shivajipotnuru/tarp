@@ -1,0 +1,75 @@
+
+body {
+  background-color: black !important;
+
+}
+
+#d{
+    font-family:  'Roboto', sans-serif;
+  margin-top: 160px;
+  margin-left: 39.5% !important;
+ 
+  font-weight: bolder;
+  border-radius:10px;
+  color:white;
+  text-shadow: 2px 2px black;
+  letter-spacing: 5px;
+}
+#p{
+    font-family:  'Roboto', sans-serif;
+    text-shadow: 2px 2px black;
+  margin-top: 20px;
+  margin-left: 40% !important;
+  
+  font-weight: bolder;
+  border-radius:10px;
+  color:white;
+  letter-spacing: 5px;
+}
+
+#button{
+    /* remove default behavior */
+appearance:none;
+-webkit-appearance:none;
+/* usual styles */
+padding:10px;
+border:none;
+box-shadow:0 0 15px 4px gray;
+text-align: center;
+background-color:white;
+font-style: inherit;
+border-radius:30px;
+width: 250px;
+color:black;
+margin-top: 40px !important;
+margin-left: 40% !important;
+font-family: 'Montserrat', sans-serif;
+  font-stretch: wider;
+  font-weight: bolder;
+}
+#button:active{
+    background: black;
+    color:white;
+    border:none;
+    outline:none;
+}
+#button:hover{
+  outline:none;
+}
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  #button {
+    margin-left: 34% !important;
+    width:150px !important;
+    font-size: 10px !important;
+    
+  }
+  #d{
+    margin-left: 30% !important;
+    font-size: 20px !important;
+  }
+  #p{
+    margin-left: 30% !important;
+    font-size: 20px !important;
+  }
+}

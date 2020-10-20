@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+        <link href="frontpage.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    </head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/main">
+           <strong> Trip Easy</strong>
+        </a>
+    </nav>
+    <div id="slidable">
+    <h2 id="d"> W Ξ L C O M Ξ     </h2>
+    <h2 id="p">C H Ξ N И Λ I </h2>
+    <form id="theForm" action="/main">
+        
+        <input type="submit" id="button" value="Get Started"/>
+    </div>
+    
+    
+    </form>
+    <script>
+        $(function () {
+    $("#slidable").animate({
+        "margin-left": 0
+    }, 500);
+    $("#button").click(function (ev) {
+        ev.preventDefault();
+        
+        $("#slidable").fadeOut(2000, function () {
+            
+            $("#theForm").submit();
+        });
+    });
+});
+
+</script>
+</body>
+</html>

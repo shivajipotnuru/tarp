@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <style>
+            
+            #hello{
+appearance:none;
+-webkit-appearance:none;
+background:linear-gradient(to right,rgb(196, 49, 196),rgb(248, 166, 14));
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+font-weight: bold;
+position: relative;
+left: 400;
+top: 200;
+}
+        </style>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    </head>
+    <body>
+       <h1 id="hello"> Sorry!No places are open yet.</h1>
+    </body>
+</html>

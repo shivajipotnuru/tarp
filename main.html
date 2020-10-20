@@ -1,0 +1,42 @@
+<html>
+    <body>
+        <form action="/trip_path" method="GET">
+<input id="pac-input" name="hello" class="controls" type="text" placeholder="Search Box">
+<input type="number" placeholder="enter free time"/>
+<input type="submit" value="click to generate path" />
+<p id="hi"> HI</p>
+<!-- Replace the value of the key parameter with your own API key. -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsobkO9OTrOY83C0_WSjRhvTaV7z1mv7U&libraries=places&callback=initAutocomplete"
+         async defer></script>
+         <script>
+// This example adds a search box to a map, using the Google Place Autocomplete
+// feature. People can enter geographical searches. The search box will return a
+// pick list containing a mix of places and predicted search terms.
+
+// This example requires the Places library. Include the libraries=places
+// parameter when you first load the API. For example:
+// <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
+
+function initAutocomplete() {
+  
+
+  // Create the search box and link it to the UI element.
+  var input = document.getElementById('pac-input');
+  var autocomplete= new google.maps.places.Autocomplete(input,{types: ['geocode']});
+  autocomplete.setFields(['name','geometry']);
+  autocomplete.addListener('place_changed', fillInAddress);
+  function fillInAddress(){
+      var place=autocomplete.getPlace();
+      document.getElementById('hi').innerHTML=place.geometry.location.lat().toString()+" "+place.geometry.location.lng().toString();
+     // console.log(place.geometry);
+  }
+
+  // Bias the SearchBox results towards current map's viewport.
+  
+  // Listen for the event fired when the user selects a prediction and retrieve
+  // more details for that place.
+  
+    }
+    </script>
+    </body>
+    </html>

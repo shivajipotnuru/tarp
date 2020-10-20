@@ -1,0 +1,102 @@
+<html>
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <link rel='stylesheet' type='text/css' href='cards.css'/>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Lexend+Tera&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/main">
+           <strong> Trip Easy</strong>
+        </a>
+    </nav>
+    
+           <h3 id="plan">
+            PLAN MADE!!</br> </br>
+           </h3>
+          <div class="container">
+            <div class="row" id="contentPanel">
+            </div>
+        </div>
+        <p id="hello">
+          
+            WITH THIS PLAN,  </br>
+            TIME : </br>
+            SPENT: <%-path1.time_spent%> </br>
+            TRAVELLED:  <%-path1.time_travelled%></br>
+            REMAINING: <%-path1.remaining_time%></br> 
+            </p> 
+    <p id="hi">
+    <!-- <a  href="trip_path" target="_blank"> -->
+    <!-- View in Maps <svg class="bi bi-arrow-up-right-square-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm4.5 5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V6.707l-4.146 4.147a.5.5 0 0 1-.708-.708L9.293 6H6.5a.5.5 0 0 1 0-1z"/>
+      </svg>
+    </a> -->
+</p>
+
+
+    </body>
+    <script>
+
+        const div = document.createElement('div');
+       div.innerText = '<%- JSON.stringify(path1) %>'
+       var fpath=JSON.parse(div.innerHTML);
+       for(let i=1;i<fpath["curr_path"].length;i++){
+               var address="";
+               address+="<b>"+fpath["curr_path"][i]["place_details"]["name"]+"<br>"+"</b>";
+               address+="<b>ADDRESS: </b>"+fpath["curr_path"][i]["place_details"]["vicinity"]+"<br>";
+               let hr=fpath["curr_path"][i-1]["curr_end_time_hour"];
+              let min=fpath["curr_path"][i-1]["curr_end_time_min"]+(Math.floor(fpath["curr_path"][i]["timetakentoreachfromprev"]/60));
+              hr+=Math.floor(min/60);
+      min-=(Math.floor(min/60))*60;
+      let m=min.toString();
+      if(min<10)
+      m="0"+m;
+      if(hr<12)
+      m+="am";
+      else
+      {  if(hr>=13)
+        hr-=12;
+        m+="pm";
+      }
+        address+="<b> ETA: </b>"+hr.toString()+":"+m+"<br>";
+        address+="<b> Recommended time of stay </b> : "+fpath["curr_path"][i]["place_details"]["time"] + " in mins"+"<br>";
+        var curr_date=new Date();
+        var today=curr_date.getDay();
+        let x="";
+        if(today==0 || today==6)
+          {
+            for(let k=0;k<fpath["curr_path"][i]["place_details"]["weekend_open_time"].length;k++)
+            {
+              x+=fpath["curr_path"][i]["place_details"]["weekend_open_time"][k];
+              x+=" to ";
+              x+=fpath["curr_path"][i]["place_details"]["weekend_close_time"][k];
+              if(k!=fpath["curr_path"][i]["place_details"]["weekend_open_time"].length-1)
+              x+=" AND "
+            }
+          }
+        else
+        {
+          for(let k=0;k<fpath["curr_path"][i]["place_details"]["week_open_time"].length;k++)
+            {
+              x+=fpath["curr_path"][i]["place_details"]["week_open_time"][k];
+              x+=" to ";
+              x+=fpath["curr_path"][i]["place_details"]["week_close_time"][k];
+              if(k!=fpath["curr_path"][i]["place_details"]["week_open_time"].length-1)
+              x+=" AND "
+            }
+        }
+        address+="<b> OPENING TIMES </b>: "+x;
+        var myCol = $('<div class="col-sm-8 col-md-4 pb-4  d-flex "></div> ');
+        var myPanel = $('<div class="card w-100" ><div class="card-block"><h4 class="card-header text-center" >Destination '+i+'</h4><p class="card-text text-center">'+address+'</p></div></div>');
+        myPanel.appendTo(myCol);
+        myCol.appendTo('#contentPanel');
+       }
+      
+    </script>
+</html>
